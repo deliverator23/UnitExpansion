@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="UNIT_DLV_RIFLEMAN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_DLV_CUIRASSIER" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_DLV_LONGSWORDSMAN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_DLV_EXPLORER" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_DLV_GATLING_GUN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_DLV_MEDIEVAL_HORSEMAN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_DLV_TREBUCHET" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_DLV_MORTAR" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_DLV_SELF_PROPELLED_ARTILLERY" Kind="KIND_UNIT"/>
+
+		<Row Type="ABILITY_EXPLORER" Kind="KIND_ABILITY"/>
+	</Types>
+	<Units>
+		<Row UnitType="UNIT_DLV_CUIRASSIER" BaseMoves="4" Cost="360" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true"
+			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_DLV_CUIRASSIER_NAME"
+			 Description="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_HEAVY_CAVALRY"
+			 Maintenance="5" Combat="66" PrereqTech="TECH_BALLISTICS" StrategicResource="RESOURCE_NITER"
+			 MandatoryObsoleteTech="TECH_COMPOSITES"/>
+
+		<Row UnitType="UNIT_DLV_MEDIEVAL_HORSEMAN" BaseMoves="4" Cost="150" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true"
+			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_DLV_MEDIEVAL_HORSEMAN_NAME"
+			 Description="LOC_UNIT_DLV_MEDIEVAL_HORSEMAN_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_LIGHT_CAVALRY"
+			 Maintenance="2" Combat="44" PrereqTech="TECH_STIRRUPS" StrategicResource="RESOURCE_HORSES"
+			 MandatoryObsoleteTech="TECH_COMPOSITES"/>
+
+		<Row UnitType="UNIT_DLV_RIFLEMAN" BaseMoves="2" Cost="350" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true"
+			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_DLV_RIFLEMAN_NAME"
+			 Description="LOC_UNIT_DLV_RIFLEMAN_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE" Maintenance="4"
+			 Combat="64" PrereqTech="TECH_RIFLING" MandatoryObsoleteTech="TECH_SATELLITES"/>
+
+		<Row UnitType="UNIT_DLV_TREBUCHET" BaseMoves="2" Cost="200" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="false"
+			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_DLV_TREBUCHET_NAME"
+			 Description="LOC_UNIT_DLV_TREBUCHET_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_SIEGE" Maintenance="3"
+			 Combat="33" Range="2" PrereqTech="TECH_MILITARY_ENGINEERING" Bombard="45" MandatoryObsoleteTech="TECH_BALLISTICS"/>
+
+		<Row UnitType="UNIT_DLV_EXPLORER" BaseMoves="3" Cost="120" AdvisorType="ADVISOR_GENERIC" BaseSightRange="2" ZoneOfControl="true"
+			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_DLV_EXPLORER_NAME"
+			 Description="LOC_UNIT_DLV_EXPLORER_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_RECON" PseudoYieldType="PSEUDOYIELD_UNIT_DLV_EXPLORER" Maintenance="3"
+			 Combat="35" PrereqTech="TECH_CARTOGRAPHY" MandatoryObsoleteTech="TECH_RIFLING"/>
+
+		<Row UnitType="UNIT_DLV_LONGSWORDSMAN" BaseMoves="2" Cost="160" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true"
+			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_DLV_LONGSWORDSMAN_NAME"
+			 Description="LOC_UNIT_DLV_LONGSWORDSMAN_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE" Maintenance="2"
+			 Combat="46" PrereqTech="TECH_CASTLES" StrategicResource="RESOURCE_IRON" MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS"/>
+			 
+		<Row UnitType="UNIT_DLV_GATLING_GUN" BaseMoves="2" Cost="290" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2"
+			 ZoneOfControl="true" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT"
+			 Name="LOC_UNIT_DLV_GATLING_GUN_NAME" Description="LOC_UNIT_DLV_GATLING_GUN_DESCRIPTION" PurchaseYield="YIELD_GOLD"
+			 PromotionClass="PROMOTION_CLASS_ANTI_CAVALRY" Maintenance="3" Combat="59"
+			 MandatoryObsoleteTech="TECH_COMPOSITES" PrereqTech="TECH_SANITATION"/>
+	</Units>
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_SUMERIAN_WAR_CART" ReplacesUnitType="UNIT_HEAVY_CHARIOT"/>
+		<Row CivUniqueUnitType="UNIT_JAPANESE_SAMURAI" ReplacesUnitType="UNIT_DLV_LONGSWORDSMAN"/>
+	</UnitReplaces>
+	<UnitUpgrades>
+		<Row Unit="UNIT_DLV_TREBUCHET" UpgradeUnit="UNIT_BOMBARD"/>
+		<Row Unit="UNIT_DLV_MEDIEVAL_HORSEMAN" UpgradeUnit="UNIT_CAVALRY"/>
+		<Row Unit="UNIT_DLV_LONGSWORDSMAN" UpgradeUnit="UNIT_MUSKETMAN"/>
+		<Row Unit="UNIT_DLV_RIFLEMAN" UpgradeUnit="UNIT_INFANTRY"/>
+		<Row Unit="UNIT_DLV_CUIRASSIER" UpgradeUnit="UNIT_TANK"/>
+		<Row Unit="UNIT_DLV_EXPLORER" UpgradeUnit="UNIT_RANGER"/>
+		<Row Unit="UNIT_DLV_GATLING_GUN" UpgradeUnit="UNIT_AT_CREW"/>
+	</UnitUpgrades>
+	<UnitAIInfos>
+		<Row UnitType="UNIT_DLV_MEDIEVAL_HORSEMAN" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_DLV_MEDIEVAL_HORSEMAN" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_DLV_MEDIEVAL_HORSEMAN" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_DLV_MEDIEVAL_HORSEMAN" AiType="UNITTYPE_CAVALRY"/>
+		<Row UnitType="UNIT_DLV_MEDIEVAL_HORSEMAN" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_DLV_LONGSWORDSMAN" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_DLV_LONGSWORDSMAN" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_DLV_LONGSWORDSMAN" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_DLV_LONGSWORDSMAN" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_DLV_RIFLEMAN" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_DLV_RIFLEMAN" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_DLV_RIFLEMAN" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_DLV_RIFLEMAN" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_DLV_CUIRASSIER" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_DLV_CUIRASSIER" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_DLV_CUIRASSIER" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_DLV_CUIRASSIER" AiType="UNITTYPE_CAVALRY"/>
+		<Row UnitType="UNIT_DLV_CUIRASSIER" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_DLV_GATLING_GUN" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_DLV_GATLING_GUN" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_DLV_GATLING_GUN" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_DLV_GATLING_GUN" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_DLV_TREBUCHET" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_DLV_TREBUCHET" AiType="UNITTYPE_RANGED"/>
+		<Row UnitType="UNIT_DLV_TREBUCHET" AiType="UNITTYPE_SIEGE"/>
+		<Row UnitType="UNIT_DLV_TREBUCHET" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_DLV_EXPLORER" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_DLV_EXPLORER" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_DLV_EXPLORER" AiType="UNITTYPE_LAND_COMBAT"/>
+	</UnitAIInfos>
+	<Tags>
+		<Row Tag="CLASS_EXPLORER" Vocabulary="ABILITY_CLASS"/>
+	</Tags>
+	<TypeTags>
+		<Row Type="UNIT_DLV_TREBUCHET" Tag="CLASS_SIEGE"/>
+		<Row Type="UNIT_DLV_MEDIEVAL_HORSEMAN" Tag="CLASS_LIGHT_CAVALRY"/>
+		<Row Type="UNIT_DLV_LONGSWORDSMAN" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_DLV_RIFLEMAN" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_DLV_CUIRASSIER" Tag="CLASS_HEAVY_CAVALRY"/>
+		<Row Type="UNIT_DLV_EXPLORER" Tag="CLASS_RECON"/>
+		<Row Type="UNIT_DLV_EXPLORER" Tag="CLASS_EXPLORER"/>
+		<Row Type="UNIT_DLV_GATLING_GUN" Tag="CLASS_ANTI_CAVALRY"/>
+	</TypeTags>
+	<TypeTags>
+		<Row Type="ABILITY_EXPLORER" Tag="CLASS_EXPLORER"/>
+	</TypeTags>
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_EXPLORER" Name="LOC_ABILITY_EXPLORER" Description="LOC_ABILITY_EXPLORER_DESCRIPTION"/>
+    </UnitAbilities>
+	<UnitAbilityModifiers>
+		<Row>
+			<UnitAbilityType>ABILITY_EXPLORER</UnitAbilityType>
+			<ModifierId>MOD_IGNORE_CROSSING_RIVERS_COST</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_EXPLORER</UnitAbilityType>
+			<ModifierId>REDCOAT_DISEMBARK</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ANTI_CAVALRY</UnitAbilityType>
+			<ModifierId>PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ANTI_CAVALRY</UnitAbilityType>
+			<ModifierId>PLUS_20_VS_LIGHT_CAVALRY_COMBAT_BONUS</ModifierId>
+		</Row>
+	</UnitAbilityModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>OPPONENT_HEAVY_CAVALRY_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>PLUS_20_VS_LIGHT_CAVALRY_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>OPPONENT_LIGHT_CAVALRY_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierStrings>
+		<Row ModifierId="PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS" Context="Preview" Text="PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC"/>
+		<Row ModifierId="PLUS_20_VS_LIGHT_CAVALRY_COMBAT_BONUS" Context="Preview" Text="PLUS_20_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC"/>
+	</ModifierStrings>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>15</Value>
+		</Row>
+		<Row>
+			<ModifierId>PLUS_20_VS_LIGHT_CAVALRY_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>20</Value>
+		</Row>
+	</ModifierArguments>
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>OPPONENT_HEAVY_CAVALRY_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>OPPONENT_LIGHT_CAVALRY_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>	
+	</RequirementSets>	
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>OPPONENT_HEAVY_CAVALRY_REQUIREMENTS</RequirementSetId>
+			<RequirementId>ANTI_CAVALRY_OPPONENT_REQUIREMENT_HC</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>OPPONENT_LIGHT_CAVALRY_REQUIREMENTS</RequirementSetId>
+			<RequirementId>ANTI_CAVALRY_OPPONENT_REQUIREMENT_LC</RequirementId>
+		</Row>
+	</RequirementSetRequirements>	
+</GameData>
