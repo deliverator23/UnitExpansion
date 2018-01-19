@@ -49,7 +49,7 @@
 		<Row UnitType="UNIT_DLV_GATLING_GUN" BaseMoves="2" Cost="290" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2"
 			 ZoneOfControl="false" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT"
 			 Name="LOC_UNIT_GATLING_GUN_NAME" Description="LOC_UNIT_GATLING_GUN_DESCRIPTION" PurchaseYield="YIELD_GOLD"
-			 PromotionClass="PROMOTION_CLASS_RANGED" Maintenance="6" Combat="55" RangedCombat="65" Range="1"
+			 PromotionClass="PROMOTION_CLASS_RANGED" Maintenance="4" Combat="56" RangedCombat="66" Range="1"
 			 MandatoryObsoleteTech="TECH_COMPOSITES" PrereqTech="TECH_SANITATION"/>
 
 		<Row UnitType="UNIT_DLV_MORTAR" BaseMoves="2" Cost="540" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2"
