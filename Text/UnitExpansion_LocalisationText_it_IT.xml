@@ -337,11 +337,11 @@
 		<Replace Language="it_IT" Tag="PLUS_10_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
 			<Text>+10 alla [ICON_Strength] Forza di combattimento contro cavalleria pesante.</Text>
 		</Replace>
-		<Replace Language="it_IT" Tag="PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>+15 alla [ICON_Strength] Forza di combattimento contro cavalleria pesante.</Text>
+		<Replace Language="it_IT" Tag="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
+			<Text>+20 alla [ICON_Strength] Forza di combattimento contro cavalleria pesante.</Text>
 		</Replace>
-		<Replace Language="it_IT" Tag="PLUS_20_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>+20 alla [ICON_Strength] Forza di combattimento contro cavalleria leggera.</Text>
+		<Replace Language="it_IT" Tag="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC">
+			<Text>+15 alla [ICON_Strength] Forza di combattimento contro cavalleria leggera.</Text>
 		</Replace>
 		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HIRDMAN_CHAPTER_HISTORY_PARA_1">
 			<Text>The hird, in Norwegian history, was originally an informal retinue of personal armed companions, hirdmen or housecarls, but came to mean not only the nucleus ('Guards') of the royal army, but also developed into a more formal royal court household. When the Norwegian royal hird had developed into a formal court, hirdman became the title of the highest of its four ranks, those magnates who were allowed to seat in the royal council (the closest feudal equivalent of a cabinet) and thus had a say in governmental and other important matters.</Text>

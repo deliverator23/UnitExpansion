@@ -343,14 +343,11 @@
 		<Replace Language="ru_RU" Tag="PLUS_10_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
 			<Text>+10 [ICON_Strength] к боевой мощи против тяжелой кавалерии.</Text>
 		</Replace>
-		<Replace Language="ru_RU" Tag="PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>+15 [ICON_Strength] к боевой мощи против тяжелой кавалерии.</Text>
+		<Replace Language="ru_RU" Tag="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
+			<Text>+20 [ICON_Strength] к боевой мощи против тяжелой кавалерии.</Text>
 		</Replace>
-		<Replace Language="ru_RU" Tag="PLUS_20_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>+20 [ICON_Strength] к боевой мощи против лёгкой кавалерии.</Text>
-		</Replace>
-		<Replace Language="ru_RU" Tag="LOC_PROMOTION_AMBUSH_DESCRIPTION">
-			<Text>+20 [ICON_Strength] к боевой мощи при защите.</Text>
+		<Replace Language="ru_RU" Tag="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC">
+			<Text>+15 [ICON_Strength] к боевой мощи против лёгкой кавалерии.</Text>
 		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HIRDMAN_CHAPTER_HISTORY_PARA_1">
 			<Text>Хирд — боевая дружина в Скандинавии эпохи викингов. Хирд подчинялся конунгу, ярлу или херсиру. Как правило, дружинники-хирдманны полностью повиновались вождю, представляя собой подобие семьи. Термин происходит от древнескандинавского слова hirð и от древнеаглийского слова hir(e)d, означающее 'домашнее хозяйство, семья, свита, суд'. Также специализированный термин hirð (швед. grið) на датских рунических камнях известен с X века. Когда норвежский королевский хирд превратился в официальный суд, хирдманн стал титулом самого высокого из четырех его рядов, тех магнатов, которым было разрешено находиться в королевском совете (ближайшем феодальном эквиваленте кабинета) и, таким образом, они имели право голоса по правительственным и другим важным вопросам.</Text>
