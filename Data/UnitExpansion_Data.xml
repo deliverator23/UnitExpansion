@@ -12,6 +12,7 @@
 		<Row Type="UNIT_DLV_SELF_PROPELLED_ARTILLERY" Kind="KIND_UNIT"/>
 
 		<Row Type="ABILITY_EXPLORER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_PLUS_10_DEFENDER" Kind="KIND_ABILITY"/>
 	</Types>
 	<Units>
 		<Row UnitType="UNIT_DLV_CUIRASSIER" BaseMoves="4" Cost="360" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true"
@@ -63,7 +64,6 @@
 			 Name="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME" Description="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION"
 			 PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_SIEGE" Maintenance="8" Combat="70" Range="3"
 			 PrereqTech="TECH_GUIDANCE_SYSTEMS" Bombard="95"/>
-
 	</Units>
 	<UnitReplaces>
 		<Row CivUniqueUnitType="UNIT_SUMERIAN_WAR_CART" ReplacesUnitType="UNIT_HEAVY_CHARIOT"/>
@@ -106,25 +106,33 @@
 		<Row UnitType="UNIT_DLV_TREBUCHET" AiType="UNITTYPE_RANGED"/>
 		<Row UnitType="UNIT_DLV_TREBUCHET" AiType="UNITTYPE_SIEGE"/>
 		<Row UnitType="UNIT_DLV_TREBUCHET" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_DLV_SELF_PROPELLED_ARTILLERY" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_DLV_SELF_PROPELLED_ARTILLERY" AiType="UNITTYPE_RANGED"/>
+		<Row UnitType="UNIT_DLV_SELF_PROPELLED_ARTILLERY" AiType="UNITTYPE_SIEGE"/>
+		<Row UnitType="UNIT_DLV_SELF_PROPELLED_ARTILLERY" AiType="UNITTYPE_LAND_COMBAT"/>
 		<Row UnitType="UNIT_DLV_EXPLORER" AiType="UNITAI_EXPLORE"/>
 		<Row UnitType="UNIT_DLV_EXPLORER" AiType="UNITTYPE_MELEE"/>
 		<Row UnitType="UNIT_DLV_EXPLORER" AiType="UNITTYPE_LAND_COMBAT"/>
 	</UnitAIInfos>
 	<Tags>
 		<Row Tag="CLASS_EXPLORER" Vocabulary="ABILITY_CLASS"/>
+		<Row Tag="CLASS_PLUS_10_DEFENDER" Vocabulary="ABILITY_CLASS"/>
 	</Tags>
 	<TypeTags>
 		<Row Type="UNIT_DLV_TREBUCHET" Tag="CLASS_SIEGE"/>
+		<Row Type="UNIT_DLV_SELF_PROPELLED_ARTILLERY" Tag="CLASS_SIEGE"/>
 		<Row Type="UNIT_DLV_MEDIEVAL_HORSEMAN" Tag="CLASS_LIGHT_CAVALRY"/>
 		<Row Type="UNIT_DLV_LONGSWORDSMAN" Tag="CLASS_MELEE"/>
 		<Row Type="UNIT_DLV_RIFLEMAN" Tag="CLASS_MELEE"/>
 		<Row Type="UNIT_DLV_CUIRASSIER" Tag="CLASS_HEAVY_CAVALRY"/>
 		<Row Type="UNIT_DLV_EXPLORER" Tag="CLASS_RECON"/>
 		<Row Type="UNIT_DLV_EXPLORER" Tag="CLASS_EXPLORER"/>
-		<Row Type="UNIT_DLV_GATLING_GUN" Tag="CLASS_ANTI_CAVALRY"/>
+		<Row Type="UNIT_DLV_GATLING_GUN" Tag="CLASS_RANGED"/>
+		<Row Type="UNIT_DLV_GATLING_GUN" Tag="CLASS_PLUS_10_DEFENDER"/>
 	</TypeTags>
 	<TypeTags>
 		<Row Type="ABILITY_EXPLORER" Tag="CLASS_EXPLORER"/>
+		<Row Type="ABILITY_PLUS_10_DEFENDER" Tag="CLASS_PLUS_10_DEFENDER"/>
 	</TypeTags>
 	<UnitAbilities>
 		<Row UnitAbilityType="ABILITY_EXPLORER" Name="LOC_ABILITY_EXPLORER" Description="LOC_ABILITY_EXPLORER_DESCRIPTION"/>
@@ -140,39 +148,54 @@
 		</Row>
 		<Row>
 			<UnitAbilityType>ABILITY_ANTI_CAVALRY</UnitAbilityType>
-			<ModifierId>PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
+			<ModifierId>PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
 		</Row>
 		<Row>
 			<UnitAbilityType>ABILITY_ANTI_CAVALRY</UnitAbilityType>
-			<ModifierId>PLUS_20_VS_LIGHT_CAVALRY_COMBAT_BONUS</ModifierId>
+			<ModifierId>PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_PLUS_10_DEFENDER</UnitAbilityType>
+			<ModifierId>PLUS_10_WHEN_DEFENDING_COMBAT_BONUS</ModifierId>
 		</Row>
 	</UnitAbilityModifiers>
 	<Modifiers>
 		<Row>
-			<ModifierId>PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
+			<ModifierId>PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
 			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
 			<SubjectRequirementSetId>OPPONENT_HEAVY_CAVALRY_REQUIREMENTS</SubjectRequirementSetId>
 		</Row>
 		<Row>
-			<ModifierId>PLUS_20_VS_LIGHT_CAVALRY_COMBAT_BONUS</ModifierId>
+			<ModifierId>PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
 			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
 			<SubjectRequirementSetId>OPPONENT_LIGHT_CAVALRY_REQUIREMENTS</SubjectRequirementSetId>
 		</Row>
+		<Row>
+			<ModifierId>PLUS_10_WHEN_DEFENDING_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_DEFENDER_REQUIREMENTS_SET</SubjectRequirementSetId>
+		</Row>
 	</Modifiers>
 	<ModifierStrings>
+		<Row ModifierId="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS" Context="Preview" Text="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC"/>
 		<Row ModifierId="PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS" Context="Preview" Text="PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC"/>
-		<Row ModifierId="PLUS_20_VS_LIGHT_CAVALRY_COMBAT_BONUS" Context="Preview" Text="PLUS_20_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC"/>
+		<Row ModifierId="PLUS_10_WHEN_DEFENDING_COMBAT_BONUS" Context="Preview" Text="PLUS_10_WHEN_DEFENDING_COMBAT_BONUS_DESC"/>
 	</ModifierStrings>
 	<ModifierArguments>
+		<Row>
+			<ModifierId>PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>20</Value>
+		</Row>
 		<Row>
 			<ModifierId>PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
 			<Name>Amount</Name>
 			<Value>15</Value>
 		</Row>
 		<Row>
-			<ModifierId>PLUS_20_VS_LIGHT_CAVALRY_COMBAT_BONUS</ModifierId>
+			<ModifierId>PLUS_10_WHEN_DEFENDING_COMBAT_BONUS</ModifierId>
 			<Name>Amount</Name>
-			<Value>20</Value>
+			<Value>10</Value>
 		</Row>
 	</ModifierArguments>
 	<RequirementSets>
