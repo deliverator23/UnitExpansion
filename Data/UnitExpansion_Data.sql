@@ -38,11 +38,9 @@ UPDATE Units SET Cost = 180 WHERE UnitType = 'UNIT_PIKEMAN';
 
 UPDATE Units SET BaseSightRange = 2 WHERE UnitType='UNIT_NATURALIST';
 
+UPDATE Units SET Bombard = 0, RangedCombat = 95, BaseMoves = 3, PromotionClass = 'PROMOTION_CLASS_RANGED' WHERE UnitType = 'UNIT_ROCKET_ARTILLERY';
+
 UPDATE ModifierArguments SET Value = 9 WHERE ModifierId = 'CONQUISTADOR_SPECIFIC_UNIT_COMBAT' AND Name = 'Amount';
-
---UPDATE Machine Gun
---UPDATE Rocket Launcher
-
 
 /* Anti Cavalry boost */
 DELETE FROM UnitAbilityModifiers WHERE UnitAbilityType = 'ABILITY_ANTI_CAVALRY' AND ModifierId = 'ANTI_CAVALRY_COMBAT_BONUS';

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <GameData>
 	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME">
+			<Text>Rocket Launcher</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME">
 			<Text>Self Propelled Artillery</Text>
 		</Replace>

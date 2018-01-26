@@ -58,7 +58,7 @@
 			 PromotionClass="PROMOTION_CLASS_RANGED" Maintenance="6" Combat="65" RangedCombat="75" Range="2"
 			 PrereqTech="TECH_ADVANCED_BALLISTICS"/>
 
-		<Row UnitType="UNIT_DLV_SELF_PROPELLED_ARTILLERY" BaseMoves="2" Cost="680" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="3"
+		<Row UnitType="UNIT_DLV_SELF_PROPELLED_ARTILLERY" BaseMoves="3" Cost="680" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="3"
 			 ZoneOfControl="false" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT"
 			 Name="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME" Description="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION"
 			 PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_SIEGE" Maintenance="8" Combat="70" Range="3"
