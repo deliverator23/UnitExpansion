@@ -15,7 +15,7 @@
 				<m_Fields>
 					<m_Values>
 						<Element class="AssetObjects:ArtDefReferenceValue">
-							<m_ElementName text="Archer"/>
+							<m_ElementName text="Scattered"/>
 							<m_RootCollectionName text="UnitFormationTypes"/>
 							<m_ArtDefPath text="Units.artdef"/>
 							<m_CollectionIsLocked>false</m_CollectionIsLocked>
@@ -27429,6 +27429,118 @@
 				<m_Name text="Greek_Hoplite"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
+            <Element>
+                <m_Fields>
+                    <m_Values/>
+                </m_Fields>
+                <m_ChildCollections>
+                    <Element>
+                        <m_CollectionName text="Colors"/>
+                        <m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+                        <Element>
+                            <m_Fields>
+                                <m_Values>
+                                    <Element class="AssetObjects:RGBValue">
+                                        <m_r>100</m_r>
+                                        <m_g>129</m_g>
+                                        <m_b>50</m_b>
+                                        <m_ParamName text="Color"/>
+                                    </Element>
+                                </m_Values>
+                            </m_Fields>
+                            <m_ChildCollections/>
+                            <m_Name text="Colors001"/>
+                            <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+                        </Element>
+                    </Element>
+                </m_ChildCollections>
+                <m_Name text="CV_Vehicle_NorthernEuropean"/>
+                <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+            </Element>
+            <Element>
+                <m_Fields>
+                    <m_Values/>
+                </m_Fields>
+                <m_ChildCollections>
+                    <Element>
+                        <m_CollectionName text="Colors"/>
+                        <m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+                        <Element>
+                            <m_Fields>
+                                <m_Values>
+                                    <Element class="AssetObjects:RGBValue">
+                                        <m_r>178</m_r>
+                                        <m_g>150</m_g>
+                                        <m_b>110</m_b>
+                                        <m_ParamName text="Color"/>
+                                    </Element>
+                                </m_Values>
+                            </m_Fields>
+                            <m_ChildCollections/>
+                            <m_Name text="Colors001"/>
+                            <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+                        </Element>
+                    </Element>
+                </m_ChildCollections>
+                <m_Name text="CV_Vehicle_Mediterranean"/>
+                <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+            </Element>
+            <Element>
+                <m_Fields>
+                    <m_Values/>
+                </m_Fields>
+                <m_ChildCollections>
+                    <Element>
+                        <m_CollectionName text="Colors"/>
+                        <m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+                        <Element>
+                            <m_Fields>
+                                <m_Values>
+                                    <Element class="AssetObjects:RGBValue">
+                                        <m_r>214</m_r>
+                                        <m_g>187</m_g>
+                                        <m_b>113</m_b>
+                                        <m_ParamName text="Color"/>
+                                    </Element>
+                                </m_Values>
+                            </m_Fields>
+                            <m_ChildCollections/>
+                            <m_Name text="Colors001"/>
+                            <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+                        </Element>
+                    </Element>
+                </m_ChildCollections>
+                <m_Name text="CV_Vehicle_Mughal"/>
+                <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+            </Element>
+            <Element>
+                <m_Fields>
+                    <m_Values/>
+                </m_Fields>
+                <m_ChildCollections>
+                    <Element>
+                        <m_CollectionName text="Colors"/>
+                        <m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+                        <Element>
+                            <m_Fields>
+                                <m_Values>
+                                    <Element class="AssetObjects:RGBValue">
+                                        <m_r>110</m_r>
+                                        <m_g>100</m_g>
+                                        <m_b>100</m_b>
+                                        <m_ParamName text="Color"/>
+                                    </Element>
+                                </m_Values>
+                            </m_Fields>
+                            <m_ChildCollections/>
+                            <m_Name text="Colors001"/>
+                            <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+                        </Element>
+                    </Element>
+                </m_ChildCollections>
+                <m_Name text="CV_Vehicle_Any"/>
+                <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+            </Element>
 			<Element>
 				<m_Fields>
 					<m_Values/>

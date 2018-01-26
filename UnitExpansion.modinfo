@@ -238,12 +238,14 @@
 		<File>Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_thracepelta_n1</File>
 		<File>Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_White_AO</File>
 		<File>Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_White_Metal</File>
-		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_SPGun_a_SPGun_t</File>
+		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_SPGun_a_SPGun_tg2</File>
 		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_SPGun_ao</File>
-		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_SPGun_g</File>
 		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Mortar_ao</File>
 		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Mortar_n0</File>
 		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Mortar_n1</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Mortar_a_null</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_127_Grey_Metalness</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_127_Grey_Gloss</File>
 		<File>Platforms/MacOS/BLPs/units/accessories.blp</File>
 		<File>Platforms/MacOS/BLPs/units/apache.blp</File>
 		<File>Platforms/MacOS/BLPs/units/armoredHorseman.blp</File>
@@ -406,12 +408,14 @@
 		<File>Platforms\Windows\BLPs\SHARED_DATA\TEXTURE_thracepelta_n1</File>
 		<File>Platforms\Windows\BLPs\SHARED_DATA\TEXTURE_White_AO</File>
 		<File>Platforms\Windows\BLPs\SHARED_DATA\TEXTURE_White_Metal</File>
-		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_SPGun_a_SPGun_t</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_SPGun_a_SPGun_tg2</File>
 		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_SPGun_ao</File>
-		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_SPGun_g</File>
 		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Mortar_ao</File>
 		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Mortar_n0</File>
 		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Mortar_n1</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Mortar_a_null</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_127_Grey_Metalness</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_127_Grey_Gloss</File>
 		<File>Platforms/Windows/BLPs/units/accessories.blp</File>
 		<File>Platforms/Windows/BLPs/units/apache.blp</File>
 		<File>Platforms/Windows/BLPs/units/armoredHorseman.blp</File>
