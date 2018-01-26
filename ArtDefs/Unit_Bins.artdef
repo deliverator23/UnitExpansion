@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects::ArtDefSet>
+<AssetObjects:ArtDefSet>
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
-		<build>253</build>
-		<revision>867</revision>
+		<build>315</build>
+		<revision>805</revision>
 	</m_Version>
 	<m_TemplateName text="Units"/>
 	<m_RootCollections>
@@ -65,72 +65,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects::ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
-										</m_Fields>
-										<m_ChildCollections>
-											<Element>
-												<m_CollectionName text="Assets"/>
-												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-												<Element>
-													<m_Fields>
-														<m_Values>
-															<Element class="AssetObjects:BLPEntryValue">
-																<m_EntryName text="Self_Propelled_Artillery"/>
-																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="self_propelled_artillery.xlp"/>
-																<m_BLPPackage text="units/self_propelled_artillery"/>
-																<m_LibraryName text="Unit"/>
-																<m_ParamName text="Asset"/>
-															</Element>
-															<Element class="AssetObjects::FloatValue">
-																<m_fValue>1.000000</m_fValue>
-																<m_ParamName text="Scale"/>
-															</Element>
-														</m_Values>
-													</m_Fields>
-													<m_ChildCollections/>
-													<m_Name text="Self_Propelled_Artillery"/>
-													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-												</Element>
-											</Element>
-										</m_ChildCollections>
-										<m_Name text="Any"/>
-										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-									</Element>
-								</Element>
-							</m_ChildCollections>
-							<m_Name text="Self_Propelled_Artillery"/>
-							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-						</Element>
-						<Element>
-							<m_Fields>
-								<m_Values/>
-							</m_Fields>
-							<m_ChildCollections>
-								<Element>
-									<m_CollectionName text="Cultures"/>
-									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-									<Element>
-										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects::ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -147,7 +82,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -177,16 +112,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects::ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -203,7 +129,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -233,16 +159,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -319,7 +236,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -349,16 +266,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects::ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -375,7 +283,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -405,16 +313,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects::ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -431,7 +330,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -461,16 +360,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects::ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -487,7 +377,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -517,16 +407,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -573,16 +454,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -642,16 +514,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects::ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -668,7 +531,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -711,16 +574,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects::ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -737,7 +591,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -758,7 +612,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -779,7 +633,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -800,7 +654,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -821,7 +675,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -842,7 +696,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -863,7 +717,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -884,7 +738,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -905,7 +759,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -926,7 +780,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -956,16 +810,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects::ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -982,7 +827,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -1025,16 +870,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects::ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1051,7 +887,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -1081,16 +917,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects::ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1107,7 +934,7 @@
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
-															<Element class="AssetObjects::FloatValue">
+															<Element class="AssetObjects:FloatValue">
 																<m_fValue>1.000000</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
@@ -1137,16 +964,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1206,16 +1024,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1262,16 +1071,54 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Self_Propelled_Artillery"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="self_propelled_artillery.xlp"/>
+																<m_BLPPackage text="units/self_propelled_artillery"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 												</Element>
-											</m_Values>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Self_Propelled_Artillery"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1318,16 +1165,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1361,16 +1199,7 @@
 									</Element>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1404,16 +1233,7 @@
 									</Element>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1447,16 +1267,7 @@
 									</Element>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1490,16 +1301,7 @@
 									</Element>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1533,16 +1335,7 @@
 									</Element>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1576,16 +1369,7 @@
 									</Element>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1619,16 +1403,7 @@
 									</Element>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1688,16 +1463,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1744,16 +1510,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1813,16 +1570,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1869,16 +1617,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1930,11 +1669,58 @@
 													<m_ElementName text=""/>
 													<m_RootCollectionName text="UnitTintTypes"/>
 													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_CollectionIsLocked>false</m_CollectionIsLocked>
 													<m_TemplateName text=""/>
 													<m_ParamName text="Tint"/>
 												</Element>
 											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="InfantryMortar_ArmorA"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="mortar.xlp"/>
+																<m_BLPPackage text="units/mortar"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="MortarInfantry"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -1981,16 +1767,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2037,16 +1814,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2093,16 +1861,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2149,16 +1908,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2205,16 +1955,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2261,16 +2002,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2330,16 +2062,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2399,16 +2122,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2455,16 +2169,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2511,16 +2216,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2567,16 +2263,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2623,16 +2310,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2734,16 +2412,7 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
-													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>true</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
-													<m_ParamName text="Tint"/>
-												</Element>
-											</m_Values>
+											<m_Values/>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -3338,7 +3007,7 @@
 													<m_Fields>
 														<m_Values>
 															<Element class="AssetObjects:BLPEntryValue">
-																<m_EntryName text="Modern_Mortar"/>
+																<m_EntryName text="ModernMortar"/>
 																<m_XLPClass text="Unit"/>
 																<m_XLPPath text="mortar.xlp"/>
 																<m_BLPPackage text="units/mortar"/>
@@ -3384,5 +3053,5 @@
 			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 		</Element>
 	</m_RootCollections>
-</AssetObjects::ArtDefSet>
+</AssetObjects:ArtDefSet>
 

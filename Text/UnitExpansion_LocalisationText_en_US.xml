@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <GameData>
 	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME">
+			<Text>Self Propelled Artillery</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION">
+			<Text>Self Propelled Artillery Description.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MORTAR_NAME">
+			<Text>Mortar</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MORTAR_DESCRIPTION">
+			<Text>Mortar Description.</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_CAMEL_ARCHER_NAME">
 			<Text>Camel Archer</Text>
 		</Replace>

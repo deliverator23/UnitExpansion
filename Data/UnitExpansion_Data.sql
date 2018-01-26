@@ -40,6 +40,9 @@ UPDATE Units SET BaseSightRange = 2 WHERE UnitType='UNIT_NATURALIST';
 
 UPDATE ModifierArguments SET Value = 9 WHERE ModifierId = 'CONQUISTADOR_SPECIFIC_UNIT_COMBAT' AND Name = 'Amount';
 
+--UPDATE Machine Gun
+--UPDATE Rocket Launcher
+
 
 /* Anti Cavalry boost */
 DELETE FROM UnitAbilityModifiers WHERE UnitAbilityType = 'ABILITY_ANTI_CAVALRY' AND ModifierId = 'ANTI_CAVALRY_COMBAT_BONUS';

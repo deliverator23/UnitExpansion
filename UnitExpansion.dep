@@ -63,10 +63,12 @@
                 <Element text="units/humans.blp"/>
                 <Element text="units/ironside.blp"/>
                 <Element text="units/modernInfantry2.blp"/>
+                <Element text="units/mortar.blp"/>
                 <Element text="units/peltast.blp"/>
                 <Element text="units/recon.blp"/>
                 <Element text="units/rifleman.blp"/>
                 <Element text="units/roundShields.blp"/>
+                <Element text="units/self_propelled_artillery.blp"/>
                 <Element text="units/septireme.blp"/>
                 <Element text="units/tanks.blp"/>
                 <Element text="units/trebuchet.blp"/>

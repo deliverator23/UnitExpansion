@@ -238,6 +238,12 @@
 		<File>Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_thracepelta_n1</File>
 		<File>Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_White_AO</File>
 		<File>Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_White_Metal</File>
+		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_SPGun_a_SPGun_t</File>
+		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_SPGun_ao</File>
+		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_SPGun_g</File>
+		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Mortar_ao</File>
+		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Mortar_n0</File>
+		<File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Mortar_n1</File>
 		<File>Platforms/MacOS/BLPs/units/accessories.blp</File>
 		<File>Platforms/MacOS/BLPs/units/apache.blp</File>
 		<File>Platforms/MacOS/BLPs/units/armoredHorseman.blp</File>
@@ -247,10 +253,12 @@
 		<File>Platforms/MacOS/BLPs/units/humans.blp</File>
 		<File>Platforms/MacOS/BLPs/units/ironside.blp</File>
 		<File>Platforms/MacOS/BLPs/units/modernInfantry2.blp</File>
+		<File>Platforms/MacOS/BLPs/units/mortar.blp</File>
 		<File>Platforms/MacOS/BLPs/units/peltast.blp</File>
 		<File>Platforms/MacOS/BLPs/units/recon.blp</File>
 		<File>Platforms/MacOS/BLPs/units/rifleman.blp</File>
 		<File>Platforms/MacOS/BLPs/units/roundShields.blp</File>
+		<File>Platforms/MacOS/BLPs/units/self_propelled_artillery.blp</File>
 		<File>Platforms/MacOS/BLPs/units/septireme.blp</File>
 		<File>Platforms/MacOS/BLPs/units/tanks.blp</File>
 		<File>Platforms/MacOS/BLPs/units/trebuchet.blp</File>
@@ -398,6 +406,12 @@
 		<File>Platforms\Windows\BLPs\SHARED_DATA\TEXTURE_thracepelta_n1</File>
 		<File>Platforms\Windows\BLPs\SHARED_DATA\TEXTURE_White_AO</File>
 		<File>Platforms\Windows\BLPs\SHARED_DATA\TEXTURE_White_Metal</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_SPGun_a_SPGun_t</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_SPGun_ao</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_SPGun_g</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Mortar_ao</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Mortar_n0</File>
+		<File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Mortar_n1</File>
 		<File>Platforms/Windows/BLPs/units/accessories.blp</File>
 		<File>Platforms/Windows/BLPs/units/apache.blp</File>
 		<File>Platforms/Windows/BLPs/units/armoredHorseman.blp</File>
@@ -407,10 +421,12 @@
 		<File>Platforms/Windows/BLPs/units/humans.blp</File>
 		<File>Platforms/Windows/BLPs/units/ironside.blp</File>
 		<File>Platforms/Windows/BLPs/units/modernInfantry2.blp</File>
+		<File>Platforms/Windows/BLPs/units/mortar.blp</File>
 		<File>Platforms/Windows/BLPs/units/peltast.blp</File>
 		<File>Platforms/Windows/BLPs/units/recon.blp</File>
 		<File>Platforms/Windows/BLPs/units/rifleman.blp</File>
 		<File>Platforms/Windows/BLPs/units/roundShields.blp</File>
+		<File>Platforms/Windows/BLPs/units/self_propelled_artillery.blp</File>
 		<File>Platforms/Windows/BLPs/units/septireme.blp</File>
 		<File>Platforms/Windows/BLPs/units/tanks.blp</File>
 		<File>Platforms/Windows/BLPs/units/trebuchet.blp</File>
