@@ -12,6 +12,7 @@
 		<Row Type="UNIT_DLV_SELF_PROPELLED_ARTILLERY" Kind="KIND_UNIT"/>
 
 		<Row Type="ABILITY_EXPLORER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_AUTOMATIC_GUNFIRE" Kind="KIND_ABILITY"/>
 	</Types>
 	<Units>
 		<Row UnitType="UNIT_DLV_CUIRASSIER" BaseMoves="4" Cost="360" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true"
@@ -119,6 +120,7 @@
 	</UnitAIInfos>
 	<Tags>
 		<Row Tag="CLASS_EXPLORER" Vocabulary="ABILITY_CLASS"/>
+		<Row Tag="CLASS_AUTOMATIC_GUN" Vocabulary="ABILITY_CLASS"/>
 	</Tags>
 	<TypeTags>
 		<Row Type="UNIT_DLV_TREBUCHET" Tag="CLASS_SIEGE"/>
@@ -130,12 +132,16 @@
 		<Row Type="UNIT_DLV_EXPLORER" Tag="CLASS_RECON"/>
 		<Row Type="UNIT_DLV_EXPLORER" Tag="CLASS_EXPLORER"/>
 		<Row Type="UNIT_DLV_GATLING_GUN" Tag="CLASS_RANGED"/>
+		<Row Type="UNIT_DLV_GATLING_GUN" Tag="CLASS_AUTOMATIC_GUN"/>
+		<Row Type="UNIT_MACHINE_GUN" Tag="CLASS_AUTOMATIC_GUN"/>
 	</TypeTags>
 	<TypeTags>
 		<Row Type="ABILITY_EXPLORER" Tag="CLASS_EXPLORER"/>
+		<Row Type="ABILITY_AUTOMATIC_GUNFIRE" Tag="CLASS_AUTOMATIC_GUN"/>
 	</TypeTags>
 	<UnitAbilities>
 		<Row UnitAbilityType="ABILITY_EXPLORER" Name="LOC_ABILITY_EXPLORER" Description="LOC_ABILITY_EXPLORER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_AUTOMATIC_GUNFIRE" Name="LOC_ABILITY_AUTOMATIC_GUNFIRE" Description="LOC_ABILITY_AUTOMATIC_GUNFIRE_DESCRIPTION"/>
     </UnitAbilities>
 	<UnitAbilityModifiers>
 		<Row>
@@ -154,6 +160,10 @@
 			<UnitAbilityType>ABILITY_ANTI_CAVALRY</UnitAbilityType>
 			<ModifierId>PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
 		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_AUTOMATIC_GUNFIRE</UnitAbilityType>
+			<ModifierId>PLUS_5_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS</ModifierId>
+		</Row>
 	</UnitAbilityModifiers>
 	<Modifiers>
 		<Row>
@@ -166,10 +176,16 @@
 			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
 			<SubjectRequirementSetId>OPPONENT_LIGHT_CAVALRY_REQUIREMENTS</SubjectRequirementSetId>
 		</Row>
+		<Row>
+			<ModifierId>PLUS_5_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>OPPONENT_MELEE_ANTICAV_LIGHTCAV_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
 	</Modifiers>
 	<ModifierStrings>
 		<Row ModifierId="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS" Context="Preview" Text="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC"/>
 		<Row ModifierId="PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS" Context="Preview" Text="PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC"/>
+		<Row ModifierId="PLUS_5_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS" Context="Preview" Text="PLUS_5_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC"/>
 	</ModifierStrings>
 	<ModifierArguments>
 		<Row>
@@ -182,6 +198,11 @@
 			<Name>Amount</Name>
 			<Value>15</Value>
 		</Row>
+		<Row>
+			<ModifierId>PLUS_5_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
 	</ModifierArguments>
 	<RequirementSets>
 		<Row>
@@ -191,7 +212,11 @@
 		<Row>
 			<RequirementSetId>OPPONENT_LIGHT_CAVALRY_REQUIREMENTS</RequirementSetId>
 			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
-		</Row>	
+		</Row>
+		<Row>
+			<RequirementSetId>OPPONENT_MELEE_ANTICAV_LIGHTCAV_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
 	</RequirementSets>	
 	<RequirementSetRequirements>
 		<Row>
@@ -201,6 +226,18 @@
 		<Row>
 			<RequirementSetId>OPPONENT_LIGHT_CAVALRY_REQUIREMENTS</RequirementSetId>
 			<RequirementId>ANTI_CAVALRY_OPPONENT_REQUIREMENT_LC</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>OPPONENT_MELEE_ANTICAV_LIGHTCAV_REQUIREMENTS</RequirementSetId>
+			<RequirementId>ANTI_CAVALRY_OPPONENT_REQUIREMENT_LC</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>OPPONENT_MELEE_ANTICAV_LIGHTCAV_REQUIREMENTS</RequirementSetId>
+			<RequirementId>ANTI_SPEAR_OPPONENT_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>OPPONENT_MELEE_ANTICAV_LIGHTCAV_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_MELEE_REQUIREMENT</RequirementId>
 		</Row>
 	</RequirementSetRequirements>	
 </GameData>

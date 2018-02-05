@@ -19,6 +19,13 @@
 		<Replace Language="en_US" Tag="LOC_UNIT_MORTAR_DESCRIPTION">
 			<Text>Atomic era Ranged unit.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="PLUS_5_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
+			<Text>+5 [ICON_Strength] Combat Strength against Melee, Anti Cavalry and Light Cavalry units.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+			<Text>Atomic era Ranged unit. +5 [ICON_Strength] Combat Strength against Melee, Anti Cavalry and Light Cavalry units.</Text>
+		</Replace>
+
 		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_1">
 			<Text>A mortar is a device that fires projectiles at low velocities and short ranges. The mortar has traditionally been used as a weapon to propel explosive mortar bombs in high-arcing ballistic trajectories. The weapon is typically muzzle-loading with a short, often smooth-bore barrel, generally less than 15 times its caliber.</Text>
 		</Replace>
@@ -315,7 +322,7 @@
 			<Text>Gatling Gun</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION">
-			<Text>Industrial Era Anti-Cavalry unit.</Text>
+			<Text>Industrial Era Ranged unit. +5 [ICON_Strength] Combat Strength against Melee, Anti Cavalry and Light Cavalry units.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_RECON_NAME">
 			<Text>Recon</Text>
