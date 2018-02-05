@@ -247,9 +247,6 @@
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_MODERN_SNIPER_DESCRIPTION">
 			<Text>信息时代远程攻击单位，当对抗陆地单位时+12射程[ICON_Ranged](重骑兵单位除外)且在丘陵地块时+1射程[ICON_Range]，攻击和移动不能在同一回合内进行。</Text>
 		</Replace>
-		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
-			<Text>原子时代远程支援单位，当防御时+10战斗力[ICON_Strength]。</Text>
-		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
 			<Text>印度中世纪特色近战单位，邻近的敌军单位-5战斗力[ICON_STRENGTH]。</Text>
 		</Replace>

@@ -274,9 +274,6 @@
 		<Replace Language="it_IT" Tag="LOC_UNIT_MODERN_SNIPER_DESCRIPTION">
 			<Text>Unità a distanza dell'epoca dell'informazione. Non può muoversi e attaccare nello stesso turno. Ottiene +12 all' [ICON_Ranged] attacco a distanza contro le unità di terra (esclusa la cavalleria pesante). Ottiene +1 [ICON_Range] Raggio se in collina.</Text>
 		</Replace>
-		<Replace Language="it_IT" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
-			<Text>Unità a distanza di supporto di epoca atomica. +10 alla [ICON_Strength] Forza di combattimento in difesa.</Text>
-		</Replace>
 		<Replace Language="it_IT" Tag="LOC_UNIT_HORSEMAN_NAME">
 			<Text>Guerriero a cavallo</Text>
 		</Replace>

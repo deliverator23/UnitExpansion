@@ -11,7 +11,6 @@
         <Row Name="ICON_ATLAS_UNEX_UNITS_PORTRAITS" IconSize="95" IconsPerRow="10" IconsPerColumn="10" Filename="MOARUnitsPortraits_95.dds"/>
     </IconTextureAtlases>
     <IconDefinitions>
-
         <!-- Mortar -->
         <Row Name="ICON_UNIT_DLV_MORTAR" Atlas="ICON_ATLAS_UNEX_UNITS" Index="42"/>
         <Row Name="ICON_UNIT_DLV_MORTAR_BLACK" Atlas="ICON_ATLAS_UNEX_UNITS" Index="42"/>
@@ -23,7 +22,7 @@
         <Row Name="ICON_ETHNICITY_ASIAN_UNIT_DLV_MORTAR_PORTRAIT" Atlas="ICON_ATLAS_UNEX_UNITS_PORTRAITS" Index="42"/>
         
         <!-- Self Propelled Artillery -->
-        <Row Name="ICON_UNIT_DLV_SELF_PROPELLED_ARTILLERY" Atlas="ICON_ATLAS_UNEX_UNITS" Index="15"/>
+        <Row Name="ICON_UNIT_DLV_SELF_PROPELLED_ARTILLERY" Atlas="ICON_ATLAS_UNEX_UNITS" Index="62"/>
         <Row Name="ICON_UNIT_DLV_SELF_PROPELLED_ARTILLERY_BLACK" Atlas="ICON_ATLAS_UNEX_UNITS" Index="53"/>
         <Row Name="ICON_UNIT_DLV_SELF_PROPELLED_ARTILLERY_WHITE" Atlas="ICON_ATLAS_UNEX_UNITS" Index="53"/>
         <Row Name="ICON_UNIT_DLV_SELF_PROPELLED_ARTILLERY_PORTRAIT" Atlas="ICON_ATLAS_UNEX_UNITS_PORTRAITS" Index="53"/>

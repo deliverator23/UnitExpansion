@@ -274,9 +274,6 @@
 		<Replace Language="es_ES" Tag="LOC_UNIT_MODERN_SNIPER_DESCRIPTION">
 			<Text>Unidad a distancia de la era de la información. No puede moverse y atacar en el mismo turno. Gana +12 [ICON_Strength] al atacar unidades terrestres (excepto caballería pesada). Gana +1 de rango cuando esta en colinas.. Se mejora desde francotirador. </Text>
 		</Replace>
-		<Replace Language="es_ES" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
-			<Text>Unidad de soporte a distancia de la era atómica (puede agruparse con otras unidades). Gana +10 [ICON_Strength] al defender.</Text>
-		</Replace>
 		<Replace Language="es_ES" Tag="LOC_UNIT_HORSEMAN_NAME">
 			<Text>Saqueadores</Text>
 		</Replace>

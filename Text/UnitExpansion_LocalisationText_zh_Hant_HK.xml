@@ -280,9 +280,6 @@
 		<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_MODERN_SNIPER_DESCRIPTION">
 			<Text>Information Era Ranged unit. Cannot move and attack on the same turn. Gains +12 [ICON_Ranged] Ranged strength vs. land units (exluding Heavy Cavalry). Gains +1 [ICON_Range] Range when on hills.</Text>
 		</Replace>
-		<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
-			<Text>Atomic Era Ranged Support unit. +10 Combat Strength when defending.</Text>
-		</Replace>
 		<Replace Language="zh_Hant_HK" Tag="LOC_UNIT_HORSEMAN_NAME">
 			<Text>Rider</Text>
 		</Replace>

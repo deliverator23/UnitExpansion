@@ -17,52 +17,56 @@
 		<Row UnitType="UNIT_DLV_CUIRASSIER" BaseMoves="4" Cost="360" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true"
 			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_CUIRASSIER_NAME"
 			 Description="LOC_UNIT_CUIRASSIER_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_HEAVY_CAVALRY"
-			 Maintenance="5" Combat="66" PrereqTech="TECH_BALLISTICS" StrategicResource="RESOURCE_NITER"
-			 MandatoryObsoleteTech="TECH_COMPOSITES"/>
+			 Maintenance="5" Combat="66" StrategicResource="RESOURCE_NITER"
+			 PrereqTech="TECH_BALLISTICS" MandatoryObsoleteTech="TECH_COMPOSITES"/>
 
 		<Row UnitType="UNIT_DLV_MEDIEVAL_HORSEMAN" BaseMoves="4" Cost="150" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true"
 			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME"
 			 Description="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_LIGHT_CAVALRY"
-			 Maintenance="2" Combat="44" PrereqTech="TECH_STIRRUPS" StrategicResource="RESOURCE_HORSES"
-			 MandatoryObsoleteTech="TECH_COMPOSITES"/>
+			 Maintenance="2" Combat="44" StrategicResource="RESOURCE_HORSES"
+			 PrereqTech="TECH_STIRRUPS" MandatoryObsoleteTech="TECH_COMPOSITES"/>
 
 		<Row UnitType="UNIT_DLV_RIFLEMAN" BaseMoves="2" Cost="350" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true"
 			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_RIFLEMAN_NAME"
 			 Description="LOC_UNIT_RIFLEMAN_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE" Maintenance="4"
-			 Combat="64" PrereqTech="TECH_RIFLING" MandatoryObsoleteTech="TECH_SATELLITES"/>
+			 Combat="64"
+			 PrereqTech="TECH_RIFLING" MandatoryObsoleteTech="TECH_SATELLITES"/>
 
 		<Row UnitType="UNIT_DLV_TREBUCHET" BaseMoves="2" Cost="200" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="false"
 			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_TREBUCHET_NAME"
 			 Description="LOC_UNIT_TREBUCHET_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_SIEGE" Maintenance="3"
-			 Combat="33" Range="2" PrereqTech="TECH_MILITARY_ENGINEERING" Bombard="45" MandatoryObsoleteTech="TECH_BALLISTICS"/>
+			 Combat="33" Range="2" Bombard="45"
+			 PrereqTech="TECH_MILITARY_ENGINEERING" MandatoryObsoleteTech="TECH_BALLISTICS"/>
 
 		<Row UnitType="UNIT_DLV_EXPLORER" BaseMoves="3" Cost="120" AdvisorType="ADVISOR_GENERIC" BaseSightRange="2" ZoneOfControl="true"
 			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_EXPLORER_NAME"
 			 Description="LOC_UNIT_EXPLORER_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_RECON" PseudoYieldType="PSEUDOYIELD_UNIT_EXPLORER" Maintenance="3"
-			 Combat="35" PrereqTech="TECH_CARTOGRAPHY" MandatoryObsoleteTech="TECH_RIFLING"/>
+			 Combat="35"
+			 PrereqTech="TECH_CARTOGRAPHY" MandatoryObsoleteTech="TECH_RIFLING"/>
 
 		<Row UnitType="UNIT_DLV_LONGSWORDSMAN" BaseMoves="2" Cost="160" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true"
 			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_MACEMAN_NAME"
 			 Description="LOC_UNIT_MACEMAN_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE" Maintenance="2"
-			 Combat="46" PrereqTech="TECH_CASTLES" StrategicResource="RESOURCE_IRON" MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS"/>
+			 Combat="46" StrategicResource="RESOURCE_IRON"
+			 PrereqTech="TECH_CASTLES" MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS"/>
 			 
 		<Row UnitType="UNIT_DLV_GATLING_GUN" BaseMoves="2" Cost="290" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2"
 			 ZoneOfControl="false" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT"
 			 Name="LOC_UNIT_GATLING_GUN_NAME" Description="LOC_UNIT_GATLING_GUN_DESCRIPTION" PurchaseYield="YIELD_GOLD"
 			 PromotionClass="PROMOTION_CLASS_RANGED" Maintenance="4" Combat="56" RangedCombat="66" Range="1"
-			 MandatoryObsoleteTech="TECH_COMPOSITES" PrereqTech="TECH_SANITATION"/>
+			 PrereqTech="TECH_INDUSTRIALIZATION" MandatoryObsoleteTech="TECH_GUIDANCE_SYSTEMS"/>
 
 		<Row UnitType="UNIT_DLV_MORTAR" BaseMoves="2" Cost="540" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2"
 			 ZoneOfControl="false" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT"
 			 Name="LOC_UNIT_MORTAR_NAME" Description="LOC_UNIT_MORTAR_DESCRIPTION" PurchaseYield="YIELD_GOLD"
 			 PromotionClass="PROMOTION_CLASS_RANGED" Maintenance="6" Combat="65" RangedCombat="75" Range="2"
-			 PrereqTech="TECH_ADVANCED_BALLISTICS"/>
+			 PrereqTech="TECH_ROCKETRY"/>
 
 		<Row UnitType="UNIT_DLV_SELF_PROPELLED_ARTILLERY" BaseMoves="3" Cost="680" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="3"
 			 ZoneOfControl="false" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT"
 			 Name="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME" Description="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION"
 			 PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_SIEGE" Maintenance="8" Combat="70" Range="3"
-			 PrereqTech="TECH_GUIDANCE_SYSTEMS" Bombard="95"/>
+			 PrereqTech="TECH_SATELLITES" Bombard="95"/>
 	</Units>
 	<UnitReplaces>
 		<Row CivUniqueUnitType="UNIT_SUMERIAN_WAR_CART" ReplacesUnitType="UNIT_HEAVY_CHARIOT"/>

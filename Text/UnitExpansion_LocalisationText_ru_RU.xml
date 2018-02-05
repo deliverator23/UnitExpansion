@@ -280,9 +280,6 @@
 		<Replace Language="ru_RU" Tag="LOC_UNIT_MODERN_SNIPER_DESCRIPTION">
 			<Text>Быстрый дальнобойный юнит Информационной эры. Получает +12 [ICON_Ranged] к дальнобойной мощи против всех наземных юнитов (кроме тяжёлой кавалерии). Также получает +1 [ICON_Range] к радиусу поражения если занимает позицию на холмах. Не может двигаться после дальнобойной атаки.</Text>
 		</Replace>
-		<Replace Language="ru_RU" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
-			<Text>Дальнобойный защитный юнит эпохи Атома. Получает +10 [ICON_Strength] к боевой мощи при обороне.</Text>
-		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_UNIT_HORSEMAN_NAME">
 			<Text>Лёгкая конница</Text>
 		</Replace>

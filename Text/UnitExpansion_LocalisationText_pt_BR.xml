@@ -280,9 +280,6 @@
 		<Replace Language="pt_BR" Tag="LOC_UNIT_MODERN_SNIPER_DESCRIPTION">
 			<Text>Unidade a Distância da Era da Informação. Não pode se mover e atacar no mesmo turno. Ganha +12 [ICON_Ranged] de Força a Distância contra únidades terrestres. (excluindo a Cavalaria Pesada). Ganha +1 [ICON_Range] de Alcance quando em Montanhas.</Text>
 		</Replace>
-		<Replace Language="pt_BR" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
-			<Text>Unidade a Distância de Suporte de Era Atômica. +10 de Força de Combate quando defendendo.</Text>
-		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_HORSEMAN_NAME">
 			<Text>Rider</Text>
 		</Replace>
