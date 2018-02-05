@@ -23246,7 +23246,7 @@
                                                                 <m_ParamName text="Point"/>
                                                             </Element>
                                                             <Element class="AssetObjects:ArtDefReferenceValue">
-                                                                <m_ElementName text="Color_300_Hoplite"/>
+                                                                <m_ElementName text="Color_80Grey"/>
                                                                 <m_RootCollectionName text="UnitTintTypes"/>
                                                                 <m_ArtDefPath text="Units.Moar.artdef"/>
                                                                 <m_CollectionIsLocked>true</m_CollectionIsLocked>
