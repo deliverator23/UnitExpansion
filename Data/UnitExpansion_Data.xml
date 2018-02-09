@@ -46,15 +46,15 @@
 			 PrereqTech="TECH_CARTOGRAPHY" MandatoryObsoleteTech="TECH_RIFLING"/>
 
 		<Row UnitType="UNIT_DLV_LONGSWORDSMAN" BaseMoves="2" Cost="160" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true"
-			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_MACEMAN_NAME"
-			 Description="LOC_UNIT_MACEMAN_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE" Maintenance="2"
+			 Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_LONGSWORDSMAN_NAME"
+			 Description="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE" Maintenance="2"
 			 Combat="46" StrategicResource="RESOURCE_IRON"
 			 PrereqTech="TECH_CASTLES" MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS"/>
 			 
-		<Row UnitType="UNIT_DLV_GATLING_GUN" BaseMoves="2" Cost="290" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2"
-			 ZoneOfControl="false" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT"
+		<Row UnitType="UNIT_DLV_GATLING_GUN" BaseMoves="2" Cost="195" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2"
+			 ZoneOfControl="true" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT"
 			 Name="LOC_UNIT_GATLING_GUN_NAME" Description="LOC_UNIT_GATLING_GUN_DESCRIPTION" PurchaseYield="YIELD_GOLD"
-			 PromotionClass="PROMOTION_CLASS_RANGED" Maintenance="4" Combat="56" RangedCombat="66" Range="1"
+			 PromotionClass="PROMOTION_CLASS_RANGED" Maintenance="3" Combat="55" RangedCombat="65" Range="1"
 			 PrereqTech="TECH_INDUSTRIALIZATION" MandatoryObsoleteTech="TECH_GUIDANCE_SYSTEMS"/>
 
 		<Row UnitType="UNIT_DLV_MORTAR" BaseMoves="2" Cost="540" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2"
@@ -185,7 +185,7 @@
 	<ModifierStrings>
 		<Row ModifierId="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS" Context="Preview" Text="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC"/>
 		<Row ModifierId="PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS" Context="Preview" Text="PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC"/>
-		<Row ModifierId="PLUS_5_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS" Context="Preview" Text="PLUS_5_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC"/>
+		<Row ModifierId="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS" Context="Preview" Text="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC"/>
 	</ModifierStrings>
 	<ModifierArguments>
 		<Row>
@@ -199,9 +199,9 @@
 			<Value>15</Value>
 		</Row>
 		<Row>
-			<ModifierId>PLUS_5_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS</ModifierId>
+			<ModifierId>PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS</ModifierId>
 			<Name>Amount</Name>
-			<Value>5</Value>
+			<Value>8</Value>
 		</Row>
 	</ModifierArguments>
 	<RequirementSets>
