@@ -40,6 +40,8 @@ UPDATE Units SET BaseSightRange = 2 WHERE UnitType='UNIT_NATURALIST';
 
 UPDATE Units SET Bombard = 0, RangedCombat = 95, BaseMoves = 3, PromotionClass = 'PROMOTION_CLASS_RANGED' WHERE UnitType = 'UNIT_ROCKET_ARTILLERY';
 
+UPDATE Units SET ZoneOfControl = 1, Cost = 360, Maintenance = 4 WHERE UnitType = 'UNIT_MACHINE_GUN';
+
 UPDATE ModifierArguments SET Value = 9 WHERE ModifierId = 'CONQUISTADOR_SPECIFIC_UNIT_COMBAT' AND Name = 'Amount';
 
 /* Anti Cavalry boost */
