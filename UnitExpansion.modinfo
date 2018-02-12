@@ -9,7 +9,7 @@
     <FrontEndActions>
         <UpdateDatabase id="UNEX_SETTING">
 			<Properties>
-				<LoadOrder>1</LoadOrder>
+				<LoadOrder>2</LoadOrder>
 			</Properties>
             <File>Data/UnitExpansion_Config.xml</File>
         </UpdateDatabase>
@@ -29,19 +29,24 @@
         </UpdateText>
 		<UpdateIcons id="UNEX_SETTING_Icons">
 			<Properties>
-				<LoadOrder>1</LoadOrder>
+				<LoadOrder>2</LoadOrder>
 			</Properties>
 			<File>Data/UnitExpansion_Icons.xml</File>
 		</UpdateIcons>
     </FrontEndActions>
     <InGameActions>
-        <UpdateDatabase id="UNEX_UpdateDatabase">
+        <UpdateDatabase id="UNEX_UpdateDatabase2">
 			<Properties>
-				<LoadOrder>-1</LoadOrder>
+				<LoadOrder>2</LoadOrder>
 			</Properties>
             <File>Data/UnitExpansion_Data.xml</File>
-            <File>Data/UnitExpansion_Data.sql</File>
         </UpdateDatabase>
+		<UpdateDatabase id="UNEX_UpdateDatabase3">
+			<Properties>
+				<LoadOrder>3</LoadOrder>
+			</Properties>
+			<File>Data/UnitExpansion_Data.sql</File>
+		</UpdateDatabase>
         <UpdateText id="UNEX_LocalizedText">
 			<File>Text/UnitExpansion_LocalisationText_de_DE.xml</File>
 			<File>Text/UnitExpansion_LocalisationText_en_US.xml</File>

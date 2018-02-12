@@ -104,7 +104,7 @@
 		<Row UnitType="UNIT_DLV_CUIRASSIER" AiType="UNITTYPE_LAND_COMBAT"/>
 		<Row UnitType="UNIT_DLV_GATLING_GUN" AiType="UNITAI_COMBAT"/>
 		<Row UnitType="UNIT_DLV_GATLING_GUN" AiType="UNITAI_EXPLORE"/>
-		<Row UnitType="UNIT_DLV_GATLING_GUN" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_DLV_GATLING_GUN" AiType="UNITTYPE_RANGED"/>
 		<Row UnitType="UNIT_DLV_GATLING_GUN" AiType="UNITTYPE_LAND_COMBAT"/>
 		<Row UnitType="UNIT_DLV_TREBUCHET" AiType="UNITAI_COMBAT"/>
 		<Row UnitType="UNIT_DLV_TREBUCHET" AiType="UNITTYPE_RANGED"/>
@@ -158,12 +158,12 @@
 		</Row>
 		<Row>
 			<UnitAbilityType>ABILITY_ANTI_CAVALRY</UnitAbilityType>
-			<ModifierId>PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
+			<ModifierId>PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS</ModifierId>
 		</Row>
 		<Row>
-			<UnitAbilityType>ABILITY_AUTOMATIC_GUNFIRE</UnitAbilityType>
-			<ModifierId>PLUS_5_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS</ModifierId>
-		</Row>
+		<UnitAbilityType>ABILITY_AUTOMATIC_GUNFIRE</UnitAbilityType>
+		<ModifierId>PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS</ModifierId>
+	</Row>
 	</UnitAbilityModifiers>
 	<Modifiers>
 		<Row>
@@ -172,19 +172,19 @@
 			<SubjectRequirementSetId>OPPONENT_HEAVY_CAVALRY_REQUIREMENTS</SubjectRequirementSetId>
 		</Row>
 		<Row>
-			<ModifierId>PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
+			<ModifierId>PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS</ModifierId>
 			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
 			<SubjectRequirementSetId>OPPONENT_LIGHT_CAVALRY_REQUIREMENTS</SubjectRequirementSetId>
 		</Row>
 		<Row>
-			<ModifierId>PLUS_5_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS</ModifierId>
+			<ModifierId>PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS</ModifierId>
 			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
 			<SubjectRequirementSetId>OPPONENT_MELEE_ANTICAV_LIGHTCAV_REQUIREMENTS</SubjectRequirementSetId>
 		</Row>
 	</Modifiers>
 	<ModifierStrings>
 		<Row ModifierId="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS" Context="Preview" Text="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC"/>
-		<Row ModifierId="PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS" Context="Preview" Text="PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC"/>
+		<Row ModifierId="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS" Context="Preview" Text="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC"/>
 		<Row ModifierId="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS" Context="Preview" Text="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC"/>
 	</ModifierStrings>
 	<ModifierArguments>
@@ -194,7 +194,7 @@
 			<Value>20</Value>
 		</Row>
 		<Row>
-			<ModifierId>PLUS_15_VS_HEAVY_CAVALRY_COMBAT_BONUS</ModifierId>
+			<ModifierId>PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS</ModifierId>
 			<Name>Amount</Name>
 			<Value>15</Value>
 		</Row>
