@@ -153,6 +153,9 @@
 		<Replace Language="en_US" Tag="LOC_UNIT_GATLING_GUN_NAME">
 			<Text>Gatling Gun</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HORSEMAN_NAME">
+			<Text>Rider</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION">
 			<Text>Medieval Era Melee unit.</Text>
 		</Replace>
