@@ -1,7 +1,7 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_1">
-			<Text>Cuirassiers were cavalry equipped with armour and firearms, first appearing in late 15th-century Europe. This French term means "one with a cuirass", the breastplate armour which they wore. The first cuirassiers were produced as a result of armoured cavalry, such as the man-at-arms and demi-lancer, discarding their lances and adopting the use of pistols as their primary weapon. In the later 17th century, the cuirassier lost his limb armour and subsequently employed only the cuirass (breastplate and backplate), and sometimes a helmet. By this time, the sword was the primary weapon of the cuirassier, pistols being relegated to a secondary function.</Text>
+			<Text>胸甲騎兵 (キュラシエ) は、火器と鎧を装備した騎兵である。元々はフランス語であり、キュイラス (胸当て) を身につけた者という意味であった。15世紀後半に登場した胸甲騎兵は、重騎兵や準槍騎兵といった重装騎兵から発展したものであり、ピストルを主要武器として用いていた。17世紀後半になると鎧の脚部を取り払い、次第に胸甲のみ、あるいは胸甲と兜のみを装備するようになった。この頃までには剣が主要武器となり、ピストルは二次的な地位に追いやられた。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_2">
 			<Text />
@@ -16,10 +16,10 @@
 			<Text />
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_1">
-			<Text>The Age of Discovery or the Age of Exploration from the end of the 15th century to the 18th century, was an informal and loosely defined European historical period marking the time period in which extensive overseas exploration emerged as a powerful factor in European culture and the beginning of globalization. It also marks the rise of the period of widespread adoption in Europe of colonialism and mercantilism. Many lands previously unknown to Europeans were discovered during this period, though most were already inhabited. From the perspective of many non-Europeans, the Age of Discovery marked the arrival of settlers and invaders from a previously unknown continent.</Text>
+			<Text>探検とは、情報や資源の発見を目的とする調査活動を指す。人間を含むあらゆる動物は探検を行う。人類史において、探検が最も活発に行われたのは大航海時代である。この時期は、ヨーロッパ人探検家が富を求めて航海に乗り出し、世界の大部分を地図に記した。これ以後の主要な探検は、主に情報の発見を目的にして行われた。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_2">
-			<Text>Global exploration started with the Portuguese discoveries of the Atlantic archipelagos of Madeira and the Azores, the coast of Africa, and the discovery of the sea route to India in 1498; and, on behalf of the Crown of Castile (Spain), the trans-Atlantic Voyages of Christopher Columbus between 1492 and 1502, and the first circumnavigation of the globe in 1519–1522. These discoveries led to numerous naval expeditions across the Atlantic, Indian and Pacific oceans, and land expeditions in the Americas, Asia, Africa, and Australia that continued into the late 19th century, and ended with the exploration of the polar regions in the 20th century.</Text>
+			<Text></Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_3">
 			<Text />
@@ -31,10 +31,10 @@
 			<Text />
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_1">
-			<Text>The Gatling gun is one of the best-known early rapid-fire spring loaded, hand cranked weapons and a forerunner of the modern machine gun. Invented by Richard Gatling, it is known for its use by the Union forces during the American Civil War in the 1860s, which was the first time it was employed in combat. Later, it was used again in numerous military conflicts, such as the Boshin War, the Anglo-Zulu War, and the assault on San Juan Hill during the Spanish–American War. It was also used by militias and the National Guard in episodes of the Great Railroad Strike of 1877, specifically in Pittsburgh, Pennsylvania.</Text>
+			<Text>ガトリング砲は機関銃の先駆けであり、1861年にアメリカ人医師リチャード・ガトリングによって考案された。その目的は、軍隊の規模を縮小するとともに、戦争の不毛さを示すことだった。ガトリング砲はクランクを手で回し、環状に配置された複数の銃身を回転させて銃撃を行う。銃身が回転することで、空薬莢の排出、新しい弾薬の装填、銃口・銃身の冷却が行われる仕組みだ。これにより、銃身を加熱させることなく高速射撃を行うことが可能になった。ガトリング砲は命中精度こそ乏しかったが、威力はそれを補って余りあるものだった。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_2">
-			<Text>The Gatling gun's operation centered on a cyclic multi-barrel design which facilitated cooling and synchronized the firing-reloading sequence. Each barrel fired a single shot when it reached a certain point in the cycle, after which it ejected the spent cartridge, loaded a new round, and, in the process, allowed the barrel to cool somewhat. This configuration allowed higher rates of fire to be achieved without the barrels overheating.</Text>
+			<Text>ガトリング砲が合衆国軍に正式採用されたのは1866年だが、独立戦争当時、連邦軍(北軍)によってすでに実戦で使用されていた。次いでペルーとチリが戦った南米の太平洋戦争(1879年～1883年)で使用されると、大軍に対するその有用性が欧州各国の軍隊にも浸透した。以後10年で、ガトリング砲は世界の列強の大半に採用され、列強による植民地の拡大で存分に威力を発揮した。その銃口が向けられたのは、ヌデベレ族、ズールー族、ベドウィン、トルクメン族、義和団員をはじめとする世界各地の原住民である。1910年代、ガス圧を利用した「機関」銃の登場によってガトリング砲は時代遅れとなり、1911年にはアメリカ軍が全モデルの使用を終了し、まもなくヨーロッパ諸国もこれに続いた。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_3">
 			<Text />
@@ -46,7 +46,7 @@
 			<Text />
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_1">
-			<Text>The longsword was the most versatile weapon of the Medieval/Renaissance battlefield. It was lighter and easier to carry than a pike, and it could be used one or two-handed, making it possible for the swordsman to also carry a shield. In face-to-face combat against pikemen the longswordsmen were at a significant disadvantage, taking many casualties from the longer weapons before they could even get within striking distance. However, longswordsmen units were faster and more maneuverable than pikemen - and if they could hit their opponents in a flank attack, the pikemen were dead meat.</Text>
+			<Text>長剣は、中世/ルネサンス時代の戦場で最も万能な武器であった。長槍よりも軽くて扱いやすく、片手でも両手でも使えるため、剣士が盾を装備することもできた。長槍兵と1対1で戦う場合、長剣士はかなり不利な立場となり、攻撃可能な距離に近づくこともできないうちに長い武器による犠牲者が多く出た。しかしながら、長剣士隊は長槍兵よりも機動力が高いため、側面から敵を攻撃することができれば、長槍兵は命を落とすことになった。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_2">
 			<Text />
@@ -61,13 +61,13 @@
 			<Text />
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_1">
-			<Text>Historians differ on the origin of the horseshoe. Because iron was a valuable commodity, and any worn out items were generally reforged and reused, it is difficult to locate clear archaeological evidence. Although some credit the Druids, there is no hard evidence to support this claim. In 1897 four bronze horseshoes with what are apparently nail holes were found in an Etruscan tomb dated around 400 B.C. The assertion by some historians that the Romans invented the "mule shoes" sometime after 100 BC is supported by a reference by Catullus who died in 54 BC. However, these references to use of horseshoes and muleshoes in Rome, may have been to the "hipposandal"—leather boots, reinforced by an iron plate, rather than to nailed horseshoes.</Text>
+			<Text>戦争の中で、初めて効果的に利用された馬はチャリオットを引いていた。中央アジアの遊牧民族は、おそらく紀元前2000年よりも前からすでに馬に乗っていた。確かに使者や斥候を送る際に騎兵を利用していたが、(鞍に立ち上がった時に乗り手の体重を分散する)堅固な鞍と、両足にかけられるあぶみが普及するまでは効果的な戦闘部隊にはならなかった。戦闘に適した、鞍と2つのあぶみの組み合わせで最も初期のものは中国で見つかっており、紀元300年頃から4世紀にわたりアジアおよびヨーロッパへと広まった。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_2">
-			<Text>Existing references to the nailed horseshoe are relatively late, first known to have appeared around AD 900, but there may have been earlier uses given that some have been found in layers of dirt. There are no extant references to nailed horseshoes prior to the reign of Emperor Leo VI and by 973 occasional references to them can be found. There is very little evidence of any sort that suggests the existence of nailed-on shoes prior to AD 500 or 600, though there is a find dated to the 5th century A.D. of a horseshoe, complete with nails, found in the tomb of the Frankish King Childeric I at Tournai, Belgium.</Text>
+			<Text>初期の戦闘騎兵は槍や剣を装備していた。技術が進歩し大型で強い馬が繁殖されるにつれ、騎兵はより強力な武器と重い鎧を装備するようになった。そしてその頂点には、中世の戦場における大立者としてよく知られる、中世騎士が存在したのである。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_3">
-			<Text>Around 1000 AD, cast bronze horseshoes with nail holes became common in Europe. Common was a design with a scalloped outer rim and six nail holes. The 13th and 14th centuries brought the widespread manufacturing of iron horseshoes. By the time of the Crusades (1096–1270), horseshoes were widespread and frequently mentioned in various written sources. In that period, due to the value of iron, horseshoes were even accepted in lieu of coin to pay taxes. By the 13th century, shoes were forged in large quantities and could be bought ready-made. Hot shoeing, the process of shaping a heated horseshoe immediately before placing it on the horse, became common in the 16th century. From the need for horseshoes, the craft of blacksmithing became "one of the great staple crafts of medieval and modern times and contributed to the development of metallurgy."</Text>
+			<Text></Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_4">
 			<Text />
@@ -75,11 +75,26 @@
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_1">
+			<Text>迫撃砲は、短距離・低速度・高角度で砲弾を射出する兵器である。典型的には前装式で、砲身は口径の15倍未満の長さの滑腔砲であることが多い。</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_1">
-			<Text>A rifle is a firearm designed to be fired from the shoulder. The inside of the barrel has "rifled" grooves designed to spin the projectile as it is fired, giving it greater range and accuracy than an unrifled projectile. The earliest attempts at rifled barrels in Europe occurred in the 15th century, but difficulties in manufacturing kept it from general use until the 19th. American frontiersmen had rifles in the American War of Independence. British and American skirmishers and scouts were equipped with rifled muskets during the Napoleonic Wars and the War of 1812, but the weapons' slower loading time kept them out of the hands of the regular infantry for some years further.</Text>
+			<Text>ライフルは肩から発射するようデザインされた銃である。銃身の内部には、発射する際に弾丸が回転するよう設計された「施条」と呼ばれる溝があり、施条がないライフルで撃った弾丸よりもさらに射距離と正確性が高まった。ヨーロッパでライフルの銃身に対する最初の試みを行ったのは15世紀だったが、製造が難しかったため、汎用化したのは19世紀に入ってからだった。イギリスとアメリカのスカーミッシュ兵や斥候は、ナポレオン戦争/米英戦争の間ライフルマスケットを装備していたが、装填に時間がかかることから、その後数年で通常の歩兵には使われなくなった。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_2">
-			<Text>The invention of the "minie ball" greatly reduced loading time, and by the American Civil War rifled muskets were in use in all major European armies. By the end of the Civil War the rifled musket was rendered obsolete by the breech-loading repeating rifle, which had a firing rate of perhaps one shot a second (as fast as one could cock the lever and pull the trigger), compared to the muzzle-loading rifle's firing rate of perhaps 20 to 30 seconds per shot for a well-trained soldier.</Text>
+			<Text>「ミニエー弾」の発明によって装填時間が大幅に短縮され、アメリカ南北戦争までにヨーロッパの主要な軍隊はみなライフルマスケットを使用するようになった。南北戦争が終結する頃には、後装式の連発ライフル銃が登場し、ライフルマスケットは陳腐化していった。前装式のライフルの射撃率が、よく訓練された兵士でも1発につき20秒から30秒かかるのに比べ、後装式の連発ライフル銃は射撃率が1秒ほど(撃鉄を引いて引き金を引くのと同じ速さ)であった。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_3">
 			<Text />
@@ -90,53 +105,119 @@
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_1">
+			<Text>自走砲は、単独で標的に向かって移動するための推進システムを搭載した大砲であり、この範疇には自動推進式大砲やロケット砲が含まれる。高機動の車両であり、多くはキャタピラ式である。巨大な榴弾砲やその他の野戦砲あるいは追撃砲、ロケット、ミサイル・ランチャーを装備している。戦場での長距離間接支援砲撃のために使用されることが多い。</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_1">
+			<Text>トレビュシェットは中世の強力な攻城用兵器である。12世紀のヨーロッパで最初に使用されたトレビュシェットは、離れた場所から140キログラムほどのミサイルを敵の城壁めがけて、あるいは城壁の向こうへと投げ込むことができた。中世ヨーロッパ型のトレビュシェットは「カウンターウェイト」機械であった。非常に長い木製アームの一端には投石器が、もう一端には重りがついていて、それが重厚な木枠に取り付けられている。長いアームを巻き上げ、重りを持ち上げて下ろし、投石器にミサイルを入れる。発射の時には、重りが下りてきてアームが勢いよく空へ上がり、ミサイルがはるか遠くまで投げ込まれるのである。この機械は移動ができないのが一般的で、組み立てにも時間がかかるため、長引く攻撃での有効利用に限られていた。</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
-			<Text>Industrial Era Heavy Cavalry unit.</Text>
+			<Text>機動力の高い強力な産業時代の重騎兵ユニット。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_CUIRASSIER_NAME">
-			<Text>Cuirassier</Text>
+			<Text>胸甲騎兵</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_EXPLORER_DESCRIPTION">
-			<Text>Fast-moving Renaissance Era Recon unit. Ignores rivers when moving and has no disembark cost.</Text>
+			<Text>移動速度に優れているルネサンス時代の偵察ユニット。[NEWLINE]渡河時や乗船時に移動力ペナルティを負わない。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_EXPLORER_NAME">
-			<Text>Explorer</Text>
+			<Text>探検家</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION">
-			<Text>Industrial Era Anti-Cavalry unit.</Text>
+			<Text>産業時代の長距離戦闘ユニット。[NEWLINE][NEWLINE]近接戦闘ユニット、対騎兵ユニット、軽騎兵ユニットに対して [ICON_Strength] 戦闘力+8。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_GATLING_GUN_NAME">
-			<Text>Gatling Gun</Text>
+			<Text>ガトリング砲</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_HORSEMAN_NAME">
+			<Text>騎手</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION">
-			<Text>Medieval Era Melee unit.</Text>
+			<Text>中世の近接戦闘ユニット。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_LONGSWORDSMAN_NAME">
-			<Text>Longswordsman</Text>
+			<Text>長剣士</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+			<Text>原子力時代の長距離戦闘ユニット。[NEWLINE][NEWLINE]近接戦闘ユニット、対騎兵ユニット、軽騎兵ユニットに対して [ICON_Strength] 戦闘力+8。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION">
-			<Text>Medieval Era Light Cavalry unit.</Text>
+			<Text>移動速度に優れている中世の軽騎兵ユニット。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME">
-			<Text>Horseman</Text>
+			<Text>騎乗兵</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_MORTAR_DESCRIPTION">
+			<Text>原子力時代の長距離戦闘ユニット。</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_MORTAR_NAME">
+			<Text>迫撃砲</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION">
-			<Text>Industrial Era Melee unit.</Text>
+			<Text>産業時代の近接戦闘ユニット。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_RIFLEMAN_NAME">
-			<Text>Rifleman</Text>
+			<Text>ライフル兵</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
+			<Text>情報時代の長距離戦闘ユニット。</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME">
+			<Text>ロケット砲</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION">
+			<Text>情報時代の砲撃ユニット。都市を攻撃する際に力を発揮する。[NEWLINE]「熟練搭乗員」レベルアップを獲得しない限り、同じターンに移動と攻撃の両方をおこなうことはできない。</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME">
+			<Text>自走砲</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_TREBUCHET_DESCRIPTION">
-			<Text>Medieval Siege unit.</Text>
+			<Text>中世の砲撃ユニット。都市を攻撃する際に力を発揮する。[NEWLINE]「熟練搭乗員」レベルアップを獲得しない限り、同じターンに移動と攻撃の両方をおこなうことはできない。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_TREBUCHET_NAME">
-			<Text>Trebuchet</Text>
+			<Text>トレビュシェット</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>+15 [ICON_Strength] Combat Strength versus Light Cavalry.</Text>
+			<Text>軽騎兵ユニットに対して+15</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>+20 [ICON_Strength] Combat Strength versus Heavy Cavalry.</Text>
+			<Text>重騎兵ユニットに対して+20</Text>
 		</Replace>
+		<Replace Language="ja_JP" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
+			<Text>近接戦闘、対騎兵、軽騎兵ユニットに対して+8</Text>
+		</Replace>
+
+		<!-- Appendix -->
+		<Replace Language="ja_JP" Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
+			<Text>マスケット銃兵に取ってかわるスペイン固有のルネサンス時代のユニット。同じタイルに宗教ユニットがいると [ICON_Strength] 戦闘力+9。このユニットが都市を制圧するか、このユニットが隣接した状態で都市を制圧すると、そのプレイヤーの宗教が自動的にその都市の主流宗教になる。</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_BARBARIAN_HORSEMAN_NAME">
+			<Text>蛮族の騎手</Text>
+		</Replace>
+
 	</LocalizedText>
 </GameData>
