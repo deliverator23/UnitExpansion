@@ -54,10 +54,10 @@
         <Element>
             <LibraryName text="Unit"/>
             <PackageDependencies>
-                <Element text="units/armoredHorseman.blp"/>
+                <Element text="units/armoredHorseman2.blp"/>
                 <Element text="units/cuirassier.blp"/>
                 <Element text="units/gatling_gun.blp"/>
-                <Element text="units/humans.blp"/>
+                <Element text="units/longswordsman.blp"/>
                 <Element text="units/modernInfantry2.blp"/>
                 <Element text="units/mortar.blp"/>
                 <Element text="units/self_propelled_artillery.blp"/>
@@ -67,7 +67,7 @@
         <Element>
             <LibraryName text="VFX"/>
             <PackageDependencies>
-                <Element text="VFX.blp"/>
+                <Element text="trebuchetVFX.blp"/>
             </PackageDependencies>
         </Element>
         <Element>

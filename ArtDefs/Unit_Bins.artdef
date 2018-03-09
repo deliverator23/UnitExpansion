@@ -513,8 +513,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="ArmoredHorseman_ArmorA"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="armoredHorseman.xlp"/>
-																<m_BLPPackage text="units/armoredHorseman"/>
+																<m_XLPPath text="armoredHorseman2.xlp"/>
+																<m_BLPPackage text="units/armoredHorseman2"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -620,8 +620,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="LongswordA"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="humans.xlp"/>
-																<m_BLPPackage text="units/humans"/>
+																<m_XLPPath text="longswordsman.xlp"/>
+																<m_BLPPackage text="units/longswordsman"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1023,8 +1023,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Longswordsman_HelmA"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="humans.xlp"/>
-																<m_BLPPackage text="units/humans"/>
+																<m_XLPPath text="longswordsman.xlp"/>
+																<m_BLPPackage text="units/longswordsman"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
