@@ -2510,8 +2510,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gendarme_Helm_A"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gendarme.xlp"/>
-																<m_BLPPackage text="units/gendarme"/>
+																<m_XLPPath text="medieval.xlp"/>
+																<m_BLPPackage text="units/medieval"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2531,8 +2531,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gendarme_Helm_B"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gendarme.xlp"/>
-																<m_BLPPackage text="units/gendarme"/>
+																<m_XLPPath text="medieval.xlp"/>
+																<m_BLPPackage text="units/medieval"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2552,8 +2552,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gendarme_Helm_C"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gendarme.xlp"/>
-																<m_BLPPackage text="units/gendarme"/>
+																<m_XLPPath text="medieval.xlp"/>
+																<m_BLPPackage text="units/medieval"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
