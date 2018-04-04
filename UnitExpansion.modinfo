@@ -6,34 +6,6 @@
         <Description>This mod adds 9 new Global Units to Civilization 6. The new units are: Longswordsman, Trebuchet, Explorer, (medieval) Horseman, Rifleman, Gatling Gun, Cuirassier, Mortar and Self Propelled Artillery.</Description>
         <Authors>Deliverator</Authors>
     </Properties>
-    <FrontEndActions>
-        <UpdateDatabase id="UNEX_SETTING">
-			<Properties>
-				<LoadOrder>2</LoadOrder>
-			</Properties>
-            <File>Data/UnitExpansion_Config.xml</File>
-        </UpdateDatabase>
-        <UpdateText id="UNEX_SETTING_TEXT">
-			<File>Text/UnitExpansion_LocalisationText_de_DE.xml</File>
-			<File>Text/UnitExpansion_LocalisationText_en_US.xml</File>
-			<File>Text/UnitExpansion_LocalisationText_es_ES.xml</File>
-			<File>Text/UnitExpansion_LocalisationText_fr_FR.xml</File>
-			<File>Text/UnitExpansion_LocalisationText_it_IT.xml</File>
-			<File>Text/UnitExpansion_LocalisationText_ja_JP.xml</File>
-			<File>Text/UnitExpansion_LocalisationText_ko_KR.xml</File>
-			<File>Text/UnitExpansion_LocalisationText_pl_PL.xml</File>
-			<File>Text/UnitExpansion_LocalisationText_pt_BR.xml</File>
-			<File>Text/UnitExpansion_LocalisationText_ru_RU.xml</File>
-			<File>Text/UnitExpansion_LocalisationText_zh_Hans_CN.xml</File>
-			<File>Text/UnitExpansion_LocalisationText_zh_Hant_HK.xml</File>
-        </UpdateText>
-		<UpdateIcons id="UNEX_SETTING_Icons">
-			<Properties>
-				<LoadOrder>2</LoadOrder>
-			</Properties>
-			<File>Data/UnitExpansion_Icons.xml</File>
-		</UpdateIcons>
-    </FrontEndActions>
     <InGameActions>
         <UpdateDatabase id="UNEX_UpdateDatabase2">
 			<Properties>
