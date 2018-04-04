@@ -1,7 +1,7 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_1">
-			<Text>Cuirassiers were cavalry equipped with armour and firearms, first appearing in late 15th-century Europe. This French term means "one with a cuirass", the breastplate armour which they wore. The first cuirassiers were produced as a result of armoured cavalry, such as the man-at-arms and demi-lancer, discarding their lances and adopting the use of pistols as their primary weapon. In the later 17th century, the cuirassier lost his limb armour and subsequently employed only the cuirass (breastplate and backplate), and sometimes a helmet. By this time, the sword was the primary weapon of the cuirassier, pistols being relegated to a secondary function.</Text>
+			<Text>Kirasjerzy byli kawalerią wyposażoną w zbroję i broń palną, która pojawiłą się po raz pierwszy w Europie końca XV wieku. Ten francuski termin oznacza "ten z pancerzem". Pierwsi kirasjerzy powstali w wyniku odrzucenia przez kawalerię pancerną (np. lansjerów), swoich włóczni i użycia pistoletów jako głównej broni. W XVII wieku kirasjerzy rezygnowali ze zbroi kończyn, by pozostać tylko z napierśnikiem i płytą tylną, a czasem hełmem. W tym czasie miecz stał się główną bronią kirasjera, a pistolety objęły funkcję drugoplanową.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_2">
 			<Text />
@@ -16,10 +16,10 @@
 			<Text />
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_1">
-			<Text>The Age of Discovery or the Age of Exploration from the end of the 15th century to the 18th century, was an informal and loosely defined European historical period marking the time period in which extensive overseas exploration emerged as a powerful factor in European culture and the beginning of globalization. It also marks the rise of the period of widespread adoption in Europe of colonialism and mercantilism. Many lands previously unknown to Europeans were discovered during this period, though most were already inhabited. From the perspective of many non-Europeans, the Age of Discovery marked the arrival of settlers and invaders from a previously unknown continent.</Text>
+			<Text>Wiek Odkryć lub Wiek Eksploracji od końca XV wieku do XVIII wieku był nieformalnym i luźno określonym europejskim okresem historycznym, wyznaczającym czas, w którym rozległa eksploracja zamorska stała się potężnym czynnikiem w kulturze europejskiej i początkiem globalizacji. Oznacza również wzrost okresu powszechnego przyjęcia w Europie kolonializmu i merkantylizmu. W tym czasie odkryto wiele ziem nieznanych dotąd Europejczykom, choć większość z nich była już zamieszkała. Z perspektywy wielu nie-Europejczyków Wiek Odkryć oznaczał przybycie osadników i najeźdźców z nieznanego wcześniej kontynentu.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_2">
-			<Text>Global exploration started with the Portuguese discoveries of the Atlantic archipelagos of Madeira and the Azores, the coast of Africa, and the discovery of the sea route to India in 1498; and, on behalf of the Crown of Castile (Spain), the trans-Atlantic Voyages of Christopher Columbus between 1492 and 1502, and the first circumnavigation of the globe in 1519–1522. These discoveries led to numerous naval expeditions across the Atlantic, Indian and Pacific oceans, and land expeditions in the Americas, Asia, Africa, and Australia that continued into the late 19th century, and ended with the exploration of the polar regions in the 20th century.</Text>
+			<Text>Globalne eksploracje rozpoczęły się od portugalskich odkryć atlantyckich archipelagów Madery i Azorów, wybrzeża Afryki oraz odkrycia drogi morskiej do Indii w 1498 roku; od transatlantyckich podróży Krzysztofa Kolumba w latach 1492-1502 (w imieniu Korony Kastylijskiej) oraz od pierwszego okrążanie globu w latach 1519-1522. Te odkrycia doprowadziły do licznych ekspedycji morskich przez Atlantyk, wody Oceanu Indyjskiego i Pacyfiku oraz wyprawy lądowe w Amerykach, Azji, Afryce i Australii, które trwały do końca XIX wieku, a zakończyły się eksploracją regionów polarnych w XX wieku .</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_3">
 			<Text />
@@ -31,10 +31,10 @@
 			<Text />
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_1">
-			<Text>The Gatling gun is one of the best-known early rapid-fire spring loaded, hand cranked weapons and a forerunner of the modern machine gun. Invented by Richard Gatling, it is known for its use by the Union forces during the American Civil War in the 1860s, which was the first time it was employed in combat. Later, it was used again in numerous military conflicts, such as the Boshin War, the Anglo-Zulu War, and the assault on San Juan Hill during the Spanish–American War. It was also used by militias and the National Guard in episodes of the Great Railroad Strike of 1877, specifically in Pittsburgh, Pennsylvania.</Text>
+			<Text>Karabin Gatlinga jest jedną z najbardziej znanych szybkostrzelnych broni ręcznych, ładowaną ręcznie, a także prekursorem nowoczesnego karabinu maszynowego. Wymyślona przez Richarda Gatlinga, znana jest z użycia jej przez siły Unii podczas amerykańskiej wojny domowej w latach 60. XIX wieku, kiedy to po raz pierwszy została użyta w walce. Później wykorzystano ją ponownie w licznych konfliktach zbrojnych, takich jak wojna boshin (w Japonii), wojna anglo-zuluska i natarcie na wzgórze San Juan podczas wojny hiszpańsko-amerykańskiej. Była również używana przez milicję i Gwardię Narodową w odcinkach Wielkiego Przełomu Kolei z 1877 roku, szczególnie w Pittsburghu w Pensylwanii.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_2">
-			<Text>The Gatling gun's operation centered on a cyclic multi-barrel design which facilitated cooling and synchronized the firing-reloading sequence. Each barrel fired a single shot when it reached a certain point in the cycle, after which it ejected the spent cartridge, loaded a new round, and, in the process, allowed the barrel to cool somewhat. This configuration allowed higher rates of fire to be achieved without the barrels overheating.</Text>
+			<Text>Działanie Karabinu Gatlinga opierało się na cyklicznej konstrukcji z wieloma lufami, co ułatwiało chłodzenie i synchronizowało sekwencję ponownego zapłonu. Każda lufa wystrzeliwała pojedynczy strzał, gdy dotarła do określonego punktu w cyklu, po czym wyrzucała zużytą łuskę, załadowywała nowy pocisk, a przy tym nieco stygła. Taka konfiguracja umożliwiła osiągnięcie większej liczby strzałów na minutę bez przegrzewania broni.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_3">
 			<Text />
@@ -46,7 +46,7 @@
 			<Text />
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_1">
-			<Text>The longsword was the most versatile weapon of the Medieval/Renaissance battlefield. It was lighter and easier to carry than a pike, and it could be used one or two-handed, making it possible for the swordsman to also carry a shield. In face-to-face combat against pikemen the longswordsmen were at a significant disadvantage, taking many casualties from the longer weapons before they could even get within striking distance. However, longswordsmen units were faster and more maneuverable than pikemen - and if they could hit their opponents in a flank attack, the pikemen were dead meat.</Text>
+			<Text>Długi miecz był najbardziej wszechstronną bronią na polu bitwy średniowiecza i renesansu. Był lżejszy i łatwiejszy do przenoszenia niż pika, i mógł być używany jedno lub dwuręcznie, umożliwiając szermierzowi noszenie tarczy. W walce twarzą w twarz z pikinierami, ciężkozbrojni znajdowali się w niekorzystnej sytuacji, ponosząc wiele ofiar od dłuższych broni, zanim zdążyli nawet pokonać dystans. Jednak jednostki ciężkozbrojnych były szybsze i bardziej zwrotne niż pikinierzy - i jeśli potrafili uderzyć swoich przeciwników z flanki, pikinierzy nie mieli żadnych szans.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_2">
 			<Text />
@@ -61,13 +61,13 @@
 			<Text />
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_1">
-			<Text>Historians differ on the origin of the horseshoe. Because iron was a valuable commodity, and any worn out items were generally reforged and reused, it is difficult to locate clear archaeological evidence. Although some credit the Druids, there is no hard evidence to support this claim. In 1897 four bronze horseshoes with what are apparently nail holes were found in an Etruscan tomb dated around 400 B.C. The assertion by some historians that the Romans invented the "mule shoes" sometime after 100 BC is supported by a reference by Catullus who died in 54 BC. However, these references to use of horseshoes and muleshoes in Rome, may have been to the "hipposandal"—leather boots, reinforced by an iron plate, rather than to nailed horseshoes.</Text>
+			<Text>Historycy spierają się o pochodzenie podkowy. Ponieważ żelazo było cennym towarem, a wszelkie zużyte przedmioty były ówcześnie przekuwane i ponownie wykorzystywane, trudno jest znaleźć wyraźne dowody archeologiczne. Chociaż niektórzy twierdzą, że za wynalezieniem podków stoją Druidzi, nie ma konkretnych dowodów na poparcie tego twierdzenia. W 1897 r. znaleziono cztery brązowe podkowy z widocznymi dziurami w grobie Etrusków datowane na 400 r.p.n.e. Twierdzenie niektórych historyków, że Rzymianie wymyślili "buty mułów" po 100 roku przed Chrystusem, jest poparte odwołaniem do Katuliusza, który zmarł w 54 r.p.n.e. Jednak te odniesienia do używania podków w Rzymie mogły tyczyć się raczej skórzanych butów przypominających sandały, wzmocnionych żelaznymi talerzami, niż typowych podków.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_2">
-			<Text>Existing references to the nailed horseshoe are relatively late, first known to have appeared around AD 900, but there may have been earlier uses given that some have been found in layers of dirt. There are no extant references to nailed horseshoes prior to the reign of Emperor Leo VI and by 973 occasional references to them can be found. There is very little evidence of any sort that suggests the existence of nailed-on shoes prior to AD 500 or 600, though there is a find dated to the 5th century A.D. of a horseshoe, complete with nails, found in the tomb of the Frankish King Childeric I at Tournai, Belgium.</Text>
+			<Text>Istniejące odniesienia do podkuwania koni są stosunkowo późne; pierwsze znane pojawiły się około 900 r.n.e., ale mogły być stosowane wcześniej, biorąc pod uwagę, że niektóre zostały znalezione w warstwach ziemi. Nie ma żadnych aktualnych odniesień do podkuwania koni przed panowaniem cesarza Leo VI i od 973 r.n.e., gdy to można znaleźć okazjonalne odniesienia do tego procederu. Istnieje bardzo niewiele dowodów sugerujących istnienie podków przed rokiem 500 lub 600, chociaż istnieje znalezisko datowane na V wiek naszej ery - podkowa, wraz z gwoździami, znaleziona w grobowcu króla franków Childerica I w Tournai w Belgii.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_3">
-			<Text>Around 1000 AD, cast bronze horseshoes with nail holes became common in Europe. Common was a design with a scalloped outer rim and six nail holes. The 13th and 14th centuries brought the widespread manufacturing of iron horseshoes. By the time of the Crusades (1096–1270), horseshoes were widespread and frequently mentioned in various written sources. In that period, due to the value of iron, horseshoes were even accepted in lieu of coin to pay taxes. By the 13th century, shoes were forged in large quantities and could be bought ready-made. Hot shoeing, the process of shaping a heated horseshoe immediately before placing it on the horse, became common in the 16th century. From the need for horseshoes, the craft of blacksmithing became "one of the great staple crafts of medieval and modern times and contributed to the development of metallurgy."</Text>
+			<Text>Około 1000 r.p.n.e., brązowe podkowy z otworami na gwoździe stały się powszechne w Europie. Typowy był wzór z wyprofilowanym zewnętrznym obrzeżem i sześcioma otworami na gwoździe. XIII i XIV wiek przyniosły powszechną produkcję żelaznych podków. W czasach wypraw krzyżowych (1096-1270) podkowy były powszechne i często wspominane w różnych źródłach pisanych. W tym okresie, ze względu na wartość żelaza, zamiast monet płacono nawet końskimi podkowami. W XIII wieku buty były kute w dużych ilościach i można je było kupić w gotowej postaci (nie na miarę, jak dotychczas). Gorące podkuwanie, proces kształtowania rozgrzanej podkowy tuż przed umieszczeniem go na koniu, stało się powszechne w XVI wieku. Od potrzeby podków rzemiosło kowalstwa stało się "jednym z największych rzemiosł średniowiecznych i współczesnych, i przyczyniło się do rozwoju hutnictwa."</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_4">
 			<Text />
@@ -75,11 +75,26 @@
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_1">
+			<Text>Moździerz to urządzenie, które wystrzeliwuje pociski przy małych prędkościach i krótkich zasięgach. Tradycyjnie był używany jako broń do wystrzeliwania bomb w wysoko-łukowych trajektoriach balistycznych. Ładowany jest przez kaganiec za pomocą krótkiej, często gładkiej lufy, zwykle mniejszej niż 15-krotność jej kalibru.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_1">
-			<Text>A rifle is a firearm designed to be fired from the shoulder. The inside of the barrel has "rifled" grooves designed to spin the projectile as it is fired, giving it greater range and accuracy than an unrifled projectile. The earliest attempts at rifled barrels in Europe occurred in the 15th century, but difficulties in manufacturing kept it from general use until the 19th. American frontiersmen had rifles in the American War of Independence. British and American skirmishers and scouts were equipped with rifled muskets during the Napoleonic Wars and the War of 1812, but the weapons' slower loading time kept them out of the hands of the regular infantry for some years further.</Text>
+			<Text>Karabin to broń palna przeznaczona do strzelania z ramienia. Wnętrze lufy ma gwintowane ("spękane") rowki zaprojektowane do obracania pocisku podczas wystrzału, dając mu większy zasięg i dokładność niż niepocięty pocisk. Najwcześniejsze próby gwintowania luf w Europie miały miejsce w XV wieku, ale trudności w produkcji powstrzymały je od powszechnego użytku aż do XIX wieku. Amerykańscy uderzeniowcy mieli karabiny wojnie o niepodległość. Brytyjscy i amerykańscy harcownicy i zwiadowcy byli wyposażeni w gwintowane karabiny podczas wojen napoleońskich i wojny 1812 roku, ale wolniejszy czas ładowania broni nie pozwalał na użycie przez przeciątną piechotę jeszcze przez kilka lat.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_2">
-			<Text>The invention of the "minie ball" greatly reduced loading time, and by the American Civil War rifled muskets were in use in all major European armies. By the end of the Civil War the rifled musket was rendered obsolete by the breech-loading repeating rifle, which had a firing rate of perhaps one shot a second (as fast as one could cock the lever and pull the trigger), compared to the muzzle-loading rifle's firing rate of perhaps 20 to 30 seconds per shot for a well-trained soldier.</Text>
+			<Text>Wynalezienie "pocisku Minie'go" znacznie skróciło czas ładowania, a nidługo potem muszkiety używane podczas wojny secesyjnej zagościły we wszystkich większych armiach europejskich. Pod koniec wojny secesyjnej muszkiet został wyparty przez karabin samopowtarzalny, który strzelał z szybkością jednego strzału na sekundę (tak szybko, jak można było naciągnąć dźwignię i pociągnąć za spust). Dla porównania: szybkostrzelność muszkietu wynosiła od 20 do 30 sekund na strzał dla dobrze wyszkolonego żołnierza.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_3">
 			<Text />
@@ -90,53 +105,110 @@
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_1">
+			<Text>Artyleria samobieżna (zwana także artylerią mobilną lub artylerią ruchomą) jest artylerią wyposażoną we własny układ napędowy. Termin ten obejmuje działka samobieżne (lub haubice) i artylerię rakietową. Są to pojazdy o wysokiej mobilności, zazwyczaj używające gąsienic zamiast kół. Uzbrojeniem może być duża haubica, działo polowe, moździerz albo wyrzutnia rakiet lub pocisków. Artyleria zwykle używana jest do wsparcia bombardowania pośredniego na dalekim zasięgu.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_2">
+			<Text>W przeszłości do samobieżnej artyleri zaliczano karabiny szturmowe i niszczyciele czołgów. Były to ciężkozbrojne pojazdy, z których pierwszy zapewniał bliskie wsparcie ogniowe piechocie, a drugi działał jako wyspecjalizowane pojazdy przeciwczołgowe.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_3">
+			<Text>Nowoczesne samobieżne pojazdy artyleryjskie mogą przypominać czołgi, ale zwykle są lekko opancerzone, zbyt lekko, by przetrwać w walce bezpośredniej. Jednak chronią one swoje załogi przed odłamkami i bronią ręczną, dlatego zazwyczaj spełniają swą rolę jako opancerzone pojazdy bojowe. Wiele jest wyposażonych w karabiny maszynowe do obrony przed piechotą wroga.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_4">
+			<Text>Główną zaletą altylerii samobieżnej nad holowaną artylerią jest to, że można ją uruchomić znacznie szybciej. Zanim holowana artyleria zostanie użyta, musi zatrzymać się, odłączyć i ustawić działa. Aby zmienić pozycję, broń musi być ponownie unieruchomiona i przeniesiona - zwykle odholowana - w nowe miejsce. Dla porównania, artyleria samobieżna może zatrzymać się w wybranym miejscu i niemal natychmiast rozpocząć strzelanie, a następnie szybko przejść do nowej pozycji. Ta umiejętność strzelania i ruchu jest bardzo przydatna w konfliktach mobilnych, a szczególnie podczas uderzenia.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_1">
+			<Text>Trebusz jest potężną średniowieczną bronią oblężniczą. Po raz pierwszy pojawił się w Europie w XII wieku. Mmógł rzucić pocisk ważący 140 kilogramów na, lub ponad ściany wroga z dużej odległości. Średniowieczna europejska wersja trebusza była maszyną "przeciwwagi". Składał się on z bardzo długiego drewnianego ramienia z procą na jednym końcu i ciężaru na drugim. Całość była osadzona na ciężkiej drewnianej ramie. Długie ramię było wyciągnięte, podnosząc ciężki ciężar, a pocisk umieszczony w temblaku. Po zwolnieniu blokady waga opadała, a ramię miotało pocisk na dużą odległość. Maszyny te zasadniczo nie były mobilne i wymagały długiego procesu montażu, ograniczając ich efektywne wykorzystanie do przedłużających się oblężeń.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
-			<Text>Industrial Era Heavy Cavalry unit.</Text>
+			<Text>Jednostka ciężkiej kawalerii epoki przemysłowej.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_CUIRASSIER_NAME">
-			<Text>Cuirassier</Text>
+			<Text>Kirasjerzy</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_EXPLORER_DESCRIPTION">
-			<Text>Fast-moving Renaissance Era Recon unit. Ignores rivers when moving and has no disembark cost.</Text>
+			<Text>Szybka jednostka zwiadowcza epoki renesansu. Ignoruje koszt ruchu przez rzekę i okrętowania.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_EXPLORER_NAME">
-			<Text>Explorer</Text>
+			<Text>Odkrywca</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION">
-			<Text>Industrial Era Anti-Cavalry unit.</Text>
+			<Text>Jednostka przeciwkawaleryjska epoki przemysłowej.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_GATLING_GUN_NAME">
-			<Text>Gatling Gun</Text>
+			<Text>Karabin Gatlinga</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HORSEMAN_NAME">
+			<Text>Konnica</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION">
-			<Text>Medieval Era Melee unit.</Text>
+			<Text>Średniowieczna jednostka walcząca w zwarciu.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_LONGSWORDSMAN_NAME">
-			<Text>Longswordsman</Text>
+			<Text>Ciężkozbrojni</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+			<Text>Jednostka dystansowa epoki atomu. +8 [ICON_Strength] siły bojowej przeciwko jednostkom walczącym wręcz, antykawaleryjskim i lekkiej kawaleri.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION">
-			<Text>Medieval Era Light Cavalry unit.</Text>
+			<Text>Średniowieczna jednostka lekkiej kawalerii.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME">
-			<Text>Horseman</Text>
+			<Text>Lekka jazda</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_UNIT_MORTAR_DESCRIPTION">
+			<Text>Jednostka dystansowa epoki atomu.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_UNIT_MORTAR_NAME">
+			<Text>Moździerz</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION">
-			<Text>Industrial Era Melee unit.</Text>
+			<Text>Jednostka walcząca w zwarciu epoki przemysłowej.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_RIFLEMAN_NAME">
-			<Text>Rifleman</Text>
+			<Text>Strzelcy</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
+			<Text>Jednostka dystansowa epoki informacji.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME">
+			<Text>Wyrzutnia rakiet</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION">
+			<Text>Jednostka oblężnicza epoki informacji.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME">
+			<Text>Altyleria samobieżna</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_TREBUCHET_DESCRIPTION">
-			<Text>Medieval Siege unit.</Text>
+			<Text>Średniowieczna jednostka oblężnicza.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_TREBUCHET_NAME">
-			<Text>Trebuchet</Text>
+			<Text>Trebusz</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>+15 [ICON_Strength] Combat Strength versus Light Cavalry.</Text>
+			<Text>+15 [ICON_Strength] siły bojowej przeciw lekkiej kawalerii.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>+20 [ICON_Strength] Combat Strength versus Heavy Cavalry.</Text>
+			<Text>+20 [ICON_Strength] siły bojowej przeciw ciężkiej kawalerii.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
+			<Text>+8 [ICON_Strength] siły bojowej przeciwko jednostkom walczącym wręcz, antykawaleryjskim i lekkiej kawaleri.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
