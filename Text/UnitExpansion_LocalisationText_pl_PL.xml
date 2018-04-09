@@ -153,7 +153,7 @@
 		<Replace Language="pl_PL" Tag="LOC_UNIT_GATLING_GUN_NAME">
 			<Text>Karabin Gatlinga</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNIT_HORSEMAN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_UNIT_HORSEMAN_NAME">
 			<Text>Konnica</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION">
@@ -207,7 +207,7 @@
 		<Replace Language="pl_PL" Tag="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
 			<Text>+20 [ICON_Strength] siły bojowej przeciw ciężkiej kawalerii.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
+		<Replace Language="pl_PL" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
 			<Text>+8 [ICON_Strength] siły bojowej przeciwko jednostkom walczącym wręcz, antykawaleryjskim i lekkiej kawaleri.</Text>
 		</Replace>
 	</LocalizedText>
