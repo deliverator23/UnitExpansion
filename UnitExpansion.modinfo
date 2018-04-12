@@ -70,7 +70,7 @@
 		<File>Text/UnitExpansion_LocalisationText_zh_Hant_HK.xml</File>
 
 		<!-- Platforms -->
-		<File>Platforms\MacOS\BLPs\VFX.blp</File>
+		<File>Platforms\MacOS\BLPs\trebuchetVFX.blp</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_gatling_gun_attacka</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_gatling_gun_attackb</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_gatling_gun_attack_city</File>
@@ -84,6 +84,7 @@
 		<File>Platforms\MacOS\BLPs\ANIMATION_gatling_gun_start_run</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_gatling_gun_stop_run</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_gatling_gun_victory</File>
+		<File>Platforms\MacOS\BLPs\ANIMATION_Longswordsman_Idle</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_trebuchet_attacka</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_trebuchet_attackb</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_trebuchet_attack_city</File>
@@ -114,29 +115,33 @@
 		<File>Platforms\MacOS\BLPs\TEXTURE_DiffuseTint_Gatling_Gun_African_null</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_DiffuseTint_Gatling_Gun_Brown_Haired_null</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_DiffuseTint_Gatling_Gun_Middle_Eastern_null</File>
+		<File>Platforms\MacOS\BLPs\TEXTURE_DiffuseTint_Gendarme_Plate_Armor_a_null</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_DiffuseTint_Mortar_a_null</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_DiffuseTint_SPGun_a_SPGun_tg2</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_DiffuseTint_trebuchet_a2_null</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_Flat_Normal0</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_Flat_Normal1</File>
+		<File>Platforms\MacOS\BLPs\TEXTURE_Gendarme_Plate_Armor_n0</File>
+		<File>Platforms\MacOS\BLPs\TEXTURE_Gendarme_Plate_Armor_n1</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_Metal_Gloss</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_Mortar_ao</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_Mortar_n0</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_Mortar_n1</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_SPGun_ao</File>
-		<File>Platforms\MacOS\BLPs\TEXTURE_SPGun_g</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_White_AO</File>
 		<File>Platforms\MacOS\BLPs\TEXTURE_White_Metal</File>
 		<File>Platforms\MacOS\BLPs\Icons.blp</File>
-		<File>Platforms\MacOS\BLPs\armoredHorseman.blp</File>
+		<File>Platforms\MacOS\BLPs\armoredHorseman2.blp</File>
 		<File>Platforms\MacOS\BLPs\cuirassier.blp</File>
 		<File>Platforms\MacOS\BLPs\gatling_gun.blp</File>
-		<File>Platforms\MacOS\BLPs\humans.blp</File>
+		<File>Platforms\MacOS\BLPs\longswordsman.blp</File>
+		<File>Platforms\MacOS\BLPs\medieval.blp</File>
 		<File>Platforms\MacOS\BLPs\modernInfantry2.blp</File>
 		<File>Platforms\MacOS\BLPs\mortar.blp</File>
+		<File>Platforms\MacOS\BLPs\recon.blp</File>
 		<File>Platforms\MacOS\BLPs\self_propelled_artillery.blp</File>
 		<File>Platforms\MacOS\BLPs\trebuchet.blp</File>
-		<File>Platforms\Windows\BLPs\VFX.blp</File>
+		<File>Platforms\Windows\BLPs\trebuchetVFX.blp</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_gatling_gun_attacka</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_gatling_gun_attackb</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_gatling_gun_attack_city</File>
@@ -150,6 +155,7 @@
 		<File>Platforms\Windows\BLPs\ANIMATION_gatling_gun_start_run</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_gatling_gun_stop_run</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_gatling_gun_victory</File>
+		<File>Platforms\Windows\BLPs\ANIMATION_Longswordsman_Idle</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_trebuchet_attacka</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_trebuchet_attackb</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_trebuchet_attack_city</File>
@@ -180,27 +186,31 @@
 		<File>Platforms\Windows\BLPs\TEXTURE_DiffuseTint_Gatling_Gun_African_null</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_DiffuseTint_Gatling_Gun_Brown_Haired_null</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_DiffuseTint_Gatling_Gun_Middle_Eastern_null</File>
+		<File>Platforms\Windows\BLPs\TEXTURE_DiffuseTint_Gendarme_Plate_Armor_a_null</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_DiffuseTint_Mortar_a_null</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_DiffuseTint_SPGun_a_SPGun_tg2</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_DiffuseTint_trebuchet_a2_null</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_Flat_Normal0</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_Flat_Normal1</File>
+		<File>Platforms\Windows\BLPs\TEXTURE_Gendarme_Plate_Armor_n0</File>
+		<File>Platforms\Windows\BLPs\TEXTURE_Gendarme_Plate_Armor_n1</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_Metal_Gloss</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_Mortar_ao</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_Mortar_n0</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_Mortar_n1</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_SPGun_ao</File>
-		<File>Platforms\Windows\BLPs\TEXTURE_SPGun_g</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_White_AO</File>
 		<File>Platforms\Windows\BLPs\TEXTURE_White_Metal</File>
 		<File>Platforms\Windows\BLPs\Icons.blp</File>
-		<File>Platforms\Windows\BLPs\armoredHorseman.blp</File>
+		<File>Platforms\Windows\BLPs\armoredHorseman2.blp</File>
 		<File>Platforms\Windows\BLPs\cuirassier.blp</File>
 		<File>Platforms\Windows\BLPs\gatling_gun.blp</File>
-		<File>Platforms\Windows\BLPs\humans.blp</File>
+		<File>Platforms\Windows\BLPs\longswordsman.blp</File>
+		<File>Platforms\Windows\BLPs\medieval.blp</File>
 		<File>Platforms\Windows\BLPs\modernInfantry2.blp</File>
 		<File>Platforms\Windows\BLPs\mortar.blp</File>
+		<File>Platforms\Windows\BLPs\recon.blp</File>
 		<File>Platforms\Windows\BLPs\self_propelled_artillery.blp</File>
 		<File>Platforms\Windows\BLPs\trebuchet.blp</File>
-    </Files>
+	</Files>
 </Mod>
