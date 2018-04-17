@@ -1,7 +1,7 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_1">
-			<Text>Cuirassiers eram a cavalaria equipada com armaduras e armas de fogo, aparecendo pela primeira vez na Europa do final do século 15. Este termo francês significa "aquele com uma couraça", a armadura de peitoral que eles usavam. Os primeiros cuirassiers foram produzidos como resultado da cavalaria blindada, como o homem de armas e demi-lancer, descartando suas lanças e adotando o uso de pistolas como arma principal. No século XVII, o cuirassier perdeu sua armadura de braços e, posteriormente, empregou apenas a couraça (peitoral e placa traseira), e às vezes um capacete. Por essa altura, a espada era a principal arma do couroero, sendo as pistolas relegadas para uma função secundária.</Text>
+			<Text>Couraceiro eram a cavalaria equipada com armaduras e armas de fogo, aparecendo pela primeira vez na Europa do final do século 15. Este termo francês significa "aquele com uma couraça", a armadura de peitoral que eles usavam. Os primeiros couraceiro foram produzidos como resultado da cavalaria blindada, como o homem de armas e demi-lancer, descartando suas lanças e adotando o uso de pistolas como arma principal. No século XVII, o cuirassier perdeu sua armadura de braços e, posteriormente, empregou apenas a couraça (peitoral e placa traseira), e às vezes um capacete. Por essa altura, a espada era a principal arma do couraceiro, sendo as pistolas relegadas para uma função secundária.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_2">
 			<Text />
@@ -16,10 +16,10 @@
 			<Text />
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_1">
-			<Text>A Era da Descoberta ou a Era da Exploração desde o final do século 15 até o século 18, foi um período histórico europeu informal e vagamente definido, marcando o período de tempo em que uma extensa exploração no exterior surgiu como um fator poderoso na cultura européia e no início da globalização. Também marca o surgimento do período de adoção generalizada na Europa do colonialismo e do mercantilismo. Muitas terras anteriormente desconhecidas para os europeus foram descobertas durante esse período, embora a maioria já estivesse habitada. Do ponto de vista de muitos não-europeus, a Era da Descoberta marcou a chegada de colonos e invasores de um continente anteriormente desconhecido.</Text>
+			<Text>A "Era da Descoberta" ou a "Era da Exploração" desde o final do século 15 até o século 18, foi um período histórico europeu informal e vagamente definido, marcando o período de tempo em que uma extensa exploração no exterior surgiu como um fator poderoso na cultura européia e no início da globalização. Também marca o surgimento do período de adoção generalizada na Europa do colonialismo e do mercantilismo. Muitas terras anteriormente desconhecidas para os europeus foram descobertas durante esse período, embora a maioria já estivesse habitada. Do ponto de vista de muitos não-europeus, a Era da Descoberta marcou a chegada de colonos e invasores de um continente anteriormente desconhecido.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_2">
-			<Text>A exploração global começou com as descobertas portuguesas dos arquipélagos atlânticos da Madeira e dos Açores, a costa da África e a descoberta da rota do mar para a Índia em 1498; e, em nome da Coroa de Castela (Espanha), as viagens transatlânticas de Cristóvão Colombo entre 1492 e 1502, e a primeira circunnavegação do globo em 1519-1522. Essas descobertas levaram a numerosas expedições navais nos oceanos atlântico, indiano e Pacífico e expedições terrestres nas Américas, Ásia, África e Austrália que continuaram no final do século 19 e terminaram com a exploração das regiões polares no século XX.</Text>
+			<Text>A exploração global começou com as descobertas portuguesas dos arquipélagos atlânticos da Madeira e dos Açores, a costa da África e a descoberta da rota do mar para a Índia em 1498, e em nome da Coroa de Castela (Espanha), as viagens transatlânticas de Cristóvão Colombo entre 1492 e 1502, e a primeira circunnavegação do globo em 1519 à 1522. Essas descobertas levaram a numerosas expedições navais nos oceanos atlântico, indiano e Pacífico e expedições terrestres nas Américas, Ásia, África e Austrália que continuaram no final do século 19 e terminaram com a exploração das regiões polares no século XX.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_3">
 			<Text />
@@ -46,10 +46,10 @@
 			<Text />
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_1">
-			<Text>A longsword era a arma mais versátil do campo de batalha medieval / renascentista. Era mais leve e mais fácil de transportar do que um pique, e poderia ser usado com uma ou duas mãos, permitindo que o espadachin também carregasse um escudo. No combate face a face contra pikemen, os longswordsmen estavam em uma desvantagem significativa, levando muitas perdas das armas mais longas antes que pudessem chegar a uma distância impressionante. No entanto, as unidades de palavras-chave eram mais rápidas e mais manobráveis ​​do que os pikemen - e se eles pudessem atacar seus adversários em um ataque de flanco, os pikemen eram carne morta.</Text>
+			<Text>O homem de armas era um soldado do período da Alta Idade Média até o Renascimento. Ele era bem versado em vários tipos de armas, como lança, espada, faca, arco e flecha, além de diversos tipos de combate, a pé ou montado num cavalo, sempre de armadura completa (leve ou pesada). Um homem de armas pode ser um cavaleiro ou um nobre, a serviço de alguém hierarquicamente superior a ele ou de uma companhia mercenária. Tais homens poderiam servir mediante pagamento ou obrigação feudal. Por muitas vezes, os termos cavaleiro e homem de armas são frequentemente utilizados de forma intercambiável, porém embora todos os cavaleiros equipados para a guerra serem homens de armas, nem todos os homens de armas são cavaleiros.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_2">
-			<Text />
+			<Text>A "longsword", ou espada longa, era a arma mais versátil do campo de batalha medieval e renascentista utilizada pelos homens de armas. Era mais leve e mais fácil de transportar do que um pique, e poderia ser usado com uma ou duas mãos, permitindo que o espadachin também carregasse um escudo. No combate face a face contra piqueiros, os "espadachins de espada longa" estavam em uma desvantagem significativa, levando muitas perdas das armas mais longas antes que pudessem chegar a uma distância impressionante. No entanto, as unidades de palavras-chave eram mais rápidas e mais manobráveis ​​do que os piqueiros, e se eles pudessem atacar seus adversários em um ataque de flanco, os piqueiros eram carne morta.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_3">
 			<Text />
@@ -61,13 +61,13 @@
 			<Text />
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_1">
-			<Text>Os historiadores diferem sobre a origem da ferradura. Como o ferro era uma mercadoria valiosa, e todos os itens desgastados eram geralmente reforgados e reutilizados, é difícil localizar evidências arqueológicas claras. Apesar de alguns créditos os druidas, não há evidências sólidas para sustentar essa afirmação. Em 1897, quatro ferraduras de bronze com o que aparentemente foram unhas foram encontradas em um túmulo etrusco datado de cerca de 400 aC. A afirmação de alguns historiadores de que os romanos inventaram os "sapatos mule" em algum momento após 100 aC é apoiada por uma referência de Catulo que morreu em 54 aC. No entanto, essas referências ao uso de ferraduras e muleshoes em Roma, talvez tenham sido as botas de "hipopótamo", reforçadas por uma placa de ferro, em vez de ferrar faixas.</Text>
+			<Text>Os historiadores diferem sobre a origem da ferradura. Como o ferro era uma mercadoria valiosa, e todos os itens desgastados eram geralmente reforgados e reutilizados, é difícil localizar evidências arqueológicas claras. Apesar de alguns créditos os druidas, não há evidências sólidas para sustentar essa afirmação. Em 1897, quatro ferraduras de bronze com o que aparentemente foram unhas foram encontradas em um túmulo etrusco datado de cerca de 400 a.C. A afirmação de alguns historiadores de que os romanos inventaram os "sapatos mule" em algum momento após 100 a.C. é apoiada por uma referência de Catulo que morreu em 54 a.C. No entanto, essas referências ao uso de ferraduras e muleshoes em Roma, talvez tenham sido as botas de "hipopótamo", reforçadas por uma placa de ferro, em vez de ferrar faixas.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_2">
-			<Text>As referências existentes à ferradura pregueada são relativamente atrasadas, primeiro conhecido por ter aparecido em torno de 900 dC, mas pode ter havido utilizações anteriores dado que algumas foram encontradas em camadas de sujeira. Não há referências existentes para ferraduras antes do reinado do Imperador Leo VI e, em 973, podem ser encontradas referências ocasionais a elas. Há pouca evidência de qualquer tipo que sugira a existência de sapatos pregados antes de 500 ou 600 dC, embora haja um achado datado do século V dC de ferradura, completo com unhas, encontrado no túmulo do franco King Childeric I em Tournai, Bélgica.</Text>
+			<Text>As referências existentes à ferradura pregueada são relativamente atrasadas, primeiro conhecido por ter aparecido em torno de 900 d.C., mas pode ter havido utilizações anteriores dado que algumas foram encontradas em camadas de sujeira. Não há referências existentes para ferraduras antes do reinado do Imperador Leo VI e, em 973, podem ser encontradas referências ocasionais a elas. Há pouca evidência de qualquer tipo que sugira a existência de sapatos pregados antes de 500 ou 600 d.C., embora haja um achado datado do século V d.C. de ferradura, completo com unhas, encontrado no túmulo do rei franco Quilderico I em Tournai, Bélgica.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_3">
-			<Text>Cerca de 1000 dC, ferraduras de bronze fundido com furos de pregos tornaram-se comuns na Europa. Comum era um design com uma borda exterior com escamas e seis pregos. Os séculos 13 e 14 trouxeram o fabrico generalizado de ferraduras. No momento das Cruzadas (1096-1270), as ferraduras eram generalizadas e freqüentemente mencionadas em várias fontes escritas. Nesse período, devido ao valor do ferro, ferraduras foram aceitas em vez de moeda para pagar impostos. No século 13, os sapatos foram forjados em grandes quantidades e podiam ser comprados prontos. Os calçados quentes, o processo de moldar uma ferradura aquecida imediatamente antes de colocá-lo no cavalo, tornou-se comum no século XVI. A partir da necessidade de ferraduras, o artesanato da ferreteria tornou-se "um dos grandes artesanatos básicos dos tempos medievais e modernos e contribuiu para o desenvolvimento da metalurgia".</Text>
+			<Text>Cerca de 1000 d.C., ferraduras de bronze fundido com furos de pregos tornaram-se comuns na Europa. Comum era um design com uma borda exterior com escamas e seis pregos. Os séculos 13 e 14 trouxeram o fabrico generalizado de ferraduras. No momento das Cruzadas (1096 à 1270), as ferraduras eram generalizadas e freqüentemente mencionadas em várias fontes escritas. Nesse período, devido ao valor do ferro, ferraduras foram aceitas em vez de moeda para pagar impostos. No século 13, os sapatos foram forjados em grandes quantidades e podiam ser comprados prontos. Os calçados quentes, o processo de moldar uma ferradura aquecida imediatamente antes de colocá-lo no cavalo, tornou-se comum no século XVI. A partir da necessidade de ferraduras, o artesanato da ferreteria tornou-se "um dos grandes artesanatos básicos dos tempos medievais e modernos e contribuiu para o desenvolvimento da metalurgia".</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_4">
 			<Text />
@@ -75,8 +75,23 @@
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_1">
+			<Text>Um morteiro é um dispositivo que dispara projéteis em baixas velocidades e distâncias curtas. O morteiro tem sido tradicionalmente usada como arma para impulsionar bombas de argamassa explosivas em trajetórias balísticas de arco alto. A arma é normalmente carregada com um cano curto, geralmente liso, geralmente com menos de 15 vezes o seu calibre.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_1">
-			<Text>Um Rifle é uma arma de fogo projetada para ser disparada do ombro. O interior do cano tem ranhuras "rebocadas" projetadas para girar o projétil à medida que é despedido, proporcionando maior alcance e precisão do que um projétil desprotegido. As primeiras tentativas de barris arrasados ​​na Europa ocorreram no século 15, mas as dificuldades na fabricação mantiveram o uso geral até o século 19. Os homens de fronteira americanos tinham rifles na Guerra de Independência Americana. Escaramuças e escoteiras britânicas e americanas foram equipadas com mosquetes durante as guerras napoleônicas e a Guerra de 1812, mas o tempo de carregamento lento das armas os manteve fora das mãos da infantaria regular durante alguns anos.</Text>
+			<Text>Um rifle ou fuzil é uma arma de fogo projetada para ser disparada do ombro. O interior do cano tem ranhuras "rebocadas" projetadas para girar o projétil à medida que é despedido, proporcionando maior alcance e precisão do que um projétil desprotegido. As primeiras tentativas de barris arrasados ​​na Europa ocorreram no século 15, mas as dificuldades na fabricação mantiveram o uso geral até o século 19. Os homens de fronteira americanos tinham rifles na Guerra de Independência Americana. Escaramuças e escoteiras britânicas e americanas foram equipadas com mosquetes durante as guerras napoleônicas e a Guerra de 1812, mas o tempo de carregamento lento das armas os manteve fora das mãos da infantaria regular durante alguns anos.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_2">
 			<Text>A invenção da "bola minie" reduziu muito o tempo de carregamento, e os mosquetes rifados da Guerra Civil Americana estavam em uso em todos os grandes exércitos europeus. No final da Guerra Civil, o mosquete arremessado tornou-se obsoleto pelo rifle de repetição que carregava o corte, que tinha uma taxa de disparo de talvez um tiro por segundo (tão rápido como se poderia puxar a alavanca e puxar o gatilho), em comparação com o A taxa de disparo do rifle de carregamento de focinho de talvez 20 a 30 segundos por tiro para um soldado bem treinado.</Text>
@@ -90,53 +105,119 @@
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_1">
+			<Text>A artilharia autopropulsada (também chamada de artilharia móvel ou artilharia de locomotiva) é uma artilharia equipada com seu próprio sistema de propulsão para se mover em direção ao seu alvo. Dentro do termo estão cobertos pistolas autopropulsadas (ou obuses) e foguetes de artilharia. São veículos de alta mobilidade, geralmente baseados em trilhos contínuos que transportam um grande obuseiro, canhão de campo, um morteiro ou alguma forma de foguete ou lançador de mísseis. Eles geralmente são usados para suporte de bombardeio indireto de longo alcance no campo de batalha.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_2">
+			<Text>No passado, a artilharia autopropulsada incluía veículos de combate direto, como armas de assalto e destruidores de tanques. Estes veículos foram fortemente blindados, o primeiro fornecendo apoio de fogo próximo para a infantaria e os últimos atuando como veículos anti-tanque especializados.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_3">
+			<Text>Os veículos modernos de artilharia autopropulsada podem superficialmente se parecer com tanques, mas geralmente são levemente blindados, muito leves para sobreviver em combates diretos. No entanto, eles protegem suas tripulações contra estilhaços e armas pequenas e, portanto, são geralmente incluídos como veículos de combate blindados. Muitos estão equipados com metralhadoras para defesa contra a infantaria inimiga.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_4">
+			<Text>A principal vantagem da autopropulsão sobre a artilharia rebocada é que ela pode ser acionada muito mais rapidamente. Antes que a artilharia rebocada possa ser usada, ela tem que parar, liberar e montar as armas. Para movimentar a posição, as armas devem ser levantadas novamente e trazidas, geralmente rebocadas, para o novo local. Em comparação, a artilharia autopropulsada pode parar em um local escolhido e começar a disparar quase imediatamente, depois passar rapidamente para uma nova posição. Essa habilidade de atirar e atirar é muito útil em um conflito móvel e particularmente no avanço.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_1">
+			<Text>O trabuco, em francês chamado de "trébuchet", é uma poderosa arma medieval de cerco. Aparecendo pela primeira vez na Europa no século XII, o trabuco podia atirar um míssil de 136 quilogramas nas paredes do inimigo a longas distâncias. A versão européia medieval do trabuco era uma máquina de "contrapeso". Consistia em um braço muito comprido de madeira com uma tipóia em uma extremidade e um peso pesado na outra, montada sobre uma pesada estrutura de madeira. O braço comprido foi derrubado, elevando o peso pesado e um míssil foi colocado na tipóia. Quando solto, o peso baixaria e o braço se levantaria no ar, arremessando o míssil a uma distância enorme. Essas máquinas geralmente não eram móveis e exigiam um longo processo de montagem, limitando seu uso efetivo a cercos prolongados.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
-			<Text>Unidade a Cavalo Pesada de Era Induatrial.</Text>
+			<Text>Unidade de cavalaria pesada da Era Industrial.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_CUIRASSIER_NAME">
-			<Text>Couraceiro</Text>
+			<Text>Couraceiro|Couraceiros</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_EXPLORER_DESCRIPTION">
-			<Text>Unidade de Reconhecimento e Movimento rápido da Era Renascentista. Ignora Rios quando estiver se movendo e não tem custo de desembarque.</Text>
+			<Text>Unidade de reconhecimento e movimento rápido da Era Renascentista. Ignora rios quando estiver se movendo e não tem custo de desembarque.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_EXPLORER_NAME">
-			<Text>Explorador</Text>
+			<Text>Explorador|Exploradores</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION">
-			<Text>Unidade Anti-Cavalaria de Era Industrial.</Text>
+			<Text>Unidade anticavalaria da Era Industrial. +8 [ICON_Strength] força de combate contra unidades corpo a corpo, anticavalaria e cavalaria leve.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_GATLING_GUN_NAME">
-			<Text>Metralhadora</Text>
+			<Text>Gatling|Gatlings</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION">
-			<Text>Unidade Corpo a Corpo de Era Medieval.</Text>
+			<Text>Unidade corpo a corpo da Era Medieval.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_LONGSWORDSMAN_NAME">
-			<Text>Guerreiro de Espada Longa</Text>
+			<Text>Homem de Armas|Homens de Armas</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+			<Text>Unidade a distância da Era Atômica. +8 [ICON_Strength] força de combate contra unidades corpo a corpo, anticavalaria e cavalaria leve.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION">
-			<Text>Unidade de Cavalaria Leve de Era Medieval.</Text>
+			<Text>Unidade de cavalaria leve da Era Medieval.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME">
-			<Text>Horseman</Text>
+			<Text>Cavaleiro Medieval|Cavaleiros Medievais</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_UNIT_MORTAR_DESCRIPTION">
+			<Text>Unidade a distância da Era Atômica.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_UNIT_MORTAR_NAME">
+			<Text>Morteiro|Morteiros</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION">
 			<Text>Unidade corpo a corpo da Era Industrial.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_RIFLEMAN_NAME">
-			<Text>Fuzileiro</Text>
+			<Text>Fuzileiro|Fuzileiros</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION">
+			<Text>Unidade de cerco da Era da Informação.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME">
+			<Text>Artilharia Autopropulsada|Artilharias Autopropulsadas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_TREBUCHET_DESCRIPTION">
-			<Text>Unidade de Cerco de Era Medieval.</Text>
+			<Text>Unidade de cerco da Era Medieval.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="LOC_UNIT_TREBUCHET_NAME">
-			<Text>Trebuchet</Text>
+			<Text>Trabuco|Trabucos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Replace>
 		<Replace Language="pt_BR" Tag="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>+15 [ICON_Strength] de Força de Combate contra Cavalaria Leve.</Text>
+			<Text>+15 [ICON_Strength] de força de combate contra cavalaria leve.</Text>
 		</Replace>
 		<Replace Language="pt_BR" Tag="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>+20 [ICON_Strength] de Força de Combate contra Cavalaria Pesada.</Text>
+			<Text>+20 [ICON_Strength] de força de combate contra cavalaria pesada.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
+			<Text>+8 [ICON_Strength] força de combate contra unidades corpo a corpo, anticavalaria e cavalaria leve.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
