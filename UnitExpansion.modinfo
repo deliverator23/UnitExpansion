@@ -7,12 +7,6 @@
         <Authors>Deliverator</Authors>
     </Properties>
     <InGameActions>
-        <UpdateDatabase id="UNEX_UpdateDatabase2">
-			<Properties>
-				<LoadOrder>2</LoadOrder>
-			</Properties>
-            <File>Data/UnitExpansion_Data.xml</File>
-        </UpdateDatabase>
 		<UpdateDatabase id="UNEX_UpdateDatabase3">
 			<Properties>
 				<LoadOrder>3</LoadOrder>
@@ -48,7 +42,6 @@
 
 		<!-- Data -->
 		<File>Data/UnitExpansion_Data.sql</File>
-        <File>Data/UnitExpansion_Data.xml</File>
         <File>Data/UnitExpansion_Icons.xml</File>
 
 		<!-- ArtDefs -->
