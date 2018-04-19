@@ -104,11 +104,11 @@
         <Row Name="ICON_UNIT_DLV_COG" Atlas="ICON_ATLAS_UNEX_UNITS" Index="74"/>
         <Row Name="ICON_UNIT_DLV_COG_WHITE" Atlas="ICON_ATLAS_UNEX_UNITS" Index="74"/>
         <Row Name="ICON_UNIT_DLV_COG_BLACK" Atlas="ICON_ATLAS_UNEX_UNITS" Index="74"/>
-        <Row Name="ICON_UNIT_DLV_COG_PORTRAIT" Atlas="ICON_ATLAS_UNIT_PORTRAITS" Index="74"/>
+        <Row Name="ICON_UNIT_DLV_COG_PORTRAIT" Atlas="ICON_ATLAS_UNEX_UNITS_PORTRAITS" Index="74"/>
 
         <Row Name="ICON_UNIT_DLV_GALLEASS" Atlas="ICON_ATLAS_UNEX_UNITS" Index="76"/>
         <Row Name="ICON_UNIT_DLV_GALLEASS_WHITE" Atlas="ICON_ATLAS_UNEX_UNITS" Index="76"/>
         <Row Name="ICON_UNIT_DLV_GALLEASS_BLACK" Atlas="ICON_ATLAS_UNEX_UNITS" Index="76"/>
-        <Row Name="ICON_UNIT_DLV_GALLEASS_PORTRAIT" Atlas="ICON_ATLAS_UNIT_PORTRAITS" Index="76"/>
+        <Row Name="ICON_UNIT_DLV_GALLEASS_PORTRAIT" Atlas="ICON_ATLAS_UNEX_UNITS_PORTRAITS" Index="76"/>
     </IconDefinitions>
 </GameInfo>
