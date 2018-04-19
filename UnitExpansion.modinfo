@@ -105,8 +105,10 @@
 		<File>Platforms\MacOS\BLPs\ANIMATION_u_venetian_galleass_attacka</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_u_venetian_galleass_attackb</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_u_venetian_galleass_bombard_defense</File>
+		<File>Platforms\MacOS\BLPs\ANIMATION_u_venetian_galleass_combat_ready_idle</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_u_venetian_galleass_deatha</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_u_venetian_galleass_deathb</File>
+		<File>Platforms\MacOS\BLPs\ANIMATION_u_venetian_galleass_idlea</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_u_venetian_galleass_idlea_trans_idleb</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_u_venetian_galleass_run</File>
 		<File>Platforms\MacOS\BLPs\ANIMATION_u_venetian_galleass_start_run</File>
@@ -200,8 +202,10 @@
 		<File>Platforms\Windows\BLPs\ANIMATION_u_venetian_galleass_attacka</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_u_venetian_galleass_attackb</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_u_venetian_galleass_bombard_defense</File>
+		<File>Platforms\Windows\BLPs\ANIMATION_u_venetian_galleass_combat_ready_idle</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_u_venetian_galleass_deatha</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_u_venetian_galleass_deathb</File>
+		<File>Platforms\Windows\BLPs\ANIMATION_u_venetian_galleass_idlea</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_u_venetian_galleass_idlea_trans_idleb</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_u_venetian_galleass_run</File>
 		<File>Platforms\Windows\BLPs\ANIMATION_u_venetian_galleass_start_run</File>
