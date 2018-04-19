@@ -64,6 +64,7 @@
                 <Element text="units/recon.blp"/>
                 <Element text="units/self_propelled_artillery.blp"/>
                 <Element text="units/trebuchet.blp"/>
+                <Element text="units/ships.blp"/>
             </PackageDependencies>
         </Element>
         <Element>
