@@ -1,7 +1,3 @@
-DROP TRIGGER OnTypeInsert;
-CREATE TRIGGER OnTypeInsert AFTER INSERT ON Types BEGIN UPDATE Types SET Hash = random() Where Type = New.Type; END;
-PRAGMA foreign_keys = ON;
-
 --Types
 INSERT INTO Types (Type, Kind) VALUES ('UNIT_DLV_RIFLEMAN', 'KIND_UNIT');
 INSERT INTO Types (Type, Kind) VALUES ('UNIT_DLV_CUIRASSIER', 'KIND_UNIT');
