@@ -91,28 +91,91 @@
 			<Text />
 		</Replace>
 		<Replace Language="fr_FR" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
-			<Text>Unité de cavalerie lourde de l'Ère Industrielle.</Text>
+			<Text>Unité de cavalerie lourde de l'ère industrielle.</Text>
 		</Replace>
 		<Replace Language="fr_FR" Tag="LOC_UNIT_CUIRASSIER_NAME">
 			<Text>Cuirassier</Text>
 		</Replace>
 		<Replace Language="fr_FR" Tag="LOC_UNIT_EXPLORER_DESCRIPTION">
-			<Text>Unité de reconnaissance rapide de l'Ère de la Renaissance. Ignore les rivières et les coûts de débarquement.</Text>
+			<Text>Unité de reconnaissance rapide de la Renaissance. Ignore les rivières et les coûts de débarquement.</Text>
 		</Replace>
 		<Replace Language="fr_FR" Tag="LOC_UNIT_EXPLORER_NAME">
 			<Text>Aventurier</Text>
 		</Replace>
 		<Replace Language="fr_FR" Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION">
-			<Text>Unité de combat rapproché de l'Ère médievale .</Text>
+			<Text>Unité de combat rapproché de l'ère médievale .</Text>
 		</Replace>
 		<Replace Language="fr_FR" Tag="LOC_UNIT_LONGSWORDSMAN_NAME">
 			<Text>Spadassin à épée longue</Text>
 		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_COG_DESCRIPTION">
+			<Text>Unité navale de combat rapproché de l'ère médiévale.</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_COG_NAME">
+			<Text>Cogue</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
+			<Text>Unité navale d'attaque à distance de l'ère médiévale.</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_GALLEASS_NAME">
+			<Text>Galéasse</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION">
+			<Text>Unité d'attaque à distance de l'ère industrielle. [ICON_Strength] Puissance de combat +8 contre les unités de combat rapproché, anti-cavalerie et la cavalerie légère.</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_GATLING_GUN_NAME">
+			<Text>Mitrailleuse Gatling</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_HORSEMAN_NAME">
+			<Text>Cavalier léger</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+			<Text>Unité d'attaque à distance de l'ère atomique. [ICON_Strength] Puissance de combat +8 contre les unités de combat rapproché, anti-cavalerie et la cavalerie légère.</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION">
+			<Text>Unité de cavalerie légère et rapide de l'ère médiévale.</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME">
+			<Text>Cavalier</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_MORTAR_DESCRIPTION">
+			<Text>Unité d'attaque à distance de l'ère atomique.</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_MORTAR_NAME">
+			<Text>Mortier</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION">
+			<Text>Unité de combat rapproché de l'ère industrielle.</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_RIFLEMAN_NAME">
+			<Text>Fusilier</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
+			<Text>Unité d'attaque à distance de l'ère de l'information.</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME">
+			<Text>Lance-roquettes</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION">
+			<Text>Cette unité de bombardement de l'ère de l'information est idéale pour l'attaque des villes. Déplacement et attaque dans le même tour impossible sans la promotion Équipage expert.</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME">
+			<Text>Obusier Automoteur</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_TREBUCHET_DESCRIPTION">
+			<Text>Cette unité de bombardement du Moyen-âge est idéale pour l'attaque des villes. Déplacement et attaque dans le même tour impossible sans la promotion Équipage expert.</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="LOC_UNIT_TREBUCHET_NAME">
+			<Text>Trébuchet</Text>
+		</Replace>
 		<Replace Language="fr_FR" Tag="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>+15 [ICON_Strength] Combat Strength versus Light Cavalry.</Text>
+			<Text>[ICON_Strength] Puissance de combat +15 contre la cavalerie légère.</Text>
 		</Replace>
 		<Replace Language="fr_FR" Tag="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>+20 [ICON_Strength] Combat Strength versus Heavy Cavalry.</Text>
+			<Text>[ICON_Strength] Puissance de combat +20 contre la cavalerie lourde.</Text>
+		</Replace>
+		<Replace Language="fr_FR" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
+			<Text>[ICON_Strength] Puissance de combat +8 contre les unités de combat rapproché, anti-cavalerie et la cavalerie légère.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

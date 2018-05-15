@@ -210,6 +210,31 @@
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
+			<Text>Unidade naval a distância da Era Medieval.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_UNIT_GALLEASS_NAME">
+			<Text>Galeaça|Galeaças</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_1">
+			<Text>Galeaças eram navios desenvolvidos a partir de grandes galeras mercantis. Convertidos para uso militar, eram mais altos, maiores e mais lentos que as galeras regulares ("leves"). Galeaças geralmente levavam mais velas do que as verdadeiras galés, e eram muito mais mortíferas; uma galera apanhada do lado de fora jazia desamparada, desde que se aproximava a galope, como num navio da linha, expunha um atacante a seu tiroteio. Relativamente poucas galeaças foram construídas, uma desvantagem foi que, sendo mais dependente de velas, a sua posição na frente da linha de cozinha no início de uma batalha não poderia ser garantida, mas eles foram usados ​​na Batalha de Lepanto em 1571, a sua poder de fogo ajudando a ganhar a vitória da frota da Liga Sagrada, e algumas galeaças fortes acompanharam a Armada Espanhola em 1588 (por exemplo, La Girona). No século XV, um tipo de galebra leve, chamado de fragata, foi construído em países do sul da Europa para responder ao crescente desafio imposto pelos piratas bárbaros do norte da África em suas galeras rápidas.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_UNIT_COG_DESCRIPTION">
+			<Text>Unidade naval corpo a corpo da Era Medieval.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_UNIT_COG_NAME">
+			<Text>Coca|Cocas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_1">
+			<Text>Uma coca é um tipo de navio que apareceu pela primeira vez no século 10, e foi amplamente utilizado por volta do século 12 em diante. As engrenagens eram de clínquer, geralmente de carvalho, que era uma madeira abundante na região báltica da Prússia. Esta embarcação foi equipada com um único mastro e uma única vela quadrada. Estas embarcações estavam principalmente associadas ao comércio marítimo na Europa medieval, especialmente a Liga Hanseática, particularmente na região do Mar Báltico. Eles variavam de 15 a 25 metros (49 a 82 pés) de comprimento com um raio de 5 a 8 metros (16 a 26 pés), e os maiores navios do modelo coca podiam transportar até cerca de 200 toneladas.</Text>
+		</Replace>
+		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_2">
+			<Text>A necessidade de navios espaçosos e relativamente baratos levou ao desenvolvimento do primeiro "cavalo de batalha" da Liga Hanseática, a coca. A nova e melhorada coca não era mais uma simples navio de cabotagem frísio, mas um forte operador marítimo, capaz de atravessar até as passagens mais perigosas. Fortes e duros castelos seriam adicionados para defesa contra piratas, ou para permitir o uso desses navios como navios de guerra, como os usados ​​na Batalha de Sluys.</Text>
+		</Replace>
 		<Replace Language="pt_BR" Tag="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC">
 			<Text>+15 [ICON_Strength] de força de combate contra cavalaria leve.</Text>
 		</Replace>
