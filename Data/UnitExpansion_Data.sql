@@ -209,7 +209,7 @@ UPDATE Units SET Cost = 200 WHERE UnitType = 'UNIT_KNIGHT';
 
 UPDATE Units SET Cost = 200 WHERE UnitType = 'UNIT_ARABIAN_MAMLUK';
 
-UPDATE Units SET Cost = 180 WHERE UnitType = 'UNIT_PIKEMAN';
+UPDATE Units SET Combat = 45, Cost = 160 WHERE UnitType = 'UNIT_PIKEMAN';
 
 UPDATE Units SET BaseSightRange = 2 WHERE UnitType='UNIT_NATURALIST';
 
