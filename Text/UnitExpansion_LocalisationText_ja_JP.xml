@@ -135,6 +135,12 @@
 		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_5">
 			<Text></Text>
 		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_COG_DESCRIPTION">
+			<Text>中世の近接戦闘海洋ユニット。「地図製作法」を研究するまでは沿岸部でしか活動できない。</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_COG_NAME">
+			<Text>コグ船</Text>
+		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
 			<Text>機動力の高い強力な産業時代の重騎兵ユニット。</Text>
 		</Replace>
@@ -146,6 +152,12 @@
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_EXPLORER_NAME">
 			<Text>探検家</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
+			<Text>中世の長距離戦闘海洋ユニット。「地図製作法」を研究するまでは沿岸部でしか活動できない。</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_UNIT_GALLEASS_NAME">
+			<Text>ガレアス船</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION">
 			<Text>産業時代の長距離戦闘ユニット。[NEWLINE][NEWLINE]近接戦闘ユニット、対騎兵ユニット、軽騎兵ユニットに対して [ICON_Strength] 戦闘力+8。</Text>
@@ -215,9 +227,5 @@
 		<Replace Language="ja_JP" Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
 			<Text>マスケット銃兵に取ってかわるスペイン固有のルネサンス時代のユニット。同じタイルに宗教ユニットがいると [ICON_Strength] 戦闘力+9。このユニットが都市を制圧するか、このユニットが隣接した状態で都市を制圧すると、そのプレイヤーの宗教が自動的にその都市の主流宗教になる。</Text>
 		</Replace>
-		<Replace Language="ja_JP" Tag="LOC_UNIT_BARBARIAN_HORSEMAN_NAME">
-			<Text>蛮族の騎手</Text>
-		</Replace>
-
 	</LocalizedText>
 </GameData>
