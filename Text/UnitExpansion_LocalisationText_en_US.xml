@@ -222,5 +222,35 @@
 		<Replace Language="en_US" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
 			<Text>+8 [ICON_Strength] Combat Strength against Melee, Anti Cavalry and Light Cavalry units.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_1">
+			<Text>A cog is a type of ship that first appeared in the 10th century, and was widely used from around the 12th century on. Cogs were clinker-built, generally of oak, which was an abundant timber in the Baltic region of Prussia. This vessel was fitted with a single mast and a square-rigged single sail. These vessels were mostly associated with seagoing trade in medieval Europe, especially the Hanseatic League, particularly in the Baltic Sea region. They ranged from about 15 to 25 meters (49 to 82 ft) in length with a beam of 5 to 8 meters (16 to 26 ft), and the largest cog ships could carry up to about 200 tons.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_1">
+			<Text>Galleasses were military ships developed from large merchant galleys. Converted for military use, they were higher, larger and slower than regular ("light") galleys. They had up to 32 oars, each worked by up to 5 men. They usually had three masts and a forecastle and aftcastle. Much effort was made in Venice to make these galleasses as fast as possible to compete with regular galleys. The gun deck usually ran over the rowers' heads, but there are also pictures showing the opposite arrangement.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_2">
+			<Text>Galleasses usually carried more sails than true galleys and were far deadlier; a galley caught broadside lay all but helpless, since coming broadside to a galleass, as with a ship of the line, exposed an attacker to her gunfire. Relatively few galleasses were built—one disadvantage was that, being more reliant on sails, their position at the front of the galley line at the start of a battle could not be guaranteed—but they were used at the Battle of Lepanto in 1571, their firepower helping to win victory for the Holy League fleet, and some sufficiently seaworthy galleasses accompanied the Spanish Armada in 1588 (e.g. La Girona). In the 15th century, a type of light galleass, called the frigate, was built in southern European countries to answer the increasing challenge posed by the North African-based Barbary pirates in their fast galleys.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_3">
+			<Text>In the Mediterranean, with its less dangerous weather and fickle winds, both galleasses and galleys continued to be in use, particularly in Venice and the Ottoman Empire, long after they became obsolete elsewhere. Later, "round ships" and galleasses were replaced by galleons and ships of the line which originated in Atlantic Europe. The first Venetian ship of the line was built in 1660.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
