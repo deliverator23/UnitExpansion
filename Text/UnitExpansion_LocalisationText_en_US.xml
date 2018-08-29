@@ -226,7 +226,7 @@
 			<Text>+6 [ICON_Strength] Combat Strength against pre-Gunpowder Melee units.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="MINUS_X_VS_CITY_CENTERS_DESC">
-			<Text>-6 [ICON_Strength] Combat Strength against City Centers.</Text>
+			<Text>-6 [ICON_Strength] Combat Strength against Districts.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_1">
 			<Text>A cog is a type of ship that first appeared in the 10th century, and was widely used from around the 12th century on. Cogs were clinker-built, generally of oak, which was an abundant timber in the Baltic region of Prussia. This vessel was fitted with a single mast and a square-rigged single sail. These vessels were mostly associated with seagoing trade in medieval Europe, especially the Hanseatic League, particularly in the Baltic Sea region. They ranged from about 15 to 25 meters (49 to 82 ft) in length with a beam of 5 to 8 meters (16 to 26 ft), and the largest cog ships could carry up to about 200 tons.</Text>
