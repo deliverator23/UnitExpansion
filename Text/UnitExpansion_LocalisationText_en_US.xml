@@ -223,7 +223,7 @@
 			<Text>+8 [ICON_Strength] Combat Strength against Melee, Anti Cavalry and Light Cavalry units.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="PLUS_X_VS_PRE_GUNPOWDER_MELEE_DESC">
-			<Text>+6 [ICON_Strength] Combat Strength against pre-Gunpowder Melee units.</Text>
+			<Text>+6 [ICON_Strength] Combat Strength against pre-Gunpowder Melee units on non-District tiles.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="MINUS_X_VS_CITY_CENTERS_DESC">
 			<Text>-6 [ICON_Strength] Combat Strength against Districts.</Text>
