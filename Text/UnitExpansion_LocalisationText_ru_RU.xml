@@ -75,6 +75,21 @@
 		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_1">
+			<Text>Миномет - это устройство, которое запускает снаряды с низкой скоростью и короткими интервалами. Миномет традиционно использовался в качестве оружия для взрыва взрывных минометных бомб в высокоуровневых баллистических траекториях. Оружие, как правило, представляет собой мордовую нагрузку с коротким, часто гладким стволом, обычно менее чем в 15 раз превышающим его калибр.</Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_1">
 			<Text>Винтовка - огнестрельное оружие, предназначенное для стрельбы с плеча. Внутренняя часть ствола имеет «нарезные» канавки, предназначенные для вращения снаряда при стрельбе, давая ему больший радиус действия и большую точность, чем у снаряда, выпущенного из ненарезного ствола старого мушкета. Самые ранние попытки нарезать стволы в Европе производились ещё в 15 веке, но трудности в производстве препятствовали общему использованию нарезных винтовок до 19-го века. Американские революционеры использовали винтовки с нарезными стволами в войне за независимость. Британские и французские стрелки и разведчики были оснащены нарезными мушкетами во время наполеоновских войн и войны 1812 года. Однако долгая перезарядка оружия требовала дальнейших модификаций магазина и патронов.</Text>
 		</Replace>
@@ -90,6 +105,42 @@
 		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_1">
+			<Text>Самоходная артиллерия (также называемая передвижной артиллерией или локомотивной артиллерией) - это артиллерия, оснащенная собственной двигательной установкой для перемещения к своей цели. В течение этого срока охватываются самоходные орудия (или гаубицы) и ракетная артиллерия. Это автомобили с высокой мобильностью, обычно основанные на непрерывных дорожках с большой гаубицей, полевой пушкой, миномётом или ракетой-ракетой или ракетами. Они обычно используются для поддержки дальних косвенных бомбардировок на поле боя.</Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_1">
+			<Text>Требушет - средневековая метательная машина гравитационного действия для осады городов. Принцип его действия основан на использовании энергии падающего груза большой массы, закреплённого на коротком конце рычага. При этом длинный конец рычага разгоняет пращу со снарядом до большой скорости. Принцип действия простой, и для изготовления требушета необходима артель квалифицированных плотников, древесина подходящих размеров и знание относительно простой механики, что позволило требушетам вытеснить технически более сложные баллисты.	Остаётся неизвестным, когда требушеты появились в Европе. Первое известное упоминание о прототипе требушета содержит сочинение архиепископа фессалоникийского Иоанна «Чудеса святого Димитрия», составленное в 610—620 годах.</Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_UNIT_COG_DESCRIPTION">
+			<Text>Морской юнит Средневековья.</Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_UNIT_COG_NAME">
+			<Text>Когг</Text>
+		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
 			<Text>Мощная тяжелая кавалерия Промышленной эры.</Text>
 		</Replace>
@@ -102,11 +153,20 @@
 		<Replace Language="ru_RU" Tag="LOC_UNIT_EXPLORER_NAME">
 			<Text>Исследователь</Text>
 		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
+			<Text>Морской дальнобойный юнит Средневековья.</Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_UNIT_GALLEASS_NAME">
+			<Text>Галеас</Text>
+		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION">
-			<Text>Мощный антикавалерийский юнит Промышленной эры.</Text>
+			<Text>Дальнобойный юнит Промышленной эры. +8 [ICON_Strength] к боевой мощи против юнитов ближнего боя, антикавалерийских юнитов и легкой кавалерии.</Text>
 		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_UNIT_GATLING_GUN_NAME">
 			<Text>Пулемет Гатлинга</Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_UNIT_HORSEMAN_NAME">
+			<Text>Rider</Text>
 		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION">
 			<Text>Юнит ближнего боя эпохи Средневековья.</Text>
@@ -114,11 +174,20 @@
 		<Replace Language="ru_RU" Tag="LOC_UNIT_LONGSWORDSMAN_NAME">
 			<Text>Меченосец</Text>
 		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+			<Text>Atomic era Ranged unit. +8 [ICON_Strength] Combat Strength against Melee, Anti Cavalry and Light Cavalry units.</Text>
+		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION">
 			<Text>Быстрая легкая кавалерия Средневековья.</Text>
 		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME">
 			<Text>Всадники</Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_UNIT_MORTAR_DESCRIPTION">
+			<Text>Дальнобойный юнит era эпохи Атома.</Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_UNIT_MORTAR_NAME">
+			<Text>Миномет</Text>
 		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION">
 			<Text>Юнит ближнего боя Промышленной эры.</Text>
@@ -126,8 +195,20 @@
 		<Replace Language="ru_RU" Tag="LOC_UNIT_RIFLEMAN_NAME">
 			<Text>Стрелки</Text>
 		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
+			<Text>Дальнобойный юнит Информационной эры</Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME">
+			<Text>Ракетная ПУ</Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION">
+			<Text>Осадный юнит Информационной эры</Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME">
+			<Text>Самоходная артиллерия</Text>
+		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_UNIT_TREBUCHET_DESCRIPTION">
-			<Text>Мощный осадный юнит Средневековья. Идеален для атаки городов. Не может перемещаться и атаковать в тот же ход, пока не заслужит повышение "Опытная команда".</Text>
+			<Text>Мощный осадный юнит Средневековья.</Text>
 		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_UNIT_TREBUCHET_NAME">
 			<Text>Требушет</Text>
@@ -137,6 +218,9 @@
 		</Replace>
 		<Replace Language="ru_RU" Tag="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
 			<Text>+20 [ICON_Strength] к боевой мощи против тяжелой кавалерии.</Text>
+		</Replace>
+		<Replace Language="ru_RU" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
+			<Text>+8 [ICON_Strength] к боевой мощи против юнитов ближнего боя, антикавалерийских юнитов и легкой кавалерии.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
