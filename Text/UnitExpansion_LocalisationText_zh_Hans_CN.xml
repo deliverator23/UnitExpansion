@@ -75,6 +75,21 @@
 		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_1">
+			<Text>迫击炮是一种以低速和短距离发射炮弹的装置。传统上，迫击炮作为一种武器，可以在高速弹道轨迹中推进爆炸迫击炮弹。这种武器通常是用短的，通常是平滑的枪管，通常比它的口径短15倍。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_1">
 			<Text>来复枪是用于抵肩射击的单兵火器。来复枪的枪管内部刻有膛线（即“来复线”），使得子弹发射后高速旋转，与没有膛线的老式火器相比其射程更远，精度更高。欧洲人制造线膛枪的最早尝试是在15世纪，然而生产技术的复杂度使其直到19世纪才得以普及。英国和美国的突击步兵和侦察兵在拿破仑战争和1812年战争期间都使用了线膛火枪，但这种武器装填速度太慢，在之后的许多年中仍无法在正规军中广泛装备。</Text>
 		</Replace>
@@ -90,8 +105,44 @@
 		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_1">
+			<Text>自行火炮(也称为机动火炮或机车火炮)是配备有自己的推进系统的火炮，以向目标前进。在这个术语中，包括自行火炮(或榴弹炮)和火箭炮。它们是高机动车辆，通常基于连续的轨道，携带一个大型榴弹炮、野战炮、迫击炮或某种形式的火箭或导弹发射器。它们通常用于战场上的远程间接轰炸支援。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_2">
+			<Text>在过去，自行火炮包括直火载具，如突击炮和坦克驱逐舰。这些装甲车是重型装甲车辆，前者为步兵提供近距离火力支援，后者则充当专门的反坦克车辆。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_3">
+			<Text>现代的自行火炮可能表面上看起来像坦克，但它们一般都是轻型装甲，在直接交火中太轻了。然而，他们保护他们的工作人员对抗弹片和小武器，因此通常被包括作为装甲战斗车辆。许多装备有机枪用来防御敌人的步兵。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_4">
+			<Text>自推过拖曳式火炮的关键优势在于它可以更快地投入战斗。在牵引火炮可以使用之前，它必须停止，并设置机枪。为了移动位置，枪支必须再次被重新固定起来，并且通常被拖到新的位置。相比之下，自行火炮可以停在选定的位置，几乎立即开火，然后迅速移动到一个新的位置。这种射击和技能在移动冲突中非常有用，特别是在前进的时候。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_1">
+			<Text>巨型投石机是一种强大的中世纪攻城武器。第一次出现在12世纪的欧洲，它可以远距离向敌人的墙壁投掷300磅的石弹。中世纪欧洲版的巨型投石机是一种“平衡锤”。它是一个很长的木制手臂，一端是吊带，另一端是沉重的重量，装在一个沉重的木制框架上。长臂被绞死，举起了沉重的重量，一枚石弹被放置在吊索上。当释放时，重量会下降，手臂会飞向空中，将石弹甩到很远的地方。这些机器一般都是不流动的，需要长时间的组装，从而限制了它们对长时间工作的有效利用。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_COG_DESCRIPTION">
+			<Text>中世纪海军近战单位.</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_COG_NAME">
+			<Text>方帆船</Text>
+		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
-			<Text>工业时代的近战骑兵单位。</Text>
+			<Text>工业时代重骑兵单位。</Text>
 		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_CUIRASSIER_NAME">
 			<Text>胸甲骑兵</Text>
@@ -103,10 +154,19 @@
 			<Text>探险家</Text>
 		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION">
-			<Text>工业时代反骑兵单位。</Text>
+			<Text>工业时代支援单位。对抗除重骑兵以外的陆地单位+8战斗力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
+			<Text>中世纪海军远程单位。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_GALLEASS_NAME">
+			<Text>三桅帆战舰</Text>
 		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_GATLING_GUN_NAME">
 			<Text>加特林机枪</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_HORSEMAN_NAME">
+			<Text>骑手</Text>
 		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION">
 			<Text>中世纪时代的近战单位。</Text>
@@ -114,23 +174,89 @@
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_LONGSWORDSMAN_NAME">
 			<Text>长剑士</Text>
 		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+			<Text>原子能时代支援单位。对抗除重骑兵以外的陆地单位+8战斗力[ICON_Strength]。</Text>
+		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION">
 			<Text>中世纪轻骑兵单位。</Text>
 		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME">
-			<Text>骑兵</Text>
+			<Text>轻骑兵</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_MORTAR_DESCRIPTION">
+			<Text>原子能时代远程单位。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_MORTAR_NAME">
+			<Text>迫击炮</Text>
 		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION">
-			<Text>工业时代的近战单位。</Text>
+			<Text>工业时代近战单位。</Text>
 		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_RIFLEMAN_NAME">
 			<Text>线列步兵</Text>
 		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
+			<Text>信息时代远程单位.</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME">
+			<Text>火箭炮</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION">
+			<Text>信息时代攻城单位。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME">
+			<Text>自行火炮</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_TREBUCHET_DESCRIPTION">
+			<Text>中世纪攻城单位。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_TREBUCHET_NAME">
+			<Text>重力抛石机</Text>
+		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>当对抗轻骑兵单位时+15[ICON_Strength]攻击力</Text>
+			<Text>对抗轻骑兵+15战斗力[ICON_Strength]。</Text>
 		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC">
-			<Text>当对抗重骑兵单位时+20[ICON_Strength]攻击力</Text>
+			<Text>对抗中骑兵+20战斗力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
+			<Text>对抗除重骑兵以外陆地单位+8战斗力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="PLUS_X_VS_PRE_GUNPOWDER_MELEE_DESC">
+			<Text>位于非区域地格对抗前火药近战单位+6战斗力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="MINUS_X_VS_CITY_CENTERS_DESC">
+			<Text>位于区域战斗时-6战斗力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_1">
+			<Text>方帆船是一种最早出现在10世纪的船，从12世纪开始广泛使用。木齿通常是用橡木制成的，是普鲁士波罗的海地区的一种丰富的木材。这条船只装了一根桅杆和一张方帆。这些船只大多与中世纪欧洲的海上贸易有关，特别是汉萨同盟，尤其是波罗的海地区。它们的长度在15 - 25米(49 - 82英尺)之间，横梁长度在5 - 8米(16 - 26英尺)之间，最大的嵌齿船可以装载200吨左右的货物。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_1">
+			<Text>三桅帆战舰是由大型商船发展而来的军用船只。它们被改造成军事用途，比普通的(轻的)监狱更高、更大、更慢。他们有多达32把桨，每把桨最多由5个人操作。他们通常有三个桅杆，一个水手舱和一个船尾楼。威尼斯人尽了很大的努力，使这些苦役犯尽可能快地赶上正规苦役犯。甲板上的炮筒通常会超过划手的头部，但也有图片显示相反的排列。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_2">
+			<Text>三桅帆战舰通常比真正的战舰带更多的帆，而且更加致命;一艘从侧面被俘的战舰躺在那里，几乎毫无办法，因为从侧面撞到一艘大帆船上，就像和一艘船一样，使攻击者暴露在它的炮火之下。相对较少的军舰都建立起了一个缺点是,更依赖于帆,他们的立场在厨房的前面线战斗的开始不能guaranteed-but他们使用在1571年勒班陀战役中,他们的火力帮助赢得神圣联盟舰队的胜利,和一些足够适航军舰伴随1588年西班牙无敌舰队(例如赫罗纳)。在15世纪，一种被称为“护卫舰”的轻型帆船在南欧国家建造，以应对北非巴巴里海盗在他们的快速监狱中日益增长的挑战。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_3">
+			<Text>在地中海，由于气候不那么危险，风也不那么无常，在威尼斯和奥斯曼帝国，尤其是在其他地方早已过时的威尼斯和奥斯曼帝国，长年以来，就一直在使用苦役船和苦役船。后来，“轮船”和帆船被源自大西洋欧洲的加隆和船队所取代。这条线的第一艘威尼斯船建于1660年。</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
