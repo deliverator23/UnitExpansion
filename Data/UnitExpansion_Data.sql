@@ -255,7 +255,7 @@ UPDATE Units SET Combat = 45, Cost = 160 WHERE UnitType = 'UNIT_PIKEMAN';
 
 UPDATE Units SET BaseSightRange = 2 WHERE UnitType='UNIT_NATURALIST';
 
-UPDATE Units SET Bombard = 0, RangedCombat = 95, BaseMoves = 3, PromotionClass = 'PROMOTION_CLASS_RANGED' WHERE UnitType = 'UNIT_ROCKET_ARTILLERY';
+UPDATE Units SET Bombard = 0, RangedCombat = 85, BaseMoves = 3, Range = 2, PromotionClass = 'PROMOTION_CLASS_RANGED' WHERE UnitType = 'UNIT_ROCKET_ARTILLERY';
 
 UPDATE Units SET ZoneOfControl = 1, Cost = 360, Maintenance = 4 WHERE UnitType = 'UNIT_MACHINE_GUN';
 
