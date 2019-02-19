@@ -5,6 +5,7 @@
         <Teaser>Adds 9 new Global Units to Civilization 6</Teaser>
         <Description>This mod adds 9 new Global Units to Civilization 6. The new units are: Longswordsman, Trebuchet, Explorer, (medieval) Horseman, Rifleman, Gatling Gun, Cuirassier, Mortar and Self Propelled Artillery.</Description>
         <Authors>Deliverator</Authors>
+        <CompatibleVersions>2.0</CompatibleVersions>
     </Properties>
     <InGameActions>
 		<UpdateDatabase id="UNEX_UpdateDatabase3">
