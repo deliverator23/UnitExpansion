@@ -3000,7 +3000,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="NorthernEuropean"/>
+                            <m_Name text="European"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -3147,7 +3147,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="Mughal"/>
+                            <m_Name text="Indian"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -3441,7 +3441,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="EastAsian"/>
+                            <m_Name text="Asian"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -3588,7 +3588,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="NorthAfrican"/>
+                            <m_Name text="MiddleEastern"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -3735,7 +3735,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="SouthAfrican"/>
+                            <m_Name text="African"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -5208,7 +5208,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="Mughal"/>
+                            <m_Name text="Indian"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -5600,7 +5600,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="EastAsian"/>
+                            <m_Name text="Asian"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -6384,7 +6384,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="NorthAfrican"/>
+                            <m_Name text="MiddleEastern"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -6776,7 +6776,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="NorthernEuropean"/>
+                            <m_Name text="European"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -7168,7 +7168,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="SouthAfrican"/>
+                            <m_Name text="African"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -8258,7 +8258,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="EastAsian"/>
+                            <m_Name text="Asian"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -8671,7 +8671,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="Mughal"/>
+                            <m_Name text="Indian"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -8864,7 +8864,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="NorthAfrican"/>
+                            <m_Name text="MiddleEastern"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -9075,7 +9075,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="NorthernEuropean"/>
+                            <m_Name text="European"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -9286,7 +9286,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="SouthAfrican"/>
+                            <m_Name text="African"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -10718,7 +10718,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="EastAsian"/>
+                            <m_Name text="Asian"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
 						<Element>
@@ -11110,7 +11110,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="Mughal"/>
+                            <m_Name text="Indian"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
 						<Element>
@@ -11502,7 +11502,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="SouthAfrican"/>
+                            <m_Name text="African"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
 						<Element>
@@ -11894,7 +11894,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="NorthAfrican"/>
+                            <m_Name text="MiddleEastern"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
 
@@ -12679,7 +12679,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="NorthernEuropean"/>
+                            <m_Name text="European"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -14579,7 +14579,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="NorthAfrican"/>
+                            <m_Name text="MiddleEastern"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -14920,7 +14920,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="Mughal"/>
+                            <m_Name text="Indian"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -15261,7 +15261,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="NorthernEuropean"/>
+                            <m_Name text="European"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -15943,7 +15943,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="SouthAfrican"/>
+                            <m_Name text="African"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -16625,7 +16625,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="EastAsian"/>
+                            <m_Name text="Asian"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -17902,7 +17902,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="EastAsian"/>
+                            <m_Name text="Asian"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -18048,7 +18048,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="Mughal"/>
+                            <m_Name text="Indian"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -18121,7 +18121,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="NorthAfrican"/>
+                            <m_Name text="MiddleEastern"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -18194,7 +18194,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="NorthernEuropean"/>
+                            <m_Name text="European"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -18267,7 +18267,7 @@
                                     </Element>
                                 </Element>
                             </m_ChildCollections>
-                            <m_Name text="SouthAfrican"/>
+                            <m_Name text="African"/>
                             <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                         </Element>
                         <Element>
@@ -18528,7 +18528,7 @@
 									</Element>
 								</Element>
 							</m_ChildCollections>
-							<m_Name text="EastAsian"/>
+							<m_Name text="Asian"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 						<Element>
@@ -18666,7 +18666,7 @@
 									</Element>
 								</Element>
 							</m_ChildCollections>
-							<m_Name text="Mughal"/>
+							<m_Name text="Indian"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 						<Element>
@@ -18735,7 +18735,7 @@
 									</Element>
 								</Element>
 							</m_ChildCollections>
-							<m_Name text="NorthAfrican"/>
+							<m_Name text="MiddleEastern"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 						<Element>
@@ -18804,7 +18804,7 @@
 									</Element>
 								</Element>
 							</m_ChildCollections>
-							<m_Name text="NorthernEuropean"/>
+							<m_Name text="European"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 						<Element>
@@ -18873,7 +18873,7 @@
 									</Element>
 								</Element>
 							</m_ChildCollections>
-							<m_Name text="SouthAfrican"/>
+							<m_Name text="African"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 						<Element>
@@ -19028,7 +19028,7 @@
 																<m_ParamName text="Point"/>
 															</Element>
 															<Element class="AssetObjects:ArtDefReferenceValue">
-																<m_ElementName text="CV_Any"/>
+                                                                <m_ElementName text="USE_CIV_COLOR"/>
 																<m_RootCollectionName text="UnitTintTypes"/>
 																<m_ArtDefPath text="Units.artdef"/>
 																<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -19062,489 +19062,6 @@
 								</Element>
 							</m_ChildCollections>
 							<m_Name text="Any"/>
-							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-						</Element>
-						<Element>
-							<m_Fields>
-								<m_Values/>
-							</m_Fields>
-							<m_ChildCollections>
-								<Element>
-									<m_CollectionName text="Variations"/>
-									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-									<Element>
-										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:FloatValue">
-													<m_fValue>1.000000</m_fValue>
-													<m_ParamName text="Scale"/>
-												</Element>
-												<Element class="AssetObjects:BoolValue">
-													<m_bValue>false</m_bValue>
-													<m_ParamName text="IsAttachment"/>
-												</Element>
-											</m_Values>
-										</m_Fields>
-										<m_ChildCollections>
-											<Element>
-												<m_CollectionName text="Attachments"/>
-												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-												<Element>
-													<m_Fields>
-														<m_Values>
-															<Element class="AssetObjects:StringValue">
-																<m_Value text="Root"/>
-																<m_ParamName text="Point"/>
-															</Element>
-															<Element class="AssetObjects:ArtDefReferenceValue">
-																<m_ElementName text="CV_EastAsian"/>
-																<m_RootCollectionName text="UnitTintTypes"/>
-																<m_ArtDefPath text="Units.artdef"/>
-																<m_CollectionIsLocked>true</m_CollectionIsLocked>
-																<m_TemplateName text="Units"/>
-																<m_ParamName text="Tint"/>
-															</Element>
-														</m_Values>
-													</m_Fields>
-													<m_ChildCollections>
-														<Element>
-															<m_CollectionName text="Bins"/>
-															<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-															<Element>
-																<m_Fields>
-																	<m_Values/>
-																</m_Fields>
-																<m_ChildCollections/>
-																<m_Name text="Vehicles/Cog"/>
-																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-															</Element>
-														</Element>
-													</m_ChildCollections>
-													<m_Name text="Ship"/>
-													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-												</Element>
-											</Element>
-										</m_ChildCollections>
-										<m_Name text="A"/>
-										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-									</Element>
-								</Element>
-							</m_ChildCollections>
-							<m_Name text="EastAsian"/>
-							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-						</Element>
-						<Element>
-							<m_Fields>
-								<m_Values/>
-							</m_Fields>
-							<m_ChildCollections>
-								<Element>
-									<m_CollectionName text="Variations"/>
-									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-									<Element>
-										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:FloatValue">
-													<m_fValue>1.000000</m_fValue>
-													<m_ParamName text="Scale"/>
-												</Element>
-												<Element class="AssetObjects:BoolValue">
-													<m_bValue>false</m_bValue>
-													<m_ParamName text="IsAttachment"/>
-												</Element>
-											</m_Values>
-										</m_Fields>
-										<m_ChildCollections>
-											<Element>
-												<m_CollectionName text="Attachments"/>
-												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-												<Element>
-													<m_Fields>
-														<m_Values>
-															<Element class="AssetObjects:StringValue">
-																<m_Value text="Root"/>
-																<m_ParamName text="Point"/>
-															</Element>
-															<Element class="AssetObjects:ArtDefReferenceValue">
-																<m_ElementName text="CV_Mediterranean"/>
-																<m_RootCollectionName text="UnitTintTypes"/>
-																<m_ArtDefPath text="Units.artdef"/>
-																<m_CollectionIsLocked>true</m_CollectionIsLocked>
-																<m_TemplateName text="Units"/>
-																<m_ParamName text="Tint"/>
-															</Element>
-														</m_Values>
-													</m_Fields>
-													<m_ChildCollections>
-														<Element>
-															<m_CollectionName text="Bins"/>
-															<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-															<Element>
-																<m_Fields>
-																	<m_Values/>
-																</m_Fields>
-																<m_ChildCollections/>
-																<m_Name text="Vehicles/Cog"/>
-																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-															</Element>
-														</Element>
-													</m_ChildCollections>
-													<m_Name text="Ship"/>
-													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-												</Element>
-											</Element>
-										</m_ChildCollections>
-										<m_Name text="A"/>
-										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-									</Element>
-								</Element>
-							</m_ChildCollections>
-							<m_Name text="Mediterranean"/>
-							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-						</Element>
-						<Element>
-							<m_Fields>
-								<m_Values/>
-							</m_Fields>
-							<m_ChildCollections>
-								<Element>
-									<m_CollectionName text="Variations"/>
-									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-									<Element>
-										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:FloatValue">
-													<m_fValue>1.000000</m_fValue>
-													<m_ParamName text="Scale"/>
-												</Element>
-												<Element class="AssetObjects:BoolValue">
-													<m_bValue>false</m_bValue>
-													<m_ParamName text="IsAttachment"/>
-												</Element>
-											</m_Values>
-										</m_Fields>
-										<m_ChildCollections>
-											<Element>
-												<m_CollectionName text="Attachments"/>
-												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-												<Element>
-													<m_Fields>
-														<m_Values>
-															<Element class="AssetObjects:StringValue">
-																<m_Value text="Root"/>
-																<m_ParamName text="Point"/>
-															</Element>
-															<Element class="AssetObjects:ArtDefReferenceValue">
-																<m_ElementName text="CV_Mughal"/>
-																<m_RootCollectionName text="UnitTintTypes"/>
-																<m_ArtDefPath text="Units.artdef"/>
-																<m_CollectionIsLocked>true</m_CollectionIsLocked>
-																<m_TemplateName text="Units"/>
-																<m_ParamName text="Tint"/>
-															</Element>
-														</m_Values>
-													</m_Fields>
-													<m_ChildCollections>
-														<Element>
-															<m_CollectionName text="Bins"/>
-															<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-															<Element>
-																<m_Fields>
-																	<m_Values/>
-																</m_Fields>
-																<m_ChildCollections/>
-																<m_Name text="Vehicles/Cog"/>
-																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-															</Element>
-														</Element>
-													</m_ChildCollections>
-													<m_Name text="Ship"/>
-													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-												</Element>
-											</Element>
-										</m_ChildCollections>
-										<m_Name text="A"/>
-										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-									</Element>
-								</Element>
-							</m_ChildCollections>
-							<m_Name text="Mughal"/>
-							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-						</Element>
-						<Element>
-							<m_Fields>
-								<m_Values/>
-							</m_Fields>
-							<m_ChildCollections>
-								<Element>
-									<m_CollectionName text="Variations"/>
-									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-									<Element>
-										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:FloatValue">
-													<m_fValue>1.000000</m_fValue>
-													<m_ParamName text="Scale"/>
-												</Element>
-												<Element class="AssetObjects:BoolValue">
-													<m_bValue>false</m_bValue>
-													<m_ParamName text="IsAttachment"/>
-												</Element>
-											</m_Values>
-										</m_Fields>
-										<m_ChildCollections>
-											<Element>
-												<m_CollectionName text="Attachments"/>
-												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-												<Element>
-													<m_Fields>
-														<m_Values>
-															<Element class="AssetObjects:StringValue">
-																<m_Value text="Root"/>
-																<m_ParamName text="Point"/>
-															</Element>
-															<Element class="AssetObjects:ArtDefReferenceValue">
-																<m_ElementName text="CV_NorthAfrican"/>
-																<m_RootCollectionName text="UnitTintTypes"/>
-																<m_ArtDefPath text="Units.artdef"/>
-																<m_CollectionIsLocked>true</m_CollectionIsLocked>
-																<m_TemplateName text="Units"/>
-																<m_ParamName text="Tint"/>
-															</Element>
-														</m_Values>
-													</m_Fields>
-													<m_ChildCollections>
-														<Element>
-															<m_CollectionName text="Bins"/>
-															<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-															<Element>
-																<m_Fields>
-																	<m_Values/>
-																</m_Fields>
-																<m_ChildCollections/>
-																<m_Name text="Vehicles/Cog"/>
-																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-															</Element>
-														</Element>
-													</m_ChildCollections>
-													<m_Name text="Ship"/>
-													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-												</Element>
-											</Element>
-										</m_ChildCollections>
-										<m_Name text="A"/>
-										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-									</Element>
-								</Element>
-							</m_ChildCollections>
-							<m_Name text="NorthAfrican"/>
-							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-						</Element>
-						<Element>
-							<m_Fields>
-								<m_Values/>
-							</m_Fields>
-							<m_ChildCollections>
-								<Element>
-									<m_CollectionName text="Variations"/>
-									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-									<Element>
-										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:FloatValue">
-													<m_fValue>1.000000</m_fValue>
-													<m_ParamName text="Scale"/>
-												</Element>
-												<Element class="AssetObjects:BoolValue">
-													<m_bValue>false</m_bValue>
-													<m_ParamName text="IsAttachment"/>
-												</Element>
-											</m_Values>
-										</m_Fields>
-										<m_ChildCollections>
-											<Element>
-												<m_CollectionName text="Attachments"/>
-												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-												<Element>
-													<m_Fields>
-														<m_Values>
-															<Element class="AssetObjects:StringValue">
-																<m_Value text="Root"/>
-																<m_ParamName text="Point"/>
-															</Element>
-															<Element class="AssetObjects:ArtDefReferenceValue">
-																<m_ElementName text="CV_NorthernEuropean"/>
-																<m_RootCollectionName text="UnitTintTypes"/>
-																<m_ArtDefPath text="Units.artdef"/>
-																<m_CollectionIsLocked>true</m_CollectionIsLocked>
-																<m_TemplateName text="Units"/>
-																<m_ParamName text="Tint"/>
-															</Element>
-														</m_Values>
-													</m_Fields>
-													<m_ChildCollections>
-														<Element>
-															<m_CollectionName text="Bins"/>
-															<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-															<Element>
-																<m_Fields>
-																	<m_Values/>
-																</m_Fields>
-																<m_ChildCollections/>
-																<m_Name text="Vehicles/Cog"/>
-																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-															</Element>
-														</Element>
-													</m_ChildCollections>
-													<m_Name text="Ship"/>
-													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-												</Element>
-											</Element>
-										</m_ChildCollections>
-										<m_Name text="A"/>
-										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-									</Element>
-								</Element>
-							</m_ChildCollections>
-							<m_Name text="NorthernEuropean"/>
-							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-						</Element>
-						<Element>
-							<m_Fields>
-								<m_Values/>
-							</m_Fields>
-							<m_ChildCollections>
-								<Element>
-									<m_CollectionName text="Variations"/>
-									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-									<Element>
-										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:FloatValue">
-													<m_fValue>1.000000</m_fValue>
-													<m_ParamName text="Scale"/>
-												</Element>
-												<Element class="AssetObjects:BoolValue">
-													<m_bValue>false</m_bValue>
-													<m_ParamName text="IsAttachment"/>
-												</Element>
-											</m_Values>
-										</m_Fields>
-										<m_ChildCollections>
-											<Element>
-												<m_CollectionName text="Attachments"/>
-												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-												<Element>
-													<m_Fields>
-														<m_Values>
-															<Element class="AssetObjects:StringValue">
-																<m_Value text="Root"/>
-																<m_ParamName text="Point"/>
-															</Element>
-															<Element class="AssetObjects:ArtDefReferenceValue">
-																<m_ElementName text="CV_SouthAfrican"/>
-																<m_RootCollectionName text="UnitTintTypes"/>
-																<m_ArtDefPath text="Units.artdef"/>
-																<m_CollectionIsLocked>true</m_CollectionIsLocked>
-																<m_TemplateName text="Units"/>
-																<m_ParamName text="Tint"/>
-															</Element>
-														</m_Values>
-													</m_Fields>
-													<m_ChildCollections>
-														<Element>
-															<m_CollectionName text="Bins"/>
-															<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-															<Element>
-																<m_Fields>
-																	<m_Values/>
-																</m_Fields>
-																<m_ChildCollections/>
-																<m_Name text="Vehicles/Cog"/>
-																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-															</Element>
-														</Element>
-													</m_ChildCollections>
-													<m_Name text="Ship"/>
-													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-												</Element>
-											</Element>
-										</m_ChildCollections>
-										<m_Name text="A"/>
-										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-									</Element>
-								</Element>
-							</m_ChildCollections>
-							<m_Name text="SouthAfrican"/>
-							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-						</Element>
-						<Element>
-							<m_Fields>
-								<m_Values/>
-							</m_Fields>
-							<m_ChildCollections>
-								<Element>
-									<m_CollectionName text="Variations"/>
-									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-									<Element>
-										<m_Fields>
-											<m_Values>
-												<Element class="AssetObjects:FloatValue">
-													<m_fValue>1.000000</m_fValue>
-													<m_ParamName text="Scale"/>
-												</Element>
-												<Element class="AssetObjects:BoolValue">
-													<m_bValue>false</m_bValue>
-													<m_ParamName text="IsAttachment"/>
-												</Element>
-											</m_Values>
-										</m_Fields>
-										<m_ChildCollections>
-											<Element>
-												<m_CollectionName text="Attachments"/>
-												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-												<Element>
-													<m_Fields>
-														<m_Values>
-															<Element class="AssetObjects:StringValue">
-																<m_Value text="Root"/>
-																<m_ParamName text="Point"/>
-															</Element>
-															<Element class="AssetObjects:ArtDefReferenceValue">
-																<m_ElementName text="CV_SouthAmerican"/>
-																<m_RootCollectionName text="UnitTintTypes"/>
-																<m_ArtDefPath text="Units.artdef"/>
-																<m_CollectionIsLocked>true</m_CollectionIsLocked>
-																<m_TemplateName text="Units"/>
-																<m_ParamName text="Tint"/>
-															</Element>
-														</m_Values>
-													</m_Fields>
-													<m_ChildCollections>
-														<Element>
-															<m_CollectionName text="Bins"/>
-															<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-															<Element>
-																<m_Fields>
-																	<m_Values/>
-																</m_Fields>
-																<m_ChildCollections/>
-																<m_Name text="Vehicles/Cog"/>
-																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-															</Element>
-														</Element>
-													</m_ChildCollections>
-													<m_Name text="Ship"/>
-													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-												</Element>
-											</Element>
-										</m_ChildCollections>
-										<m_Name text="A"/>
-										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
-									</Element>
-								</Element>
-							</m_ChildCollections>
-							<m_Name text="SouthAmerican"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 					</Element>
