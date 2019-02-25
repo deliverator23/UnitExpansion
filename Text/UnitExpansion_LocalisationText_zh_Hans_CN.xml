@@ -141,10 +141,10 @@
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_COG_NAME">
 			<Text>方帆船</Text>
 		</Replace>
-		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION">
 			<Text>工业时代重骑兵单位。</Text>
 		</Replace>
-		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_CUIRASSIER_NAME">
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_DLV_CUIRASSIER_NAME">
 			<Text>胸甲骑兵</Text>
 		</Replace>
 		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_EXPLORER_DESCRIPTION">

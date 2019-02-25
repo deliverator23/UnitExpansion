@@ -141,10 +141,10 @@
 		<Replace Language="ja_JP" Tag="LOC_UNIT_COG_NAME">
 			<Text>コグ船</Text>
 		</Replace>
-		<Replace Language="ja_JP" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+		<Replace Language="ja_JP" Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION">
 			<Text>機動力の高い強力な産業時代の重騎兵ユニット。</Text>
 		</Replace>
-		<Replace Language="ja_JP" Tag="LOC_UNIT_CUIRASSIER_NAME">
+		<Replace Language="ja_JP" Tag="LOC_UNIT_DLV_CUIRASSIER_NAME">
 			<Text>胸甲騎兵</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_EXPLORER_DESCRIPTION">

@@ -135,10 +135,10 @@
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_5">
 			<Text></Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION">
 			<Text>Jednostka ciężkiej kawalerii epoki przemysłowej.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_CUIRASSIER_NAME">
+		<Replace Language="pl_PL" Tag="LOC_UNIT_DLV_CUIRASSIER_NAME">
 			<Text>Kirasjerzy</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_UNIT_EXPLORER_DESCRIPTION">

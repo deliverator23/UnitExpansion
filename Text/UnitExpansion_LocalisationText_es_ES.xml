@@ -75,10 +75,10 @@
 		<Replace Language="es_ES" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
-		<Replace Language="es_ES" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+		<Replace Language="es_ES" Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION">
 			<Text>Unidad de caballería pesada de la edad industrial</Text>
 		</Replace>
-		<Replace Language="es_ES" Tag="LOC_UNIT_CUIRASSIER_NAME">
+		<Replace Language="es_ES" Tag="LOC_UNIT_DLV_CUIRASSIER_NAME">
 			<Text>Coracero (Cuirassier)</Text>
 		</Replace>
 		<Replace Language="es_ES" Tag="LOC_UNIT_EXPLORER_DESCRIPTION">

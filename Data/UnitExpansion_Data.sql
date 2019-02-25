@@ -21,7 +21,7 @@ INSERT INTO Types (Type, Kind) VALUES ('ABILITY_CITY_CENTER_NERF', 'KIND_ABILITY
 
 --Units
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PurchaseYield, PromotionClass, Maintenance, Combat, StrategicResource, PrereqTech, MandatoryObsoleteTech) 
-SELECT 'UNIT_DLV_CUIRASSIER', '4', '330', 'ADVISOR_CONQUEST', '2', 1, 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT', 'LOC_UNIT_CUIRASSIER_NAME', 'LOC_UNIT_CUIRASSIER_DESCRIPTION', 'YIELD_GOLD', 'PROMOTION_CLASS_HEAVY_CAVALRY', '5', '64', 'RESOURCE_NITER', 'TECH_BALLISTICS', 'TECH_COMPOSITES'
+SELECT 'UNIT_DLV_CUIRASSIER', '4', '330', 'ADVISOR_CONQUEST', '2', 1, 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT', 'LOC_UNIT_DLV_CUIRASSIER_NAME', 'LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION', 'YIELD_GOLD', 'PROMOTION_CLASS_HEAVY_CAVALRY', '5', '64', 'RESOURCE_NITER', 'TECH_BALLISTICS', 'TECH_COMPOSITES'
 WHERE NOT EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_CUIRASSIER');
 
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PurchaseYield, PromotionClass, Maintenance, Combat, StrategicResource, PrereqTech, MandatoryObsoleteTech)
@@ -291,7 +291,7 @@ UPDATE Units SET BaseSightRange = 2 WHERE UnitType='UNIT_NATURALIST';
 
 UPDATE Units SET Bombard = 0, RangedCombat = 85, BaseMoves = 3, Range = 2, PromotionClass = 'PROMOTION_CLASS_RANGED' WHERE UnitType = 'UNIT_ROCKET_ARTILLERY';
 
-UPDATE Units SET ZoneOfControl = 1, Cost = 360, Maintenance = 4 WHERE UnitType = 'UNIT_MACHINE_GUN';
+UPDATE Units SET Range = 1, ZoneOfControl = 1, Cost = 360, Maintenance = 4 WHERE UnitType = 'UNIT_MACHINE_GUN';
 
 UPDATE ModifierArguments SET Value = 9 WHERE ModifierId = 'CONQUISTADOR_SPECIFIC_UNIT_COMBAT' AND Name = 'Amount';
 

@@ -135,10 +135,10 @@
 		<Replace Language="pt_BR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_5">
 			<Text></Text>
 		</Replace>
-		<Replace Language="pt_BR" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+		<Replace Language="pt_BR" Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION">
 			<Text>Unidade de cavalaria pesada da Era Industrial.</Text>
 		</Replace>
-		<Replace Language="pt_BR" Tag="LOC_UNIT_CUIRASSIER_NAME">
+		<Replace Language="pt_BR" Tag="LOC_UNIT_DLV_CUIRASSIER_NAME">
 			<Text>Couraceiro|Couraceiros</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
