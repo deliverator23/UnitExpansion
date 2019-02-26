@@ -90,10 +90,10 @@
 		<Replace Language="fr_FR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
-		<Replace Language="fr_FR" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+		<Replace Language="fr_FR" Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION">
 			<Text>Unité de cavalerie lourde de l'ère industrielle.</Text>
 		</Replace>
-		<Replace Language="fr_FR" Tag="LOC_UNIT_CUIRASSIER_NAME">
+		<Replace Language="fr_FR" Tag="LOC_UNIT_DLV_CUIRASSIER_NAME">
 			<Text>Cuirassier</Text>
 		</Replace>
 		<Replace Language="fr_FR" Tag="LOC_UNIT_EXPLORER_DESCRIPTION">

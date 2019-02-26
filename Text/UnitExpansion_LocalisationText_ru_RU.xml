@@ -141,10 +141,10 @@
 		<Replace Language="ru_RU" Tag="LOC_UNIT_COG_NAME">
 			<Text>Когг</Text>
 		</Replace>
-		<Replace Language="ru_RU" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+		<Replace Language="ru_RU" Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION">
 			<Text>Мощная тяжелая кавалерия Промышленной эры.</Text>
 		</Replace>
-		<Replace Language="ru_RU" Tag="LOC_UNIT_CUIRASSIER_NAME">
+		<Replace Language="ru_RU" Tag="LOC_UNIT_DLV_CUIRASSIER_NAME">
 			<Text>Кирасиры</Text>
 		</Replace>
 		<Replace Language="ru_RU" Tag="LOC_UNIT_EXPLORER_DESCRIPTION">

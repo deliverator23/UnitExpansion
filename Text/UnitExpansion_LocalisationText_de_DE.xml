@@ -135,10 +135,10 @@
 		<Replace Language="de_DE" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_5">
 			<Text></Text>
 		</Replace>
-		<Replace Language="de_DE" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+		<Replace Language="de_DE" Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION">
 			<Text>Schwere Kavallerieeinheit des Industriezeitalters.</Text>
 		</Replace>
-		<Replace Language="de_DE" Tag="LOC_UNIT_CUIRASSIER_NAME">
+		<Replace Language="de_DE" Tag="LOC_UNIT_DLV_CUIRASSIER_NAME">
 			<Text>Kürassier</Text>
 		</Replace>
 		<Replace Language="de_DE" Tag="LOC_UNIT_EXPLORER_DESCRIPTION">

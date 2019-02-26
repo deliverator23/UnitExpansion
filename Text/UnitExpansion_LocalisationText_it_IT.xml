@@ -90,10 +90,10 @@
 		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Replace>
-		<Replace Language="it_IT" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+		<Replace Language="it_IT" Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION">
 			<Text>Unità di cavalleria pesante di epoca industriale.</Text>
 		</Replace>
-		<Replace Language="it_IT" Tag="LOC_UNIT_CUIRASSIER_NAME">
+		<Replace Language="it_IT" Tag="LOC_UNIT_DLV_CUIRASSIER_NAME">
 			<Text>Corazziere</Text>
 		</Replace>
 		<Replace Language="it_IT" Tag="LOC_UNIT_EXPLORER_DESCRIPTION">
