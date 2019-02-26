@@ -318,6 +318,10 @@ INSERT INTO UnitReplaces (CivUniqueUnitType, ReplacesUnitType) SELECT UnitType,'
 
 /* Gathering Storm Changes */
 
+UPDATE Units SET PrereqTech = 'TECH_BUTTRESS' WHERE UnitType = 'UNIT_DLV_COG' AND EXISTS (SELECT 1 FROM Technologies WHERE TechnologyType = 'TECH_BUTTRESS');
+
+UPDATE Units SET PrereqTech = 'TECH_BUTTRESS' WHERE UnitType = 'UNIT_DLV_GALLEASS' AND EXISTS (SELECT 1 FROM Technologies WHERE TechnologyType = 'TECH_BUTTRESS');
+
 UPDATE UnitUpgrades SET UpgradeUnit = 'UNIT_DLV_LONGSWORDSMAN' WHERE Unit = 'UNIT_MAORI_TOA' AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_MAORI_TOA');
 
 UPDATE UnitUpgrades SET UpgradeUnit = 'UNIT_DLV_COG' WHERE Unit = 'UNIT_PHOENICIA_BIREME' AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_PHOENICIA_BIREME');
