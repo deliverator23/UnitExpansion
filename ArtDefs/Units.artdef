@@ -10610,7 +10610,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Armor/Cuirassier"/>
+                                                                <m_Name text="Armor/Cuirassier_DLV"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
@@ -10647,7 +10647,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Hats/Cuirassier"/>
+                                                                <m_Name text="Hats/Cuirassier_DLV"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>

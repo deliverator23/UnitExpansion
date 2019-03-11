@@ -431,7 +431,7 @@
 														</m_Values>
 													</m_Fields>
 													<m_ChildCollections/>
-													<m_Name text="KnightWarrior_ArmorA"/>
+													<m_Name text="A"/>
 													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 												</Element>
 											</Element>
@@ -441,7 +441,7 @@
 									</Element>
 								</Element>
 							</m_ChildCollections>
-							<m_Name text="Cuirassier"/>
+							<m_Name text="Cuirassier_DLV"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 						<Element>
@@ -2940,7 +2940,7 @@
 									</Element>
 								</Element>
 							</m_ChildCollections>
-							<m_Name text="Cuirassier"/>
+							<m_Name text="Cuirassier_DLV"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 						<Element>
