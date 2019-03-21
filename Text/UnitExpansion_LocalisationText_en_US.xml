@@ -154,7 +154,7 @@
 			<Text>Explorer</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
-			<Text>Medieval Era Naval Ranged unit.</Text>
+			<Text>Medieval Era Naval Ranged unit. +8 [ICON_Strength] Combat Strength when defending.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_GALLEASS_NAME">
 			<Text>Galleass</Text>
@@ -254,6 +254,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_5">
 			<Text></Text>
+		</Replace>
+		<Replace Language="en_US" Tag="PLUS_X_WHEN_DEFENDING_DESC">
+			<Text>+8 [ICON_Strength] Combat Strength when defending.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
