@@ -218,8 +218,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Cog"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="ships.xlp"/>
-																<m_BLPPackage text="units/ships"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -265,8 +265,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="U_Venetian_Galleass"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="ships.xlp"/>
-																<m_BLPPackage text="units/ships"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -325,8 +325,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Mortar_Infantry_Armor"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="mortar.xlp"/>
-																<m_BLPPackage text="units/mortar"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -372,8 +372,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Rifleman_Armor"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="rifleman.xlp"/>
-																<m_BLPPackage text="units/rifleman"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -419,8 +419,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Cuirassier_ArmorA"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="cuirassier.xlp"/>
-																<m_BLPPackage text="units/cuirassier"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -607,8 +607,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="ArmoredHorseman_ArmorA"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="armoredHorseman2.xlp"/>
-																<m_BLPPackage text="units/armoredHorseman2"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -667,8 +667,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Sabre"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="cuirassier.xlp"/>
-																<m_BLPPackage text="units/cuirassier"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -714,8 +714,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="LongswordA"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="longswordsman.xlp"/>
-																<m_BLPPackage text="units/longswordsman"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1117,8 +1117,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Longswordsman_HelmA"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="longswordsman.xlp"/>
-																<m_BLPPackage text="units/longswordsman"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1280,8 +1280,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Self_Propelled_Artillery"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="self_propelled_artillery.xlp"/>
-																<m_BLPPackage text="units/self_propelled_artillery"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1323,8 +1323,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Self_Propelled_Artillery"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="self_propelled_artillery.xlp"/>
-																<m_BLPPackage text="units/self_propelled_artillery"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1366,8 +1366,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Self_Propelled_Artillery"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="self_propelled_artillery.xlp"/>
-																<m_BLPPackage text="units/self_propelled_artillery"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1409,8 +1409,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Self_Propelled_Artillery"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="self_propelled_artillery.xlp"/>
-																<m_BLPPackage text="units/self_propelled_artillery"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1452,8 +1452,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Self_Propelled_Artillery"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="self_propelled_artillery.xlp"/>
-																<m_BLPPackage text="units/self_propelled_artillery"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1495,8 +1495,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Self_Propelled_Artillery"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="self_propelled_artillery.xlp"/>
-																<m_BLPPackage text="units/self_propelled_artillery"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1538,8 +1538,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Self_Propelled_Artillery"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="self_propelled_artillery.xlp"/>
-																<m_BLPPackage text="units/self_propelled_artillery"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1581,8 +1581,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Self_Propelled_Artillery"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="self_propelled_artillery.xlp"/>
-																<m_BLPPackage text="units/self_propelled_artillery"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1624,8 +1624,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Self_Propelled_Artillery"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="self_propelled_artillery.xlp"/>
-																<m_BLPPackage text="units/self_propelled_artillery"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1671,8 +1671,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Trebuchet"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="trebuchet.xlp"/>
-																<m_BLPPackage text="units/trebuchet"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1718,8 +1718,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gatling_Gun"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gatling_gun.xlp"/>
-																<m_BLPPackage text="units/gatling_gun"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1752,8 +1752,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gatling_Gun_Brown_Haired"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gatling_gun.xlp"/>
-																<m_BLPPackage text="units/gatling_gun"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1786,8 +1786,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gatling_Gun_Brown_Haired"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gatling_gun.xlp"/>
-																<m_BLPPackage text="units/gatling_gun"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1820,8 +1820,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gatling_Gun_Middle_Eastern"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gatling_gun.xlp"/>
-																<m_BLPPackage text="units/gatling_gun"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1854,8 +1854,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gatling_Gun_Middle_Eastern"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gatling_gun.xlp"/>
-																<m_BLPPackage text="units/gatling_gun"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1888,8 +1888,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gatling_Gun"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gatling_gun.xlp"/>
-																<m_BLPPackage text="units/gatling_gun"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1922,8 +1922,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gatling_Gun_African"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gatling_gun.xlp"/>
-																<m_BLPPackage text="units/gatling_gun"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1956,8 +1956,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gatling_Gun_Middle_Eastern"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gatling_gun.xlp"/>
-																<m_BLPPackage text="units/gatling_gun"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1990,8 +1990,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gatling_Gun_Middle_Eastern"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gatling_gun.xlp"/>
-																<m_BLPPackage text="units/gatling_gun"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2024,8 +2024,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gatling_Gun_Middle_Eastern"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gatling_gun.xlp"/>
-																<m_BLPPackage text="units/gatling_gun"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2058,8 +2058,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gatling_Gun_Middle_Eastern"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="gatling_gun.xlp"/>
-																<m_BLPPackage text="units/gatling_gun"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2118,8 +2118,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Rifleman_Gun"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="rifleman.xlp"/>
-																<m_BLPPackage text="units/rifleman"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2165,8 +2165,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="ModernInfantry_RifleA2"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="modernInfantry2.xlp"/>
-																<m_BLPPackage text="units/modernInfantry2"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2225,8 +2225,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="ModernInfantryObserver"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="modernInfantry2.xlp"/>
-																<m_BLPPackage text="units/modernInfantry2"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2260,7 +2260,16 @@
 									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 									<Element>
 										<m_Fields>
-											<m_Values/>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="Infantry_European"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
 										</m_Fields>
 										<m_ChildCollections>
 											<Element>
@@ -2272,8 +2281,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="InfantryObserver"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="recon.xlp"/>
-																<m_BLPPackage text="units/recon"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2292,6 +2301,221 @@
 										<m_Name text="Any"/>
 										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 									</Element>
+									<Element>
+										<m_Fields>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="Infantry_Desert"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="InfantryObserver"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="MiddleEastern"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+									<Element>
+										<m_Fields>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="Infantry_Grey"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="InfantryObserver"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="CIVILIZATION_GERMANY"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+									<Element>
+										<m_Fields>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="Infantry_Red"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="InfantryObserver"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Asian"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+									<Element>
+										<m_Fields>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="Infantry_Jungle"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="InfantryObserver"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="SouthAmerican"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+									<Element>
+										<m_Fields>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="Infantry_Dark"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="InfantryObserver"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Barbarian"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
 								</Element>
 							</m_ChildCollections>
 							<m_Name text="InfantryObserver"/>
@@ -2308,12 +2532,12 @@
 									<Element>
 										<m_Fields>
 											<m_Values>
-												<Element class="AssetObjects:ArtDefReferenceValue">
-													<m_ElementName text=""/>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="Infantry_European"/>
 													<m_RootCollectionName text="UnitTintTypes"/>
-													<m_ArtDefPath text=""/>
-													<m_CollectionIsLocked>false</m_CollectionIsLocked>
-													<m_TemplateName text=""/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
 													<m_ParamName text="Tint"/>
 												</Element>
 											</m_Values>
@@ -2328,8 +2552,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="InfantryMortar_ArmorA"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="mortar.xlp"/>
-																<m_BLPPackage text="units/mortar"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2346,6 +2570,221 @@
 											</Element>
 										</m_ChildCollections>
 										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+									<Element>
+										<m_Fields>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="Infantry_Desert"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="InfantryMortar_ArmorA"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="MiddleEastern"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+									<Element>
+										<m_Fields>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="Infantry_Grey"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="InfantryMortar_ArmorA"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="CIVILIZATION_GERMANY"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+									<Element>
+										<m_Fields>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="Infantry_Red"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="InfantryMortar_ArmorA"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Asian"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+									<Element>
+										<m_Fields>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="Infantry_Jungle"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="InfantryMortar_ArmorA"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="SouthAmerican"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+									<Element>
+										<m_Fields>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="Infantry_Dark"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="InfantryMortar_ArmorA"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Barbarian"/>
 										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 									</Element>
 								</Element>
@@ -2375,8 +2814,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Jeep_Infantry"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="recon.xlp"/>
-																<m_BLPPackage text="units/recon"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2422,8 +2861,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="ModernInfantry_ArmorA2"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="modernInfantry2.xlp"/>
-																<m_BLPPackage text="units/modernInfantry2"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2717,8 +3156,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Lancer_HorseArmorA"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="cuirassier.xlp"/>
-																<m_BLPPackage text="units/cuirassier"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2824,8 +3263,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Rifleman_Hat"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="rifleman.xlp"/>
-																<m_BLPPackage text="units/rifleman"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -2918,8 +3357,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Cuirassier_Helm_A"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="cuirassier.xlp"/>
-																<m_BLPPackage text="units/cuirassier"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -3059,8 +3498,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gendarme_Helm_A"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="medieval.xlp"/>
-																<m_BLPPackage text="units/medieval"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -3080,8 +3519,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gendarme_Helm_B"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="medieval.xlp"/>
-																<m_BLPPackage text="units/medieval"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -3101,8 +3540,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Gendarme_Helm_C"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="medieval.xlp"/>
-																<m_BLPPackage text="units/medieval"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -3746,8 +4185,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="ModernMortar"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="mortar.xlp"/>
-																<m_BLPPackage text="units/mortar"/>
+																<m_XLPPath text="unitExpansion.xlp"/>
+																<m_BLPPackage text="units/unitExpansion"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>

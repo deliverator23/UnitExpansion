@@ -54,23 +54,13 @@
         <Element>
             <LibraryName text="Unit"/>
             <PackageDependencies>
-                <Element text="units/armoredHorseman2.blp"/>
-                <Element text="units/cuirassier.blp"/>
-                <Element text="units/gatling_gun.blp"/>
-                <Element text="units/longswordsman.blp"/>
-                <Element text="units/medieval.blp"/>
-                <Element text="units/modernInfantry2.blp"/>
-                <Element text="units/mortar.blp"/>
-                <Element text="units/recon.blp"/>
-                <Element text="units/self_propelled_artillery.blp"/>
-                <Element text="units/trebuchet.blp"/>
-                <Element text="units/ships.blp"/>
+                <Element text="units/unitExpansion.blp"/>
             </PackageDependencies>
         </Element>
         <Element>
             <LibraryName text="VFX"/>
             <PackageDependencies>
-                <Element text="trebuchetVFX.blp"/>
+                <Element text="unitExpansionVFX.blp"/>
             </PackageDependencies>
         </Element>
         <Element>
