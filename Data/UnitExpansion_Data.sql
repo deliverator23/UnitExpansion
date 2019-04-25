@@ -17,7 +17,7 @@ INSERT INTO Types (Type, Kind) VALUES ('ABILITY_EXPLORER', 'KIND_ABILITY');
 INSERT INTO Types (Type, Kind) VALUES ('ABILITY_AUTOMATIC_GUNFIRE', 'KIND_ABILITY');
 INSERT INTO Types (Type, Kind) VALUES ('ABILITY_PRE_GUNPOWDER_MELEE_ATTACK', 'KIND_ABILITY');
 INSERT INTO Types (Type, Kind) VALUES ('ABILITY_CITY_CENTER_NERF', 'KIND_ABILITY');
-
+INSERT INTO Types (Type, Kind) VALUES ('ABILITY_PLUS_X_WHEN_DEFENDING', 'KIND_ABILITY');
 
 --Units
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PurchaseYield, PromotionClass, Maintenance, Combat, StrategicResource, PrereqTech, MandatoryObsoleteTech) 
@@ -138,6 +138,7 @@ INSERT INTO UnitAIInfos (UnitType, AiType) SELECT 'UNIT_DLV_SELF_PROPELLED_ARTIL
 INSERT INTO Tags (Tag, Vocabulary) VALUES ('CLASS_EXPLORER', 'ABILITY_CLASS');
 INSERT INTO Tags (Tag, Vocabulary) VALUES ('CLASS_AUTOMATIC_GUN', 'ABILITY_CLASS');
 INSERT INTO Tags (Tag, Vocabulary) VALUES ('CLASS_GUNPOWDER_MELEE', 'ABILITY_CLASS');
+INSERT INTO Tags (Tag, Vocabulary) VALUES ('CLASS_GALLEASS', 'ABILITY_CLASS');
 
 --TypeTags UNIT <-> CLASS
 INSERT INTO TypeTags (Type, Tag) SELECT 'UNIT_DLV_COG', Tag FROM TypeTags WHERE Type = 'UNIT_GALLEY' AND Tag LIKE 'CLASS_%';

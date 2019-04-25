@@ -9450,9 +9450,9 @@
                                                                 <m_ParamName text="Point"/>
                                                             </Element>
                                                             <Element class="AssetObjects:ArtDefReferenceValue">
-                                                                <m_ElementName text="Caucasian_Dark"/>
+                                                                <m_ElementName text=""/>
                                                                 <m_RootCollectionName text="UnitTintTypes"/>
-                                                                <m_ArtDefPath text="Units.artdef"/>
+                                                                <m_ArtDefPath text=""/>
                                                                 <m_CollectionIsLocked>true</m_CollectionIsLocked>
                                                                 <m_TemplateName text=""/>
                                                                 <m_ParamName text="Tint"/>
@@ -9671,9 +9671,9 @@
                                                                 <m_ParamName text="Point"/>
                                                             </Element>
                                                             <Element class="AssetObjects:ArtDefReferenceValue">
-                                                                <m_ElementName text="Caucasian_Dark"/>
+                                                                <m_ElementName text=""/>
                                                                 <m_RootCollectionName text="UnitTintTypes"/>
-                                                                <m_ArtDefPath text="Units.artdef"/>
+                                                                <m_ArtDefPath text=""/>
                                                                 <m_CollectionIsLocked>true</m_CollectionIsLocked>
                                                                 <m_TemplateName text=""/>
                                                                 <m_ParamName text="Tint"/>
@@ -9892,9 +9892,9 @@
                                                                 <m_ParamName text="Point"/>
                                                             </Element>
                                                             <Element class="AssetObjects:ArtDefReferenceValue">
-                                                                <m_ElementName text="Caucasian_Dark"/>
+                                                                <m_ElementName text=""/>
                                                                 <m_RootCollectionName text="UnitTintTypes"/>
-                                                                <m_ArtDefPath text="Units.artdef"/>
+                                                                <m_ArtDefPath text=""/>
                                                                 <m_CollectionIsLocked>true</m_CollectionIsLocked>
                                                                 <m_TemplateName text=""/>
                                                                 <m_ParamName text="Tint"/>
