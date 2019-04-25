@@ -80,6 +80,8 @@ VALUES ('UNIT_DLV_GALLEASS', 0, 20, NULL, 0, 1, 0, 1, 0);
 --UnitReplaces
 INSERT INTO UnitReplaces (CivUniqueUnitType, ReplacesUnitType) VALUES ('UNIT_SUMERIAN_WAR_CART', 'UNIT_HEAVY_CHARIOT');
 INSERT INTO UnitReplaces (CivUniqueUnitType, ReplacesUnitType) VALUES ('UNIT_JAPANESE_SAMURAI', 'UNIT_DLV_LONGSWORDSMAN');
+INSERT INTO UnitReplaces (CivUniqueUnitType, ReplacesUnitType) VALUES ('UNIT_ENGLISH_REDCOAT', 'UNIT_DLV_RIFLEMAN');
+INSERT INTO UnitReplaces (CivUniqueUnitType, ReplacesUnitType) VALUES ('UNIT_FRENCH_GARDE_IMPERIALE', 'UNIT_DLV_RIFLEMAN');
 
 --UnitUpgrades
 INSERT INTO UnitUpgrades (Unit, UpgradeUnit) VALUES ('UNIT_DLV_TREBUCHET', 'UNIT_BOMBARD');
