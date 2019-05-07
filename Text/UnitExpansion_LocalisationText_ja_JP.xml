@@ -154,7 +154,7 @@
 			<Text>探検家</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
-			<Text>中世の長距離戦闘海洋ユニット。「地図製作法」を研究するまでは沿岸部でしか活動できない。</Text>
+			<Text>中世の長距離戦闘海洋ユニット。防御時に [ICON_Strength] 戦闘力+8。「地図製作法」を研究するまでは沿岸部でしか活動できない。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_GALLEASS_NAME">
 			<Text>ガレアス船</Text>
@@ -164,9 +164,6 @@
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_GATLING_GUN_NAME">
 			<Text>ガトリング砲</Text>
-		</Replace>
-		<Replace Language="ja_JP" Tag="LOC_UNIT_HORSEMAN_NAME">
-			<Text>騎手</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION">
 			<Text>中世の近接戦闘ユニット。</Text>
@@ -181,7 +178,7 @@
 			<Text>移動速度に優れている中世の軽騎兵ユニット。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME">
-			<Text>騎乗兵</Text>
+			<Text>コーサー</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_MORTAR_DESCRIPTION">
 			<Text>原子力時代の長距離戦闘ユニット。</Text>
@@ -202,7 +199,7 @@
 			<Text>ロケット砲</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION">
-			<Text>情報時代の砲撃ユニット。都市を攻撃する際に力を発揮する。[NEWLINE]「熟練搭乗員」レベルアップを獲得しない限り、同じターンに移動と攻撃の両方をおこなうことはできない。</Text>
+			<Text>情報時代の砲撃ユニット。都市を攻撃する際に力を発揮する。[NEWLINE]同じターンに移動と攻撃の両方をおこなえる。</Text>
 		</Replace>
 		<Replace Language="ja_JP" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME">
 			<Text>自走砲</Text>
@@ -221,6 +218,45 @@
 		</Replace>
 		<Replace Language="ja_JP" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
 			<Text>近接戦闘、対騎兵、軽騎兵ユニットに対して+8</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="PLUS_X_VS_PRE_GUNPOWDER_MELEE_DESC">
+			<Text>区域以外にいる火薬前の近接戦闘ユニットに対して+6</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="MINUS_X_VS_CITY_CENTERS_DESC">
+			<Text>区域に対して-6</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_1">
+			<Text>コグ船とは10世紀に登場し、12世紀頃に広く用いられた船である。船体はプロイセンのオーク材で鎧張りし、1本のマストには1枚の横帆を備えていた。中世ヨーロッパでは海洋交易に利用され、特にバルト海のハンザ同盟が活用していた。長さは15メートルから25メートル、幅は5メートルから8メートルに及び、大型のものは約200トンの荷物を運ぶことができた。</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_1">
+			<Text>ガレアス船は軍艦の一種である。旧来のガレー船を改良し、装甲を厚くするなどの工夫を凝らした結果、16世紀に一世を風靡した。オールで漕ぐ商船にマストと帆を加えて、軍用転換したものが多かった。ガレアス船は推進力を2種類持つことで、旧来のガレー船が誇るスピードをほとんど低下させることなく、大砲を装備して敵を撃退することができた。</Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Replace>
+		<Replace Language="ja_JP" Tag="PLUS_X_WHEN_DEFENDING_DESC">
+			<Text>防御時に [ICON_Strength] 戦闘力+8</Text>
 		</Replace>
 
 		<!-- Appendix -->
