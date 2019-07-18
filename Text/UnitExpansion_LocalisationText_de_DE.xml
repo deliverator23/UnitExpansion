@@ -210,5 +210,47 @@
 		<Replace Language="de_DE" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
 			<Text>+8 [ICON_Strength] Kampfstärke gegen Nahkampf, Anti Kavallerie und Leichte Kavallerie Einheiten.</Text>
 		</Replace>
+		<Replace Language="de_DE" Tag="LOC_UNIT_COG_DESCRIPTION">
+			<Text>Marine-Nahkampf Einheit aus dem Mittelalter.</Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_UNIT_COG_NAME">
+			<Text>Kogge</Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
+			<Text>Marine-Fernkampf Einheit aus dem Mittelalter. +8 [ICON_Strength] Kampfstärke bei Verteidigung.</Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_UNIT_GALLEASS_NAME">
+			<Text>Galeasse</Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_1">
+			<Text>Ein Segelschiff der Hanse das eigentlich zum Handel diente, in Kriegszeiten allerdings mit Kanonen ausgestattet wurde. Die Länge der spätmittelalterlichen Koggen betrug etwa 20–30 m, die Breite 5–8 m. Die Segelfläche lag bei ca. 200 m². Die Geschwindigkeit betrug nach Versuchen mit nachgebauten Koggen etwa 3,5 Knoten bei Windstärke 3 und 6 Knoten bei Windstärke 6. Koggen konnten also auch bei mäßigem Wind schneller fahren als Fuhrwerke auf dem Land. Probleme gab es jedoch bei Gegenwind. Kreuzen war wohl nur bei schwachem Wind möglich, da die Schiffe für ihre Länge relativ breit waren. Dafür konnte eine Kogge mit vergleichsweise kleiner Besatzung große Mengen Fracht transportieren.</Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_1">
+			<Text>Eine Kombination aus Segel- und Ruderschiff und geistiger Nachfolger der Galeere. ie war etwa 50 Meter lang und hatte zwischen 800 und 1200 Mann an Bord. Galeassen waren höher gebaut als Galeeren und konnten so nur schwer geentert werden. Während bei Galeeren dieser Epoche alle Geschütze am Bug konzentriert waren, wurde die Bewaffnung der Galeassen über das ganze Schiff verteilt, auf dem Ruderdeck oder auf einem Deck oberhalb der Ruderer. So konnten Galeassen auch nach Backbord und Steuerbord feuern, während die damaligen Galeeren nur in Fahrtrichtung schießen konnten. So rechnete man, dass die Kampfkraft einer Galeasse der Kampfkraft von fünf Galeeren entsprach.</Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Replace>
+		<Replace Language="de_DE" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
