@@ -258,5 +258,20 @@
 		<Replace Language="en_US" Tag="PLUS_X_WHEN_DEFENDING_DESC">
 			<Text>+8 [ICON_Strength] Combat Strength when defending.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_EXPLORER_DESCRIPTION">
+			<Text>Ignores rivers when moving and has no disembark cost.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_AUTOMATIC_GUNFIRE_DESCRIPTION">
+			<Text>+8 [ICON_Strength] Combat Strength against Melee, Anti Cavalry and Light Cavalry units.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_PRE_GUNPOWDER_MELEE_ATTACK_DESCRIPTION">
+			<Text>+6 [ICON_Strength] Combat Strength against pre-Gunpowder Melee units on non-District tiles.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CITY_CENTER_NERF_DESCRIPTION">
+			<Text>-6 [ICON_Strength] Combat Strength against Districts.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_PLUS_X_WHEN_DEFENDING_DESCRIPTION">
+			<Text>+8 [ICON_Strength] Combat Strength when defending.</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
