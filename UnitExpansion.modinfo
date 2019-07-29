@@ -35,6 +35,9 @@
             <File>Data/UnitExpansion_Icons.xml</File>
         </UpdateIcons>
         <UpdateArt id="UNEX_ModArt">
+			<Properties>
+				<LoadOrder>5</LoadOrder>
+			</Properties>
             <File>UnitExpansion.dep</File>
         </UpdateArt>
     </InGameActions>
