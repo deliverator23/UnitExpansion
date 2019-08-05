@@ -2909,7 +2909,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Armor/Longswordsman"/>
+                                                                <m_Name text="Armor/Longswordsman_Gothic"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
@@ -2953,43 +2953,6 @@
                                                         </Element>
                                                     </m_ChildCollections>
                                                     <m_Name text="Weapon"/>
-                                                    <m_AppendMergedParameterCollections>false
-                                                    </m_AppendMergedParameterCollections>
-                                                </Element>
-                                                <Element>
-                                                    <m_Fields>
-                                                        <m_Values>
-                                                            <Element class="AssetObjects:StringValue">
-                                                                <m_Value text="Hat"/>
-                                                                <m_ParamName text="Point"/>
-                                                            </Element>
-                                                            <Element class="AssetObjects:ArtDefReferenceValue">
-                                                                <m_ElementName text="USE_CIV_COLOR"/>
-                                                                <m_RootCollectionName text="UnitTintTypes"/>
-                                                                <m_ArtDefPath text="Units.artdef"/>
-                                                                <m_CollectionIsLocked>true</m_CollectionIsLocked>
-                                                                <m_TemplateName text=""/>
-                                                                <m_ParamName text="Tint"/>
-                                                            </Element>
-                                                        </m_Values>
-                                                    </m_Fields>
-                                                    <m_ChildCollections>
-                                                        <Element>
-                                                            <m_CollectionName text="Bins"/>
-                                                            <m_ReplaceMergedCollectionElements>false
-                                                            </m_ReplaceMergedCollectionElements>
-                                                            <Element>
-                                                                <m_Fields>
-                                                                    <m_Values/>
-                                                                </m_Fields>
-                                                                <m_ChildCollections/>
-                                                                <m_Name text="Hats/Gendarme/Any/A"/>
-                                                                <m_AppendMergedParameterCollections>false
-                                                                </m_AppendMergedParameterCollections>
-                                                            </Element>
-                                                        </Element>
-                                                    </m_ChildCollections>
-                                                    <m_Name text="Hats"/>
                                                     <m_AppendMergedParameterCollections>false
                                                     </m_AppendMergedParameterCollections>
                                                 </Element>
@@ -3056,7 +3019,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Armor/Longswordsman"/>
+                                                                <m_Name text="Armor/Longswordsman_Asian"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
@@ -3093,7 +3056,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Swords/Longswordsman"/>
+                                                                <m_Name text="Swords/Longswordsman_Asian"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
@@ -3350,7 +3313,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Armor/Longswordsman"/>
+                                                                <m_Name text="Armor/Longswordsman_Gothic"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
@@ -3394,43 +3357,6 @@
                                                         </Element>
                                                     </m_ChildCollections>
                                                     <m_Name text="Weapon"/>
-                                                    <m_AppendMergedParameterCollections>false
-                                                    </m_AppendMergedParameterCollections>
-                                                </Element>
-                                                <Element>
-                                                    <m_Fields>
-                                                        <m_Values>
-                                                            <Element class="AssetObjects:StringValue">
-                                                                <m_Value text="Hat"/>
-                                                                <m_ParamName text="Point"/>
-                                                            </Element>
-                                                            <Element class="AssetObjects:ArtDefReferenceValue">
-                                                                <m_ElementName text="USE_CIV_COLOR"/>
-                                                                <m_RootCollectionName text="UnitTintTypes"/>
-                                                                <m_ArtDefPath text="Units.artdef"/>
-                                                                <m_CollectionIsLocked>true</m_CollectionIsLocked>
-                                                                <m_TemplateName text=""/>
-                                                                <m_ParamName text="Tint"/>
-                                                            </Element>
-                                                        </m_Values>
-                                                    </m_Fields>
-                                                    <m_ChildCollections>
-                                                        <Element>
-                                                            <m_CollectionName text="Bins"/>
-                                                            <m_ReplaceMergedCollectionElements>false
-                                                            </m_ReplaceMergedCollectionElements>
-                                                            <Element>
-                                                                <m_Fields>
-                                                                    <m_Values/>
-                                                                </m_Fields>
-                                                                <m_ChildCollections/>
-                                                                <m_Name text="Hats/Gendarme/Any/A"/>
-                                                                <m_AppendMergedParameterCollections>false
-                                                                </m_AppendMergedParameterCollections>
-                                                            </Element>
-                                                        </Element>
-                                                    </m_ChildCollections>
-                                                    <m_Name text="Hats"/>
                                                     <m_AppendMergedParameterCollections>false
                                                     </m_AppendMergedParameterCollections>
                                                 </Element>
@@ -3497,7 +3423,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Armor/Longswordsman"/>
+                                                                <m_Name text="Armor/Longswordsman_Asian"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
@@ -3534,7 +3460,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Swords/Longswordsman"/>
+                                                                <m_Name text="Swords/Longswordsman_Asian"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
