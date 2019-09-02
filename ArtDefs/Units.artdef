@@ -3166,7 +3166,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Armor/Longswordsman"/>
+                                                                <m_Name text="Armor/Longswordsman_Var"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
@@ -3570,7 +3570,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Armor/Longswordsman"/>
+                                                                <m_Name text="Armor/Longswordsman_Var"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
@@ -3717,7 +3717,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Armor/Longswordsman"/>
+                                                                <m_Name text="Armor/Longswordsman_Var"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
@@ -3864,7 +3864,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Armor/Longswordsman"/>
+                                                                <m_Name text="Armor/Longswordsman_Var"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
@@ -4048,7 +4048,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Armor/Longswordsman"/>
+                                                                <m_Name text="Armor/Longswordsman_Var"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
@@ -4232,7 +4232,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Armor/Longswordsman"/>
+                                                                <m_Name text="Armor/Longswordsman_Var"/>
                                                                 <m_AppendMergedParameterCollections>false
                                                                 </m_AppendMergedParameterCollections>
                                                             </Element>
