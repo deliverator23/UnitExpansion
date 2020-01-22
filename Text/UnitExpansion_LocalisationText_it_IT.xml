@@ -1,87 +1,27 @@
 <GameData>
-	<LocalizedText>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_1">
-			<Text>Cuirassiers were cavalry equipped with armour and firearms, first appearing in late 15th-century Europe. This French term means "one with a cuirass", the breastplate armour which they wore. The first cuirassiers were produced as a result of armoured cavalry, such as the man-at-arms and demi-lancer, discarding their lances and adopting the use of pistols as their primary weapon. In the later 17th century, the cuirassier lost his limb armour and subsequently employed only the cuirass (breastplate and backplate), and sometimes a helmet. By this time, the sword was the primary weapon of the cuirassier, pistols being relegated to a secondary function.</Text>
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_2">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_3">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_4">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_5">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_1">
-			<Text>The Age of Discovery or the Age of Exploration from the end of the 15th century to the 18th century, was an informal and loosely defined European historical period marking the time period in which extensive overseas exploration emerged as a powerful factor in European culture and the beginning of globalization. It also marks the rise of the period of widespread adoption in Europe of colonialism and mercantilism. Many lands previously unknown to Europeans were discovered during this period, though most were already inhabited. From the perspective of many non-Europeans, the Age of Discovery marked the arrival of settlers and invaders from a previously unknown continent.</Text>
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_2">
-			<Text>Global exploration started with the Portuguese discoveries of the Atlantic archipelagos of Madeira and the Azores, the coast of Africa, and the discovery of the sea route to India in 1498; and, on behalf of the Crown of Castile (Spain), the trans-Atlantic Voyages of Christopher Columbus between 1492 and 1502, and the first circumnavigation of the globe in 1519–1522. These discoveries led to numerous naval expeditions across the Atlantic, Indian and Pacific oceans, and land expeditions in the Americas, Asia, Africa, and Australia that continued into the late 19th century, and ended with the exploration of the polar regions in the 20th century.</Text>
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_3">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_4">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_5">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_1">
-			<Text>The Gatling gun is one of the best-known early rapid-fire spring loaded, hand cranked weapons and a forerunner of the modern machine gun. Invented by Richard Gatling, it is known for its use by the Union forces during the American Civil War in the 1860s, which was the first time it was employed in combat. Later, it was used again in numerous military conflicts, such as the Boshin War, the Anglo-Zulu War, and the assault on San Juan Hill during the Spanish–American War. It was also used by militias and the National Guard in episodes of the Great Railroad Strike of 1877, specifically in Pittsburgh, Pennsylvania.</Text>
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_2">
-			<Text>The Gatling gun's operation centered on a cyclic multi-barrel design which facilitated cooling and synchronized the firing-reloading sequence. Each barrel fired a single shot when it reached a certain point in the cycle, after which it ejected the spent cartridge, loaded a new round, and, in the process, allowed the barrel to cool somewhat. This configuration allowed higher rates of fire to be achieved without the barrels overheating.</Text>
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_3">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_4">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_5">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_1">
-			<Text>The longsword was the most versatile weapon of the Medieval/Renaissance battlefield. It was lighter and easier to carry than a pike, and it could be used one or two-handed, making it possible for the swordsman to also carry a shield. In face-to-face combat against pikemen the longswordsmen were at a significant disadvantage, taking many casualties from the longer weapons before they could even get within striking distance. However, longswordsmen units were faster and more maneuverable than pikemen - and if they could hit their opponents in a flank attack, the pikemen were dead meat.</Text>
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_2">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_3">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_4">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_5">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_1">
-			<Text>Historians differ on the origin of the horseshoe. Because iron was a valuable commodity, and any worn out items were generally reforged and reused, it is difficult to locate clear archaeological evidence. Although some credit the Druids, there is no hard evidence to support this claim. In 1897 four bronze horseshoes with what are apparently nail holes were found in an Etruscan tomb dated around 400 B.C. The assertion by some historians that the Romans invented the "mule shoes" sometime after 100 BC is supported by a reference by Catullus who died in 54 BC. However, these references to use of horseshoes and muleshoes in Rome, may have been to the "hipposandal"—leather boots, reinforced by an iron plate, rather than to nailed horseshoes.</Text>
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_2">
-			<Text>Existing references to the nailed horseshoe are relatively late, first known to have appeared around AD 900, but there may have been earlier uses given that some have been found in layers of dirt. There are no extant references to nailed horseshoes prior to the reign of Emperor Leo VI and by 973 occasional references to them can be found. There is very little evidence of any sort that suggests the existence of nailed-on shoes prior to AD 500 or 600, though there is a find dated to the 5th century A.D. of a horseshoe, complete with nails, found in the tomb of the Frankish King Childeric I at Tournai, Belgium.</Text>
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_3">
-			<Text>Around 1000 AD, cast bronze horseshoes with nail holes became common in Europe. Common was a design with a scalloped outer rim and six nail holes. The 13th and 14th centuries brought the widespread manufacturing of iron horseshoes. By the time of the Crusades (1096–1270), horseshoes were widespread and frequently mentioned in various written sources. In that period, due to the value of iron, horseshoes were even accepted in lieu of coin to pay taxes. By the 13th century, shoes were forged in large quantities and could be bought ready-made. Hot shoeing, the process of shaping a heated horseshoe immediately before placing it on the horse, became common in the 16th century. From the need for horseshoes, the craft of blacksmithing became "one of the great staple crafts of medieval and modern times and contributed to the development of metallurgy."</Text>
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_4">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_5">
-			<Text />
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_1">
-			<Text>A rifle is a firearm designed to be fired from the shoulder. The inside of the barrel has "rifled" grooves designed to spin the projectile as it is fired, giving it greater range and accuracy than an unrifled projectile. The earliest attempts at rifled barrels in Europe occurred in the 15th century, but difficulties in manufacturing kept it from general use until the 19th. American frontiersmen had rifles in the American War of Independence. British and American skirmishers and scouts were equipped with rifled muskets during the Napoleonic Wars and the War of 1812, but the weapons' slower loading time kept them out of the hands of the regular infantry for some years further.</Text>
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_2">
-			<Text>The invention of the "minie ball" greatly reduced loading time, and by the American Civil War rifled muskets were in use in all major European armies. By the end of the Civil War the rifled musket was rendered obsolete by the breech-loading repeating rifle, which had a firing rate of perhaps one shot a second (as fast as one could cock the lever and pull the trigger), compared to the muzzle-loading rifle's firing rate of perhaps 20 to 30 seconds per shot for a well-trained soldier.</Text>
-		</Replace>
-		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_3">
+         <LocalizedText>
+                <Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_1">
+                        <Text>I Corazzieri erano un'unità di cavalleria con armi da fuoco e armature, apparvero la prima volta nell'Europa del quindicesimo esimo secolo. Questo termine sta a significare "colui che indossa la corazza", l'armatura che indossavano. I primi corazzieri furono il risultato della cavalleria corazzata, come l'uomo d'arme e i cavalieri, ma sostituendo le lance con le pistole come arma primaria. Nel tardo diciassettesimo secolo, i corazzieri smisero di utilizzare l'armatura sui loro arti e cominciarono ad utilizzare solo l'armatura per il torso (sia fronte che retro), e a volta un elmetto. A questi tempi, la spada era diventata l'arma principale dei corazzieri, relegando la pistola alla funzione di arma secondaria.</Text>
+                </Replace>
+                <Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_2">
+                        <Text />
+                </Replace>
+                <Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_3">
+		        <Text />
+                </Replace>
+                <Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_4">
+                        <Text />
+                </Replace>
+                <Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_5">
+                        <Text />
+                </Replace>
+                <Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_1">
+                        <Text>L'Età della Scoperta e l'Età dell'Esplorazione dalla fine del quindicesimo secolo al diciottesimo secolo, furono un periodo storico informale e poco ricordato in Europa che ha segnato la nascita delle esplorazioni oltremare estese come fattore di potenza nella cultura Europea e l'inizio della globalizzazione. Ha segnato anche l'ascesa dei periodi, adottati a macchia d'olio in tutta Europa, del colonialismo e del mercantilismo. Molte terre precedentemente sconosciute agli Europei vennero scoperte durante questo periodo, nonostante la maggior parte di queste erano già abitate. Dal punto di vista di molti non Europei, l'Età della Scoperta ha segnato il periodo dell'arrivo dei coloni e degli invasori da un continente precedentemente sconosciuto.</Text>
+                </Replace>
+                <Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_2">
+                        <Text>L'esplorazione globale iniziò con le scoperte portoghesi degli arcipelaghi atlantici di Madera e delle Azzorre, la costa dell'Africa e la scoperta della rotta marittima per l'India nel 1498; e, per conto della Corona di Castiglia (Spagna), i viaggi transatlantici di Cristoforo Colombo tra il 1492 e il 1502 e la prima circumnavigazione del globo nel 1519-1522. Queste scoperte portarono a numerose spedizioni navali attraverso l'oceano Atlantico, Indiano e Pacifico e spedizioni terrestri nelle Americhe, in Asia, Africa e Australia che continuarono fino alla fine del XIX secolo e terminarono con l'esplorazione delle regioni polari nel XX secolo.</Text>
+                </Replace>
+                <Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_3">
 			<Text />
 		</Replace>
 		<Replace Language="it_IT" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_4">
