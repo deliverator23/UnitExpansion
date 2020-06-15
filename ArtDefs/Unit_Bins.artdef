@@ -773,6 +773,62 @@
 							<m_Name text="ArmoredHorseman"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="USE_CIV_COLOR"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Cuirassier_Sword_ArmorA"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="extraUnits.xlp"/>
+																<m_BLPPackage text="units/extraUnits"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Cuirassier_Sword"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
 					</Element>
 				</m_ChildCollections>
 				<m_Name text="Armor"/>
@@ -808,8 +864,8 @@
 															<Element class="AssetObjects:BLPEntryValue">
 																<m_EntryName text="Sabre"/>
 																<m_XLPClass text="Unit"/>
-																<m_XLPPath text="unitExpansion.xlp"/>
-																<m_BLPPackage text="units/unitExpansion"/>
+																<m_XLPPath text="extraUnits.xlp"/>
+																<m_BLPPackage text="units/extraUnits"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -1375,6 +1431,62 @@
 								</Element>
 							</m_ChildCollections>
 							<m_Name text="Peltast"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values>
+												<Element class="AssetObjects..ArtDefReferenceValue">
+													<m_ElementName text="USE_CIV_COLOR"/>
+													<m_RootCollectionName text="UnitTintTypes"/>
+													<m_ArtDefPath text="Units.artdef"/>
+													<m_CollectionIsLocked>true</m_CollectionIsLocked>
+													<m_TemplateName text="Units"/>
+													<m_ParamName text="Tint"/>
+												</Element>
+											</m_Values>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects..BLPEntryValue">
+																<m_EntryName text="Cuirassier_helmet_01"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects..FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Cuirassier"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 					</Element>

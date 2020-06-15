@@ -54,6 +54,7 @@
         <Element>
             <LibraryName text="Unit"/>
             <PackageDependencies>
+                <Element text="units/extraUnits.blp"/>
                 <Element text="units/unitExpansion.blp"/>
             </PackageDependencies>
         </Element>

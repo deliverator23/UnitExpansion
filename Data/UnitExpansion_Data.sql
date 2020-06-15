@@ -1,3 +1,6 @@
+--Units_XP2
+CREATE TABLE IF NOT EXISTS Units_XP2 (UnitType VARCHAR, ResourceMaintenanceAmount INTEGER, ResourceCost INTEGER, ResourceMaintenanceType VARCHAR, TourismBomb INTEGER, CanEarnExperience BOOLEAN, TourismBombPossible BOOLEAN, CanFormMilitaryFormation BOOLEAN, MajorCivOnly BOOLEAN);
+
 --Types (KIND_UNIT)
 INSERT INTO Types (Type, Kind) SELECT 'UNIT_DLV_CUIRASSIER', 'KIND_UNIT' WHERE NOT EXISTS (SELECT 1 FROM Types WHERE Type = 'UNIT_CUIRASSIER');
 INSERT INTO Types (Type, Kind) SELECT 'UNIT_DLV_MEDIEVAL_HORSEMAN', 'KIND_UNIT' WHERE NOT EXISTS (SELECT 1 FROM Types WHERE Type = 'UNIT_COURSER');
@@ -35,6 +38,11 @@ WHERE NOT EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_SKIRMISHER');
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PurchaseYield, PromotionClass, Maintenance, Combat, StrategicResource, PrereqTech, MandatoryObsoleteTech)
 VALUES ('UNIT_DLV_RIFLEMAN', '2', '310', 'ADVISOR_CONQUEST', '2', 1, 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT', 'LOC_UNIT_RIFLEMAN_NAME', 'LOC_UNIT_RIFLEMAN_DESCRIPTION', 'YIELD_GOLD', 'PROMOTION_CLASS_MELEE', '4', '64', 'RESOURCE_NITER', 'TECH_RIFLING', 'TECH_SATELLITES');
 
+INSERT INTO Units_XP2 (UnitType, ResourceMaintenanceAmount, ResourceCost, ResourceMaintenanceType, TourismBomb, CanEarnExperience, TourismBombPossible, CanFormMilitaryFormation, MajorCivOnly)
+SELECT 'UNIT_DLV_RIFLEMAN', ResourceMaintenanceAmount, ResourceCost, ResourceMaintenanceType, TourismBomb, CanEarnExperience, TourismBombPossible, CanFormMilitaryFormation, MajorCivOnly
+FROM   Units_XP2
+WHERE  Units_XP2.UnitType = 'UNIT_MUSKETMAN';
+
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PurchaseYield, PromotionClass, Maintenance, Combat, Range, Bombard, PrereqTech, MandatoryObsoleteTech) 
 VALUES ('UNIT_DLV_TREBUCHET', '2', '200', 'ADVISOR_CONQUEST', '2', 0, 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT', 'LOC_UNIT_TREBUCHET_NAME', 'LOC_UNIT_TREBUCHET_DESCRIPTION', 'YIELD_GOLD', 'PROMOTION_CLASS_SIEGE', '3', '33', '2', '45', 'TECH_MILITARY_ENGINEERING', 'TECH_BALLISTICS');
 
@@ -56,17 +64,11 @@ VALUES ('UNIT_DLV_COG', '150', '2', '3', '3', 1, 'DOMAIN_SEA', '38', 'FORMATION_
 INSERT INTO Units (UnitType, Cost, Maintenance, BaseMoves, BaseSightRange, ZoneOfControl, Domain, Combat, RangedCombat, Range, FormationClass, PromotionClass, AdvisorType, Name, Description, PurchaseYield, PseudoYieldType, StrategicResource, MandatoryObsoleteTech, PrereqTech)
 VALUES ('UNIT_DLV_GALLEASS', '200', '3', '3', '2', 1, 'DOMAIN_SEA', '32', '32', '2', 'FORMATION_CLASS_NAVAL', 'PROMOTION_CLASS_NAVAL_RANGED', 'ADVISOR_CONQUEST', 'LOC_UNIT_GALLEASS_NAME', 'LOC_UNIT_GALLEASS_DESCRIPTION', 'YIELD_GOLD', 'PSEUDOYIELD_UNIT_NAVAL_COMBAT', 'RESOURCE_NITER', 'TECH_STEEL', 'TECH_MILITARY_ENGINEERING');
 
---Units_XP2
-CREATE TABLE IF NOT EXISTS Units_XP2 (UnitType VARCHAR, ResourceMaintenanceAmount INTEGER, ResourceCost INTEGER, ResourceMaintenanceType VARCHAR, TourismBomb INTEGER, CanEarnExperience BOOLEAN, TourismBombPossible BOOLEAN, CanFormMilitaryFormation BOOLEAN, MajorCivOnly BOOLEAN);
-
 INSERT INTO Units_XP2 (UnitType, ResourceMaintenanceAmount, ResourceCost, ResourceMaintenanceType, TourismBomb, CanEarnExperience, TourismBombPossible, CanFormMilitaryFormation, MajorCivOnly)
 SELECT UnitType, 0, 20, NULL, 0, 1, 0, 1, 0 FROM Units WHERE UnitType = 'UNIT_DLV_CUIRASSIER';
 
 INSERT INTO Units_XP2 (UnitType, ResourceMaintenanceAmount, ResourceCost, ResourceMaintenanceType, TourismBomb, CanEarnExperience, TourismBombPossible, CanFormMilitaryFormation, MajorCivOnly)
 SELECT UnitType, 0, 20, NULL, 0, 1, 0, 1, 0 FROM Units WHERE UnitType = 'UNIT_DLV_MEDIEVAL_HORSEMAN';
-
-INSERT INTO Units_XP2 (UnitType, ResourceMaintenanceAmount, ResourceCost, ResourceMaintenanceType, TourismBomb, CanEarnExperience, TourismBombPossible, CanFormMilitaryFormation, MajorCivOnly)
-VALUES ('UNIT_DLV_RIFLEMAN', 0, 20, NULL, 0, 1, 0, 1, 0);
 
 INSERT INTO Units_XP2 (UnitType, ResourceMaintenanceAmount, ResourceCost, ResourceMaintenanceType, TourismBomb, CanEarnExperience, TourismBombPossible, CanFormMilitaryFormation, MajorCivOnly)
 VALUES ('UNIT_DLV_LONGSWORDSMAN', 0, 20, NULL, 0, 1, 0, 1, 0);
