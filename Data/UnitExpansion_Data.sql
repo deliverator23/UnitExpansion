@@ -36,7 +36,7 @@ SELECT 'UNIT_DLV_EXPLORER', '3', '120', 'ADVISOR_GENERIC', '2', 1, 'DOMAIN_LAND'
 WHERE NOT EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_SKIRMISHER');
 
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PurchaseYield, PromotionClass, Maintenance, Combat, StrategicResource, PrereqTech, MandatoryObsoleteTech)
-VALUES ('UNIT_DLV_RIFLEMAN', '2', '310', 'ADVISOR_CONQUEST', '2', 1, 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT', 'LOC_UNIT_RIFLEMAN_NAME', 'LOC_UNIT_RIFLEMAN_DESCRIPTION', 'YIELD_GOLD', 'PROMOTION_CLASS_MELEE', '4', '64', 'RESOURCE_NITER', 'TECH_RIFLING', 'TECH_SATELLITES');
+VALUES ('UNIT_DLV_RIFLEMAN', '2', '310', 'ADVISOR_CONQUEST', '2', 1, 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT', 'LOC_UNIT_RIFLEMAN_NAME', 'LOC_UNIT_RIFLEMAN_DESCRIPTION', 'YIELD_GOLD', 'PROMOTION_CLASS_MELEE', '5', '64', 'RESOURCE_NITER', 'TECH_RIFLING', 'TECH_SATELLITES');
 
 INSERT INTO Units_XP2 (UnitType, ResourceMaintenanceAmount, ResourceCost, ResourceMaintenanceType, TourismBomb, CanEarnExperience, TourismBombPossible, CanFormMilitaryFormation, MajorCivOnly)
 SELECT 'UNIT_DLV_RIFLEMAN', ResourceMaintenanceAmount, ResourceCost, ResourceMaintenanceType, TourismBomb, CanEarnExperience, TourismBombPossible, CanFormMilitaryFormation, MajorCivOnly
