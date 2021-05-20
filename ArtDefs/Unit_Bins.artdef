@@ -1983,7 +1983,7 @@
 														</m_Values>
 													</m_Fields>
 													<m_ChildCollections/>
-													<m_Name text="Trebuchet"/>
+													<m_Name text="DLV_Trebuchet"/>
 													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 												</Element>
 											</Element>
@@ -1993,7 +1993,7 @@
 									</Element>
 								</Element>
 							</m_ChildCollections>
-							<m_Name text="Trebuchet"/>
+							<m_Name text="DLV_Trebuchet"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 						<Element>

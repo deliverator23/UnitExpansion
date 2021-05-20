@@ -684,7 +684,7 @@
                                         <m_ParamName text="Count"/>
                                     </Element>
                                     <Element class="AssetObjects:ArtDefReferenceValue">
-                                        <m_ElementName text="UnitMember_Trebuchet"/>
+                                        <m_ElementName text="UnitMember_DLV_Trebuchet"/>
                                         <m_RootCollectionName text="UnitMemberTypes"/>
                                         <m_ArtDefPath text="Units.artdef"/>
                                         <m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -15044,7 +15044,7 @@
                                                                     <m_Values/>
                                                                 </m_Fields>
                                                                 <m_ChildCollections/>
-                                                                <m_Name text="Vehicles/Trebuchet"/>
+                                                                <m_Name text="Vehicles/DLV_Trebuchet"/>
                                                                 <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
                                                             </Element>
                                                         </Element>
@@ -15332,7 +15332,7 @@
                         </Element>
                     </Element>
                 </m_ChildCollections>
-                <m_Name text="UnitMember_Trebuchet"/>
+                <m_Name text="UnitMember_DLV_Trebuchet"/>
                 <m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
             </Element>
             <Element>
